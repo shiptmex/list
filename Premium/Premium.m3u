@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1, [COLOR Blue] 31/03/2015 IPTVXBMC.com[/COLOR] 
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]-------------- USA --------------[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --FORUMS OPEN IPTVXBMC.COM 4-7-2015 COME VISIT US--[/COLOR]  
+#EXTINF:-1, [COLOR red] --New Links IPTVXBMC.COM EXPERIENCE-[/COLOR]
+http://www.xbmcmxtv.com
 
 #EXTINF:-1, Canal +
 rtmp://188.165.210.103/live?token=athKMHB4yr7iQGnTzi7J2AExpired=1428280428 playpath=plus1 swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?channel=plus1&w=650&h=400 live=true
