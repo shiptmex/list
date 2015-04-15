@@ -1,7 +1,33 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]-------------- USA --------------[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR blue][I][B]--Infantiles--[/B][/I][/COLOR]
 http://www.google.com
+#EXTINF:-1 tvg-logo="disney jr.png",Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="nick jr.png",Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="nicktoons.png",NickToons
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="nick hd.png",Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="cartoon network.png",Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="disney xd.png",Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="boomerang.png",Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?
+#EXTINF:-1 tvg-logo="tiin.png",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?
+#EXTINF:0,Baby TV
+http://79.159.196.103:4022/udp/239.0.0.113:8208
+#EXTINF:-1 tvg-id="Total_CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.png" group-title="Español",CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?
+
 #EXTINF:-1, [COLOR green] --FORUMS OPEN IPTVXBMC.COM 4-7-2015 COME VISIT US--[/COLOR]  
 http://www.google.com
 #EXTINF:-1, [COLOR red] --New Links IPTVXBMC.COM EXPERIENCE-[/COLOR]
