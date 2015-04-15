@@ -27,6 +27,8 @@ http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?
 http://79.159.196.103:4022/udp/239.0.0.113:8208
 #EXTINF:-1 tvg-id="Total_CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.png" group-title="Español",CBeebies
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?
+#EXTINF:-1 "Dibujos",BABY TV HD
+http://ilg.club/streamlink.m3u8?
 
 #EXTINF:-1, [COLOR green] --FORUMS OPEN IPTVXBMC.COM 4-7-2015 COME VISIT US--[/COLOR]  
 http://www.google.com
