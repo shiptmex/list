@@ -5,6 +5,8 @@ http://www.google.com
 #EXTINF:-1 tvg-logo="disney jr.png" group-title="Infantiles",Disney Jr
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
 
+#EXTINF:-1 group-title="Infantiles",Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="nick jr.png" group-title="Infantiles",Nick Jr
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="disney channel.png" group-title="Infantiles",Disney Channel
@@ -27,8 +29,7 @@ http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?
 #EXTINF:-1 tvg-logo="cbeebies.png" group-title="Infantiles",CBeebies
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?
-#EXTINF:-1 tvg-logo="babytv.png" group-title="Infantiles",BABY TV HD
-http://ilg.club/streamlink.m3u8?
+
 
 #EXTINF:-1, [COLOR green] --Deportes--[/COLOR]  
 http://www.google.com
