@@ -1,32 +1,32 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--Infantiles--[/B][/I][/COLOR]
+#EXTINF:-1 group-title="Infantiles",[COLOR blue][I][B]--Infantiles--[/B][/I][/COLOR]
 http://www.google.com
 
-#EXTINF:-1 tvg-logo="disney jr.png",Disney Jr
+#EXTINF:-1 tvg-logo="disney jr.png" group-title="Infantiles",Disney Jr
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
-#EXTINF:-1 tvg-logo="nick jr.png",Nick Jr
+#EXTINF:-1 tvg-logo="nick jr.png" group-title="Infantiles",Nick Jr
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
-#EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
+#EXTINF:-1 tvg-logo="disney channel.png" group-title="Infantiles",Disney Channel
 http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?
-#EXTINF:-1 tvg-logo="nicktoons.png",NickToons
+#EXTINF:-1 tvg-logo="nicktoons.png" group-title="Infantiles",NickToons
 http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?
-#EXTINF:-1 tvg-logo="nick hd.png",Nick HD
+#EXTINF:-1 tvg-logo="nick hd.png" group-title="Infantiles",Nick HD
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
-#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
+#EXTINF:-1 tvg-logo="nickelodeon.png" group-title="Infantiles",Nickelodeon
 http://200.76.77.237/LIVE/H01/CANAL317/PROFILE05.m3u8?
-#EXTINF:-1 tvg-logo="cartoon network.png",Cartoon Network
+#EXTINF:-1 tvg-logo="cartoon network.png" group-title="Infantiles",Cartoon Network
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE05.m3u8?
-#EXTINF:-1 tvg-logo="disney xd.png",Disney XD
+#EXTINF:-1 tvg-logo="disney xd.png" group-title="Infantiles",Disney XD
 http://200.76.77.237/LIVE/H01/CANAL322/PROFILE05.m3u8?
-#EXTINF:-1 tvg-logo="boomerang.png",Boomerang
+#EXTINF:-1 tvg-logo="boomerang.png" group-title="Infantiles",Boomerang
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE05.m3u8?
-#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
+#EXTINF:-1 tvg-logo="tooncast.png" group-title="Infantiles",Tooncast
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?
-#EXTINF:-1 tvg-logo="tiin.png",TIIN
+#EXTINF:-1 tvg-logo="tiin.png" group-title="Infantiles",TIIN
 http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?
-#EXTINF:-1 tvg-id="Total_CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.png" group-title="Español",CBeebies
+#EXTINF:-1 tvg-logo="cbeebies.png"  group-title="Infantiles",CBeebies
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?
-#EXTINF:-1 "Dibujos",BABY TV HD
+#EXTINF:-1 tvg-logo="babytv.png" group-title="Infantiles",BABY TV HD
 http://ilg.club/streamlink.m3u8?
 
 #EXTINF:-1, [COLOR green] --Deportes--[/COLOR]  
