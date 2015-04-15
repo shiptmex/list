@@ -31,7 +31,7 @@ http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?
 
 
-#EXTINF:-1, [COLOR green] --Deportes--[/COLOR]  
+#EXTINF:-1 group-title="Deportes", [COLOR green] --Deportes--[/COLOR]  
 http://www.google.com
 #EXTINF:-1 tvg-logo="fox sports hd.png,Fox Sports
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
