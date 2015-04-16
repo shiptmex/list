@@ -515,23 +515,15 @@ mmsh://difusion.cantv.net/vhost-covetel_live
 #EXTINF:-1 group-title="Adultos", [COLOR blue] --Adultos--[/COLOR]  
 http://www.google.com
 
-#EXTINF:-1 group-title="Adultos",ADULTCHANNEL
-http://83.139.104.113/Content/HLS/Live/Channel(ADULT_CHANNEL)/Stream(03)/index.m3u8
-#EXTINF:-1,BELLA
+#EXTINF:-1 group-title="Adultos",BELLA
 http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr647k.m3u8
 #EXTINF:-1,BRAZZERS
 http://83.139.104.113/Content/HLS/Live/Channel(BRAZZERS_TV)/Stream(03)/index.m3u8
-#EXTINF:-1,CENTOxCENTO
-http://cdn-02.sdn.si/priveetv/priveetv.isml/priveetv-video=2500000-audio101=128000.m3u8
-#EXTINF:-1,DORCEL
-http://83.139.104.113/Content/HLS/Live/Channel(DORCEL_TV)/Stream(03)/index.m3u8
-#EXTINF:-1,EROXXX
-http://cdn-02.sdn.si/eroxxxhd/eroxxxhd.isml/eroxxxhd-video=2500000-audio101=128000.m3u8
 #EXTINF:-1,HUSTLER
 http://cdn-02.sdn.si/hustler/hustler.isml/hustler-video=1500000-audio101=128000.m3u8 
 #EXTINF:-1,PLAYBOY
 http://83.139.104.113/Content/HLS/Live/Channel(playboy_TV)/Stream(03)/index.m3u8
-#EXTINF:-1,POWERGIRLSTV
+#EXTINF:-1,POWERGIRLS TV
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
 #EXTINF:-1,SUPER ONE HD
 http://cdn-02.sdn.si/superone/superone.isml/superone-video=2500000-audio101=128000.m3u8
