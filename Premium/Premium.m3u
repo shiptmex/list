@@ -190,8 +190,18 @@ http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
 #EXTINF:-1,Cinemax
 http://200.76.77.237/LIVE/H01/CANAL481/PROFILE05.m3u8?
-#EXTINF:-1,Cinemax HD
-http://123.29.75.137/cinemax_hd1.m3u8
+#EXTINF:-1,CINEMA MAX HD 
+http://tv.futubox.com:1935/live/z050206.stream/playlist.m3u8
+#EXTINF:-1,PENTHAUS 2
+http://tv.futubox.com:1935/live/z990104.stream/playlist.m3u8
+#EXTINF:-1,RAI I HD
+http://tv.futubox.com:1935/live/z050214.stream/playlist.m3u8
+#EXTINF:-1,RAI II HD
+http://tv.futubox.com:1935/live/z050215.stream/playlist.m3u8
+#EXTINF:-1,CINEMAX
+http://tv.futubox.com:1935/live/z050221.stream/playlist.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://tv.futubox.com:1935/live/z010401.stream/playlist.m3u8
 #EXTINF:-1,Comedy Central
 http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
 #EXTINF:-1,Distrito Comedia
@@ -234,10 +244,10 @@ http://200.76.77.237/LIVE/H01/CANAL484/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
 #EXTINF:-1,Hbo HD
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8?
-#EXTINF:-1,Hbo
-http://123.29.75.133/hbo_hd1.m3u8?
-#EXTINF:-1,Hbo HD
-http://113.160.49.34/lives/origin01/bts-hbohd.isml/bts-hbohd.m3u8?
+#EXTINF:-1,HBO HD
+http://tv.futubox.com:1935/live/z010402.stream/playlist.m3u8
+#EXTINF:-1,HBO 2 HD
+http://tv.futubox.com:1935/live/z010701.stream/playlist.m3u8
 #EXTINF:-1,I.Sat
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE05.m3u8?
 #EXTINF:-1,Sony HD
@@ -255,7 +265,7 @@ http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
 #EXTINF:-1,TCM
 http://200.76.77.237/LIVE/H01/CANAL496/PROFILE05.m3u8?
 #EXTINF:-1,Telemundo
-rtmp://$OPT:rtmp-raw=rtmp://edge1.video.vaughnsoft.net:443/live playpath=live_telemar2 swfUrl=http://vaughnlive.tv/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/telemar2 timeout=10 token=balls2u
+http://205.204.75.154/dhwet34GDfhkf234f5fsdh2gdthkjsdsdhjuer56eq1/101.m3u8
 #EXTINF:-1,The Film Zone HD
 http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
 #EXTINF:-1,TLC
