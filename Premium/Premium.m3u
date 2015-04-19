@@ -231,13 +231,7 @@ http://200.76.77.237/LIVE/H01/CANAL484/PROFILE05.m3u8?
 #EXTINF:-1,Golden HD
 http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
 #‎EXTINF‬:-1,HBO HD
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-#‎EXTINF‬:-1,HBO 2
-rtmp://109.200.202.124/live/hbo2
-#‎EXTINF‬:-1,HBO Plus
-rtmp://109.200.202.124/live/hboplus
-#‎EXTINF‬:-1,HBO Family
-rtmp://109.200.202.124/live/hbofamily 
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8?
 #EXTINF:-1,I.Sat
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE05.m3u8?
 #EXTINF:-1,Sony HD
