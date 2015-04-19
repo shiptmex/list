@@ -184,12 +184,6 @@ http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
 #EXTINF:-1,Casa Club
 http://200.76.77.237/LIVE/H01/CANAL274/PROFILE05.m3u8?
-#EXTINF:0,CBS REALITY
-http://93.184.221.133/00573D/713/713-0.m3u8
-#EXTINF:0,CBS DRAMA
-http://93.184.221.133/00573D/712/712-0.m3u8
-#EXTINF:0,CBS ACTION
-http://93.184.221.133/00573D/711/711-0.m3u8
 #EXTINF:-1,Cinecanal
 http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?
 #EXTINF:-1,Cinecanal HD
@@ -244,6 +238,8 @@ http://tv.futubox.com:1935/live/z010402.stream/playlist.m3u8
 http://tv.futubox.com:1935/live/z010701.stream/playlist.m3u8
 #EXTINF:-1,I.Sat
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE05.m3u8?
+#EXTINF:-1,Paramount 
+http://se-2.se.paramount-hls.live.numericable.tv/live/hls/paramount/ipad.m3u8 
 #EXTINF:-1,Sony HD
 http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
 #EXTINF:-1,Space
