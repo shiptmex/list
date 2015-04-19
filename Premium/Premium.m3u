@@ -512,6 +512,38 @@ mmsh://difusion.cantv.net/vhost-covetel_live
 
 
 
+#EXTINF:-1 group-title="Espirituales", [COLOR blue] --Espirituales--[/COLOR]  
+http://www.google.com
+#EXTINF:1679,EWTN El Canal Catolico
+http://ewtvlive5-live.hls.adaptive.level3.net/manifests/ewtvlive5-live/live.m3u8
+#EXTINF:1679,Maria Vision
+rtsp://74.63.97.188:1935/mariavision1/videomariavision1/
+#EXTINF:1679,ESNE TV El Sembrador
+http://198.154.228.82:1935/live/esnetv/playlist.m3u8
+#EXTINF:1679,Radio Peregrinos del Amor
+http://stream1.servercristianonetwork.com:8006
+#EXTINF:1679,DIMI Radio
+http://stream1.servercristianonetwork.com:8164
+#EXTINF:1679,Radio Vaticana
+http://www.vaticanradio-us.org/webcasting/ispanoamerica_1_1.mp3
+#EXTINF:1679,Guadalupe Radio
+http://208.80.53.110:32920
+#EXTINF:1679,Radio Maria Mexico
+http://50.7.98.234:9996/;*.nsv
+#EXTINF:1679,Radio Maria El Salvador
+http://50.7.181.186:8098/
+#EXTINF:1679,ESNE Radio
+http://216.69.177.82:8090/
+#EXTINF:1679,Radio SEPA
+http://stream1.servercristianonetwork.com:8002
+#EXTINF:1679,Radio Catolica Mundial
+http://http.yourmuze.com/ewtn-sp/mp3-64-m.mp3
+#EXTINF:1679,Radio Fe y Caridad
+http://s2.voscast.com:7712
+
+
+
+
 #EXTINF:-1 group-title="Adultos", [COLOR blue] --Adultos--[/COLOR]  
 http://www.google.com
 
