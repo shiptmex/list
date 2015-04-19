@@ -122,6 +122,8 @@ http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8
 http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
 #EXTINF:-1, TVCDeportes
 http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
+#EXTINF:-1,UFC
+http://198.179.31.196/live/713.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe3c997e455f96b8e7729a1794dce2d70e4842e5a9f1b3bb592a9ccf204a8a8d2676894fa30263c99a3c62e3bf603a68b8799be9c19fbb318e375b4fce0e894316a9281df6b222ccf4343d07664dc1f499eeddf07892a9e4b57217f9cc29699777473e1a06986249db79a686cff327b32498478813a86ac114455267bd202e510814a1ac233e5b1b35ebc98687354c4e66
 #EXTINF:-1,USA - PAC-12 Net. (Bay Area) HD 1080
 http://xrxs.net/video/live-p12baya-4728.m3u8
 #EXTINF:-1,USA - PAC-12 Net. (Los Angeles) HD 1080
@@ -514,16 +516,10 @@ mmsh://difusion.cantv.net/vhost-covetel_live
 
 #EXTINF:-1 group-title="Espirituales", [COLOR blue] --Espirituales--[/COLOR]  
 http://www.google.com
-#EXTINF:1679,EWTN El Canal Catolico
-http://ewtvlive5-live.hls.adaptive.level3.net/manifests/ewtvlive5-live/live.m3u8
-#EXTINF:1679,Maria Vision
+#EXTINF:1679 group-title="Espirituales",Maria Vision
 rtsp://74.63.97.188:1935/mariavision1/videomariavision1/
 #EXTINF:1679,ESNE TV El Sembrador
 http://198.154.228.82:1935/live/esnetv/playlist.m3u8
-#EXTINF:1679,Radio Peregrinos del Amor
-http://stream1.servercristianonetwork.com:8006
-#EXTINF:1679,DIMI Radio
-http://stream1.servercristianonetwork.com:8164
 #EXTINF:1679,Radio Vaticana
 http://www.vaticanradio-us.org/webcasting/ispanoamerica_1_1.mp3
 #EXTINF:1679,Guadalupe Radio
@@ -532,14 +528,10 @@ http://208.80.53.110:32920
 http://50.7.98.234:9996/;*.nsv
 #EXTINF:1679,Radio Maria El Salvador
 http://50.7.181.186:8098/
-#EXTINF:1679,ESNE Radio
-http://216.69.177.82:8090/
 #EXTINF:1679,Radio SEPA
 http://stream1.servercristianonetwork.com:8002
 #EXTINF:1679,Radio Catolica Mundial
 http://http.yourmuze.com/ewtn-sp/mp3-64-m.mp3
-#EXTINF:1679,Radio Fe y Caridad
-http://s2.voscast.com:7712
 
 
 
