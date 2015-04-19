@@ -122,8 +122,6 @@ http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8
 http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
 #EXTINF:-1, TVCDeportes
 http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
-#EXTINF:-1,UFC
-http://live77.la3.edge.filmon.com/live/713.low.stream/playlist.m3u8?
 #EXTINF:-1,USA - PAC-12 Net. (Bay Area) HD 1080
 http://xrxs.net/video/live-p12baya-4728.m3u8
 #EXTINF:-1,USA - PAC-12 Net. (Los Angeles) HD 1080
@@ -132,10 +130,7 @@ http://xrxs.net/video/live-p12losa-4728.m3u8
 http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1,WWE Network
 rtmp://94.102.49.126:443/liverepeater/wwee pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=49?32?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
-#EXTINF:-1,DEPORTES:UNIVISION/TDN DEPORTES
-rtmp://$OPT:rtmp-raw=rtmp://184.75.214.114/edge/univision09/univision09 playpath=univision09
-#EXTINF:-1,TELEMUNDO
-http://sjc-uhls-proxy110.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=13626003&stream=live_3&connectionId=oldurl-79c020ab0f8f98b3edd9aa58b2eada93254a46c2&group=iphone
+
 
 
 #EXTINF:-1 group-title="Noticias",[COLOR blue][I][B]--Noticias--[/B][/I][/COLOR]
@@ -329,8 +324,6 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
 #EXTINF:-1,VH1 Classics
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?
-#EXTINF:-1,Video Rola
-http://encoder.megared.net.mx:8080/stream.flv
 
 
 
@@ -408,10 +401,12 @@ http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 #EXTINF:-1,TeleFormula
 http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+#EXTINF:-1,Telemundo
+http://sjc-uhls-proxy110.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=13626003&stream=live_3&connectionId=oldurl-79c020ab0f8f98b3edd9aa58b2eada93254a46c2&group=iphone
+#EXTINF:-1,Telemundo 2
+http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
 #EXTINF:-1,Tlnovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
-#EXTINF:-1,Univision
-http://187.247.255.139/Apple/TDNHD600.m3u8
 #EXTINF:-1,VMas+ TV 
 http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
 
@@ -566,4 +561,30 @@ http://83.139.104.113/Content/HLS/Live/Channel(playboy_TV)/Stream(03)/index.m3u8
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
 #EXTINF:-1,SUPER ONE HD
 http://cdn-02.sdn.si/superone/superone.isml/superone-video=2500000-audio101=128000.m3u8
+
+#EXTINF:-1,Adult Channel
+http://83.139.104.98/Content/HLS/Live/Channel(ADULT_CHANNEL)/Stream(03)/index.m3u8
+#EXTINF:-1,Brazzers TV
+http://cdn-02.sdn.si/brazzerstv/brazzerstv.isml/brazzerstv-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,Dorcel TV
+http://cdn-02.sdn.si/dorcel/dorcel.isml/dorcel-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,Dorcel HD
+http://cdn-02.sdn.si/dorcelhd/dorcelhd.isml/dorcelhd-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,Eroxxx HD
+http://213.250.19.50/eroxxxhd/eroxxxhd.isml/eroxxxhd-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,Erox HD
+http://cdn-02.sdn.si/eroxhd/eroxhd.isml/eroxhd-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,French Lover
+http://cdn-02.sdn.si/frenchlovertv/frenchlovertv.isml/frenchlovertv-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,Hustler TV
+http://cdn-02.sdn.si/hustler/hustler.isml/hustler-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,Hustler HD
+http://cdn-02.sdn.si/hustlerhd/hustlerhd.isml/hustlerhd-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,Playboy
+http://cdn-02.sdn.si/playboy/playboy.isml/playboy-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,SCT Satisfaction
+http://213.250.19.50/sct/sct.isml/sct-video=2500000-audio101=128000.m3u8
+#EXTINF:-1,SuperOne HD
+http://cdn-02.sdn.si/superone/superone.isml/superone-video=2500000-audio101=128000.m3u8
+
  
