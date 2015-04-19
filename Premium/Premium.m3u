@@ -190,18 +190,6 @@ http://200.76.77.237/LIVE/H01/CANAL480/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
 #EXTINF:-1,Cinemax
 http://200.76.77.237/LIVE/H01/CANAL481/PROFILE05.m3u8?
-#EXTINF:-1,CINEMA MAX HD 
-http://tv.futubox.com:1935/live/z050206.stream/playlist.m3u8
-#EXTINF:-1,PENTHAUS 2
-http://tv.futubox.com:1935/live/z990104.stream/playlist.m3u8
-#EXTINF:-1,RAI I HD
-http://tv.futubox.com:1935/live/z050214.stream/playlist.m3u8
-#EXTINF:-1,RAI II HD
-http://tv.futubox.com:1935/live/z050215.stream/playlist.m3u8
-#EXTINF:-1,CINEMAX
-http://tv.futubox.com:1935/live/z050221.stream/playlist.m3u8
-#EXTINF:-1,CINEMAX 2 HD
-http://tv.futubox.com:1935/live/z010401.stream/playlist.m3u8
 #EXTINF:-1,Comedy Central
 http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
 #EXTINF:-1,Distrito Comedia
@@ -264,8 +252,6 @@ http://200.76.77.237/LIVE/H01/CANAL257/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
 #EXTINF:-1,TCM
 http://200.76.77.237/LIVE/H01/CANAL496/PROFILE05.m3u8?
-#EXTINF:-1,Telemundo
-http://205.204.75.154/dhwet34GDfhkf234f5fsdh2gdthkjsdsdhjuer56eq1/101.m3u8
 #EXTINF:-1,The Film Zone HD
 http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
 #EXTINF:-1,TLC
@@ -338,6 +324,8 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
 #EXTINF:-1,VH1 Classics
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE05.m3u8?
+#EXTINF:-1,Video Rola
+http://encoder.megared.net.mx:8080/stream.flv
 
 
 
@@ -417,6 +405,8 @@ rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
 #EXTINF:-1,Tlnovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+#EXTINF:-1,Univision
+http://187.247.255.139/Apple/TDNHD600.m3u8
 #EXTINF:-1,VMas+ TV 
 http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_index.m3u8
 
