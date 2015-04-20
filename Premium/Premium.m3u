@@ -85,17 +85,17 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 #EXTINF:-1,Saudi Arabia Sport
 http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8
 #EXTINF:-1,sky SPORTS F1
-http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8
+rtmpe://46.246.124.22:1935/l playpath=sskysf1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/ live=true
 #EXTINF:-1,sky SPORTS 1
-http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8
+rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys1&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys1 live=true
 #EXTINF:-1,sky SPORTS 2
-http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8
+rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2 live=true
 #EXTINF:-1,sky SPORTS 3
-http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8
+rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys3&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys3 live=true
 #EXTINF:-1,sky SPORTS 4
 rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys4&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys4 live=true
 #EXTINF:-1,sky SPORTS 5
-http://192.99.24.176:8080/skY5/skoK5/index.m3u8
+rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys5&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys5 live=true
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 #EXTINF:-1,SPORT TIME 1 HD
