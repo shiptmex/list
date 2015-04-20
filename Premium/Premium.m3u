@@ -292,7 +292,7 @@ http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m
 #EXTINF:-1,MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE05.m3u8?
 #EXTINF:-1,MTV Dance
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+http://92.50.181.6/tv/1280/index.m3u8?
 #EXTINF:-1,MTV Hits
 http://200.76.77.237/LIVE/H01/CANAL727/PROFILE05.m3u8?
 #EXTINF:-1,MTV Hits 2
