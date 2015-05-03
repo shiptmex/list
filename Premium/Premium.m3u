@@ -1,15 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BOX",[COLOR blue][I][B]--Mayweather vs Pacquiao--[/B][/I][/COLOR]
-http://www.google.com
-
-#EXTINF:-1 group-title="BOX",Box Nation
-http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
-#EXTINF:-1,Golden
-http://edge.hls.dt.hitbox.tv/hls/gunino5/index.m3u8
-#EXTINF:-1,TVP
-http://167.114.159.159:1935/app/avision23s-channel/playlist.m3u8
-
 #EXTINF:-1 group-title="Infantiles",[COLOR blue][I][B]--Infantiles--[/B][/I][/COLOR]
 http://www.google.com
 
