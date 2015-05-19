@@ -227,6 +227,10 @@ http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL484/PROFILE05.m3u8?
 #EXTINF:-1,Golden HD
 http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1,GOLDEN HD HD720
+http://200.38.126.38:8081/TPHLSWeb/M...ows=40&f=.m3u8 
+#EXTINF:-1,GOLDEN EDGE HD720
+http://200.38.126.38:8081/TPHLSWeb/M...ows=40&f=.m3u8 
 #EXTINF:-1,Hbo HD
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8?
 #EXTINF:-1,HBO HD
@@ -390,6 +394,8 @@ http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
 http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8
 #EXTINF:-1,Multimedios Monterrey
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?
+#EXTINF:-1,Multimedios
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?file=ChelTV_m3u8
 #EXTINF:-1,Ocho Tv
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,Once TV
