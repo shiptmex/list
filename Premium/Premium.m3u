@@ -395,7 +395,7 @@ http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8
 #EXTINF:-1,Multimedios Monterrey
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?
 #EXTINF:-1,Multimedios Torreon
-rtmp://$OPT:rtmp-raw=rtmp://stream-23.vty.dailymotion.com:1935/live-dm?auth=1389193852-f82eb68950857174507ce7ee8aa34523 playpath=xqjey2_sd?auth=1389193852-f82eb68950857174507ce7ee8aa34523 swfUrl=http://www.dailymotion.com/…/dmplayer-prod-compressed.swf.v… live=1 pageUrl=http://www.dailymotion.com/embed/video/xzy186
+http://www.dailymotion.com/video/xzy186_multimedios-laguna_shortfilms?start=403
 #EXTINF:-1,Ocho Tv
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:-1,Once TV
