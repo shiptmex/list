@@ -554,13 +554,23 @@ http://www.google.com
 
 #EXTINF:-1 group-title="Adultos",BELLA
 http://46.249.213.87/iPhone/broadcast/bellaluz-tablet.3gp/bellaluz-tablet.3gp-mr647k.m3u8
+#EXTINF:-1 group-title="Adultos",BLUE HUSTLER
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
 #EXTINF:-1,Brasileirinhas
 http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist_w219953667.m3u8
+#EXTINF:-1, Brazzerstv
+http://185.18.21.207:4022/udp/234.5.2.248:1234
+#EXTINF:-1, OLALA
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1, Penthouse HD
+http://109.160.90.1:5555/udp/239.100.2.8:1234
 #EXTINF:-1,PLAYBOY
-http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+http://37.59.45.208:1234/live/clikmega/@gmail.com/102.ts
 #EXTINF:-1,POWERGIRLS TV
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:0,XXX PRIVATE
-http://78.108.255.7:12349/udp/239.1.1.252:4000
+#EXTINF-1,PRIVATE
+http://185.38.12.19:8090/ch-322/index.m3u8
+#EXTINF:-1, Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8
 
  
