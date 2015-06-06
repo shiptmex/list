@@ -1,7 +1,270 @@
 #EXTM3U
 
 #EXTINF:-1,[COLOR red][I][B]--Falla Temporal de Servidor--[/B][/I][/COLOR]
+http://www.google.com
 #EXTINF:-1,[COLOR red][I][B]--Trabajando en Corregirlo--[/B][/I][/COLOR]
+http://www.google.com
+
+#EXTINF:-1 group-title="Temporales",[COLOR blue][I][B]--Temporales--[/B][/I][/COLOR]
+http://www.google.com
+
+#EXTINF:-1,chihuahua
+rtmp://web.xnet.mx/xnetn playpath=canal282 swfUrl=http://www.canal28.tv/images/fotos/jw/jw-player-5.10.swf live=1 pageUrl=http://www.canal28.tv/
+
+#EXTINF:-1,hk:sulavision
+http://162.212.176.83:8080/sulavision.m3u8
+
+#EXTINF:-1,Canal 6 Argentina
+http://200.70.58.102:8080/?MSWMExt=online-television.net.asf
+
+#EXTINF:-1,SI TV
+rtmp://hd.worldkast.com:1935/8436/ playpath=8436 swfUrl=http://static2.sawlive.tv/player.swf? live=1 pageUrl=http://www.lempiratv.com/si-tv.html
+
+#EXTINF:-1,Canal 2 Misiones Argentina
+http://190.57.237.214/live/canal.m3u8?
+
+#EXTINF:-1,Hip Hop Channel
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
+
+#EXTINF:-1,Teledunamis
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?
+
+#EXTINF:-1,Naranja Tv
+http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/chunklist_w1563927943.m3u8?
+
+#EXTINF:-1, Canal 20
+http://iphone-streaming.ustream.tv/uhls/13425182/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1,ITV Patagonia
+http://movilstream.digitalproserver.com/itv/itvvivo/itv.smil/chunklist-b1500000.m3u8?
+
+#EXTINF:-1,Megavision
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,Ecuavisa
+rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
+
+
+#EXTINF:-1, UNO TV
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8?
+
+
+#EXTINF:-1, SIPSE/Gala Tv Cancun
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
+
+
+#EXTINF:-1,RCG Saltillo
+rtmp://wowzacontrol.com:1936/stream34/ playpath=stream34 swfUrl=http://www.wowzacontrol.com/system/misc/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://rcg.com.mx/envivo/
+
+
+#EXTINF:-1,Canal 5 Sabinas
+rtmp://video.gvstream.net:1935/e-tv-video playpath=default.stream
+
+#EXTINF:-1, Canal 13 Argentina
+http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1,Tv Granada
+http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
+
+#EXTINF:-1,Canal 4 Monclova
+rtmp://198.57.165.85:1935/live playpath=canal4m swfUrl=http://www.todostreaming.es/player.swf live=1 pageUrl=http://www.nrtmexico.mx/canal4/
+
+#EXTINF:-1,Canal 10 Cancun
+http://www.promovision.mx:1935/live/tvlive2/playlist.m3u8?
+
+#EXTINF:-1,Canal 7 SLP
+rtmp://187.188.159.113/live/ playpath=web.sdp
+
+swfUrl=http://canal7slp.com/wp-content/themes/canal7slp/js/jwplayer/jwplayer.flash.swf pageUrl=http://canal7slp.com/
+
+#EXTINF:0,Capital 21 TV DF
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+
+#EXTINF:-1,Canal 44 Chihuahua
+http://odna.octoshape.net/p9b7g9i7/cds/smil:canal44/playlist.m3u8
+
+#EXTINF:-1,Mexico –Alcance Tv Agua Prieta Sonora
+rtmp://159.16.243.10/live/canal4/canal4
+
+
+#EXTINF:-1,Puebla Tv
+rtmp://189.203.247.136:1935/live/ playpath=pueblatv swfUrl=http://releases.flowplayer.org/5.5.2/flowplayer.swf live=1 pageUrl=http://www.puebla.mx/sw/tvenvivo/pueblatv.html
+
+
+
+#EXTINF:-1,Tv Yohala (Iguala)
+rtmp://wms.tecnoxia.com:80/8162/ playpath=8162 swfUrl=http://webinar.tecnoxia.com/tecnoxia/streampanel/jwplayer/player.swf live=1 pageUrl=http://webinar.tecnoxia.com/player.php?p=8162&w=480&h=360
+
+
+#EXTINF:-1 group-title=\"LATAM\",TELEMAR CAMPECHE MEXICO
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+
+#EXTINF:-1,RADIO Y TELEVISION MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:-1,Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+
+
+#EXTINF:-1,Info 7 Monterrey
+http://38.104.228.230:1938:1935/info7/info7_512/playlist.m3u8?
+
+
+#EXTINF:-1 group-title=\"LATAM\",CANAL 53 MEXICO LATAM
+mms://streaming.uanl.mx/canal53bandaancha/
+
+#EXTINF:-1, DW
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+
+#EXTINF:-1,Efecto Noticias
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+
+
+
+#EXTM3U $ExtFilter=\"RTMP\"
+#EXTINF:-1,HBO Mexico
+rtmp://$OPT:rtmp-raw=rtmp://50.7.28.146/app playpath=16997?
+MTQzMjkzOTk1MDs5Nzc0MzFiZTBjNzU2MDA3NTFhMWVjN2RkYTZmNDI4MQ== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59324d5459344e6a49324e445a6d4e7a4d3d/c32954d09874
+
+#EXTM3U $ExtFilter=\"RTMP\"
+#EXTINF:-1,DirecTV Sports Latino
+rtmp://$OPT:rtmp-raw=rtmp://178.162.202.6/live playpath=directv2019?id=227892 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/directv2019/1/600/385
+
+#EXTM3U $ExtFilter=\"RTMP\"
+#EXTINF:-1,Planeta Futbol Mexico
+rtmp://$OPT:rtmp-raw=rtmp://50.7.28.130/app playpath=17018?MTQzMjk0MTE2MDs3ZjA0Nzc0NzMwYmVmMmZiY2FmY2NhOGExMjRhNTA3Yw== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59334d445a6a4e6a45325a5459314e7a51324e673d3d/b7a8aaa3025c
+
+#EXTM3U $ExtFilter=\"RTMP\"
+#EXTINF:-1,TDN Mexico
+rtmp://$OPT:rtmp-raw=rtmp://50.7.28.234/app playpath=16982?MTQzMjk0MTI4OTthMmRjMmYwZDNiYzQwNzRlZDgyZjc5YzM3YzQzMTA2NQ== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59334e4459354e6a51324f5459314e6d553d/0c225b4eff97
+
+#EXTM3U $ExtFilter=\"RTMP\"
+#EXTINF:-1,MaxPrime Mexico
+rtmp://$OPT:rtmp-raw=rtmp://50.7.28.130/app playpath=16979?MTQzMjk0MTQ1ODs3NzE3MDA0Mzc5M2M2Y2IxMDM2ZTdjMTBjNmJjMDY1NA== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59325a4459784e7a67334d4463794e6a45324f545a6b4e6a553d/f0eaf05d0622
+
+#EXTM3U $ExtFilter=\"RTMP\"
+#EXTINF:-1,Paramount Chanel Latino
+rtmp://$OPT:rtmp-raw=rtmp://204.45.157.186/app playpath=16980?MTQzMjk0MTU2NTtiMzdhMGY1NjhiN2FjZGE0NTlmNmVmZjc1NmVjMTQyNQ== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59334d4459784e7a49324d545a6b4e6d51324e513d3d/41a4cf10ce2f
+
+#EXTINF:-1, Discovery Channel
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8
+
+#EXTINF:-1, ESPN 3 HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8
+
+#EXTINF:-1, ESPN HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPNHD1800.m3u8
+
+#EXTINF:-1, FOX Sports HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/FOXSPHD2500.m3u8
+
+#EXTINF:-1, GALA HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/GALAHD2500.m3u8
+
+#EXTINF:-1, History HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/HistoryHD2500.m3u8
+
+#EXTINF:-1, Nickelodeon HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD2500.m3u8
+
+#EXTINF:-1, TDNHD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TDNHD1200.m3u8
+
+#EXTINF:-1, Telehit HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD2500.m3u8
+
+#EXTINF:-1, TVC
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVC2500.m3u8
+
+#EXTINF:-1, TVC Deportes
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
+
+#EXTINF:-1, Universal Channel HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/UNIHD2500.m3u8
+
+#EXTINF:-1, Warner Channel HD
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD1000.m3u8
+
+#EXTINF:-1,Antena Latina Canal 7
+ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+ #EXTINF:-1,Peravia Vision Canal 8 Bani
+ http://ss7.domint.net:1966/pr_str/peravia/playlist.m3u8
+ #EXTINF:-1,Color Vision Canal 9
+ http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
+ #EXTINF:-1,Luna Vision Canal 10 Bonao
+ http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8
+ #EXTINF:-1,Telesistema Canal 11
+ http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
+ #EXTINF:-1,TV Higuey Canal 12
+ http://asx.domiplay.net:1935/rtplive/tvhiguey.sdp/playlist.m3u8
+ #EXTINF:-1,Telefuturo Canal 23
+ http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8
+ #EXTINF:-1,Canal 25 Santiago
+ http://ss7.domint.net:2074/tdtv_str/vision/playlist.m3u8
+ #EXTINF:-1,CDN Canal 37
+ http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+ #EXTINF:-1,Teleradio America Canal 45
+ http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
+ #EXTINF:-1,TNI Canal 51 Santiago
+ http://ss7.domint.net:2078/tni_str/canal51/playlist.m3u8
+ #EXTINF:-1,HSN
+ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+ #EXTINF:-1,TBN
+ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+ #EXTINF:-1,Enlace TV
+ http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+ #EXTINF:-1,Enlace Juvenil
+ http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+ #EXTINF:-1,Juce TV
+ http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+ #EXTINF:-1,Teleantillas Canal 2
+ http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8
+ #EXTINF:-1,Super TV 55 Santiago
+ http://ss7.domint.net:2022/stv_str/tv55/playlist.m3u8
+ #EXTINF:-1,TV Recuerdos Canal 56 Santo Domingo
+ http://media.az-streamingserver.com:1935/7248/7248/playlist.m3u8
+ #EXTINF:-1,Telecontacto Canal 57 Santiago
+ http://stream.prostudionetwork.com:1957/telecontacto/TC/playlist.m3u8
+ #EXTINF:-1,CDN Sports Max
+ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+ #EXTINF:-1,Telemundo
+ http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
+ 
+ #EXTINF:-1,TELEFE
+rtmp://podi.hopper.pw:443/live/live_beto_3
+#EXTINF:-1,CHESPIRITO
+rtmp://podi.hopper.pw:443/live/live_chespirito_mania
+#EXTINF:-1,MEGA KIDS
+rtmp://podi.hopper.pw:443/live/live_mega_kids
+#EXTINF:-1,CABALLEROS DEL ZODIACO
+rtmp://podi.hopper.pw:443/live/live_animetoontv
+#EXTINF:-1,MEGA SIMPSON
+rtmp://podi.hopper.pw:443/live/live_mega_simpson
+#EXTINF:-1,TELEMUNDO 29
+rtmp://podi.hopper.pw:443/live/live_telemundo29
+#EXTINF:-1,TELEMUNDO 34
+rtmp://podi.hopper.pw:443/live/live_telemundo34
+#EXTINF:-1,TELEMUNDO 35
+rtmp://podi.hopper.pw:443/live/live_telemundo35
+#EXTINF:-1,UNIVISION
+rtmp://podi.hopper.pw:443/live/live_univision_hd30
+#EXTINF:-1,UNIVISION 41 NY
+rtmp://podi.hopper.pw:443/live/live_univision41ny
+#EXTINF:-1,UNIVERSAL MOVIES
+rtmp://podi.hopper.pw:443/live/live_universal_movies
+#EXTINF:-1,TyCsports
+rtmp://podi.hopper.pw:443/live/live_afatv1
+#EXTINF:-1,UNIMAS
+rtmp://podi.hopper.pw:443/live/live_unimas12
+#EXTINF:-1,MEGA ANIME HD
+rtmp://podi.hopper.pw:443/live/live_mega_animeshd
+#EXTINF:-1,AMERICA TV
+rtmp://podi.hopper.pw:443/live/live_elyamato
+
+
+
+
+
 
 #EXTINF:-1 group-title="Infantiles",[COLOR blue][I][B]--Infantiles--[/B][/I][/COLOR]
 http://www.google.com
