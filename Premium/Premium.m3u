@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,[COLOR red][I][B]--Falla Temporal de Servidor--[/B][/I][/COLOR]
+#EXTINF:-1,[COLOR red][I][B]--Trabajando en Corregirlo--[/B][/I][/COLOR]
+
 #EXTINF:-1 group-title="Infantiles",[COLOR blue][I][B]--Infantiles--[/B][/I][/COLOR]
 http://www.google.com
 
