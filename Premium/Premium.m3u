@@ -4,7 +4,7 @@
 http://www.google.com
 
 #EXTINF:-1 group-title="Infantiles",Boomerang
-http://200.76.77.238/LIVE/H01/CANAL324/PROFILE05.m3u8?
+http://oneplay.tv/applicationlive/reproducir/261.m3u8
 #EXTINF:-1,Cartoon Network
 http://200.76.77.238/LIVE/H01/CANAL320/PROFILE05.m3u8?
 #EXTINF:-1,CBeebies
@@ -200,7 +200,7 @@ http://200.76.77.238/LIVE/H01/CANAL268/PROFILE03.m3u8?
 #EXTINF:-1,Fashion TV
 http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 #EXTINF:-1,Fox
-http://200.76.77.238/LIVE/H01/CANAL201/PROFILE03.m3u8?
+http://edge.ailetv.net/org1/foxtr_me/playlist.m3u8 
 #EXTINF:-1,Fox Action HD
 http://200.76.77.238/LIVE/H01/CANAL416/PROFILE03.m3u8?
 #EXTINF:-1,Fox Action Movies HD
@@ -334,9 +334,9 @@ http://200.76.77.238/LIVE/H01/CANAL728/PROFILE05.m3u8?
 http://www.google.com
 
 #EXTINF:-1 group-title="Ciencia y Tecnologia",Animal Planet HD
-http://200.76.77.238/LIVE/H01/CANAL373/PROFILE05.m3u8?
+http://78.30.254.43:8989/udp/239.0.0.129:4000
 #EXTINF:-1,Discovery Channel
-http://200.76.77.238/LIVE/H01/CANAL371/PROFILE05.m3u8?
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8? 
 #EXTINF:-1,Discovery Civilization
 http://200.76.77.238/LIVE/H01/CANAL382/PROFILE05.m3u8?
 #EXTINF:-1,DISCOVERY HD Teather
@@ -356,7 +356,7 @@ http://200.76.77.238/LIVE/H01/CANAL379/PROFILE05.m3u8?
 #EXTINF:-1,NatGeo
 http://200.76.77.238/LIVE/H01/CANAL377/PROFILE05.m3u8?
 #EXTINF:-1,NatGeo Wild HD
-http://200.76.77.238/LIVE/H01/CANAL355/PROFILE03.m3u8?
+http://78.30.254.43:8989/udp/239.0.0.51:4000 
 #EXTINF:-1,National Geographic
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8?b?b*t$
 #EXTINF:-1,WOBI TV
