@@ -1,5 +1,27 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Canales de Prueba",.: Canales de Prueba :.
+http://?
+
+#EXTINF:-1 tvg-name="Animal Planet",Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 tvg-name="TLC",TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 tvg-name="Travel Ch.",Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 tvg-name="Planet Green",Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 tvg-name="ID",ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 tvg-name="ESPN HD",ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-name="SHO HD",SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-name="Discovery Ch. HD",Discovery Ch. HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-name="Discovery Sc. HD",Discovery Sc. HD
+http://80.80.160.168/live/9/live.m3u8
+
 
 
 #EXTINF:-1 tvg-id="HBO2" tvg-logo="hbo2.png" group-title="Cine y Series",HBO 2 Latino
