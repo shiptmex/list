@@ -1,44 +1,112 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="updt" tvg-logo="upd.png",ACTUALIZADA el 07/05/2015 ** Mas info: facebook.com/iptvargentina
+
+#EXTINF:-1 group-title="Canales de USA",.: Canales de USA :.
 http://?
 
 
+#EXTINF:0,ABC 22 HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
 
-#EXTINF:-1 tvg-id="HBO2" tvg-logo="hbo2.png" group-title="Cine y Series",HBO2 Latino
-http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
+#EXTINF:0,AMC
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,beIN Sport (Spanish)
+http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
 
-#EXTINF:-1 tvg-id="Mega Movies" tvg-logo="megamovies.png" group-title="Cine y Series",Mega Movies
-rtmp://podi.hopper.pw:443/live/live_megamovieshd
+#EXTINF:0,BET
+http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
 
-#EXTINF:-1 tvg-id="ALXnxTV" tvg-logo="alxnxtv.png" group-title="Cine y Series",ALX/nx TV
-rtmp://podi.hopper.pw:443/live/live_alx_nxtv
+#EXTINF:0,Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:0,CBS HD (WHIO 7)
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+#EXTINF:0,CNN USA HD
+http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
 
-#EXTINF:-1 group-title="Infantil",.: CINE ON DEMAND :.
-http://?
+#EXTINF:0,Discovery Channel HD
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:0,Disney Channel
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+#EXTINF:0,ESPN HD
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
 
-#EXTINF:0,MENTES PELIGROSAS
-https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
+#EXTINF:0,ESPN 2 HD
+http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+#EXTINF:0,ESPN 2 SD
+http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
+#EXTINF:0,Food Network
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
 
-#EXTINF:0,INTRUSOS
-https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
+#EXTINF:0,FOX News HD
+http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
 
-#EXTINF:0,INDESTRUCTIBLES 3
-https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
+#EXTINF:0,Hallmark HD
+http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+#EXTINF:0,HBO HD
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:0,HBO SD
+http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
+#EXTINF:0,HGTV
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+#EXTINF:0,History Channel (Europe)
+http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+#EXTINF:0,History Channel (USA)
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+#EXTINF:0,I.D.
+http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
 
-#EXTINF:0,FRANCOTIRADOR
-https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
+#EXTINF:0,MSNBC SD
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+#EXTINF:0,MTV
+http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
+#EXTINF:0,Nat GEO HD
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
 
-#EXTINF:0,FOCUS
-https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
+#EXTINF:0,NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
 
-#EXTINF:0,RESUCITADOS
-https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
 
-#EXTINF:0,ROBOCOP
-https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
+#EXTINF:0,NBC Sports Network SD
+http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
 
-#EXTINF:0,DESTINO JUPITER
-https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
+#EXTINF:0,Showtime HD
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+
+#EXTINF:0,SyFy SD
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0,tbs
+http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+#EXTINF:0,TLC
+http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+
+#EXTINF:0,TV Land
+http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
+
+#EXTINF:0,USA Network
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+#EXTINF:0,VH-1
+http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
+
+#EXTINF:-1 tvg-name="Animal Planet",Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 tvg-name="TLC",TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 tvg-name="Travel Ch.",Travel Ch.
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 tvg-name="Planet Green",Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 tvg-name="ID",ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 tvg-name="ESPN HD",ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-name="SHO HD",SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-name="Discovery Ch. HD",Discovery Ch. HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-name="Discovery Sc. HD",Discovery Sc. HD
+http://80.80.160.168/live/9/live.m3u8
+
 
 
 #EXTINF:-1 group-title="Vida y Estilo",.: VIDA - ESTILO :.
@@ -47,58 +115,36 @@ http://?
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food" tvg-logo="food.png" group-title="Vida y Estilo",Food Network (ruso)
 http://46.61.226.18/hls/CH_C05_FOOD/bw1500000/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-id="London Live"tvg-logo="londonlive.png" group-title="Vida y Estilo",London Live (ingl√©s)
+#EXTINF:-1 tvg-id="London Live"tvg-logo="londonlive.png" group-title="Vida y Estilo",London Live (inglÈs)
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Friday"tvg-logo="friday-ru.png" group-title="Vida y Estilo",Friday (ruso)
 http://rtk1.peers.tv/streaming/friday/126/tvrec/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Li TVi"tvg-logo="litv.png" group-title="Vida y Estilo",Life Inspired HD 720 (ingl√©s)
-rtmp://66.55.92.168/app playpath=aiamor-lis-channel  swfUrl=https://streamup.com/assets/StreamupVideoChat.swf live=1 pageUrl=https://streamup.com/AiAmor-Li
-
 #EXTINF:-1 tvg-id="JV"tvg-logo="jv-ru.png" group-title="Vida y Estilo",JV (ruso)
 http://msk1.peers.tv/streaming/jv/16/tvrec/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="MyZenTV" tvg-logo="myzentv.png" group-title="Vida y Estilo",My Zen TV HD 1080 (ingl√©s)
+#EXTINF:-1 tvg-id="MyZenTV" tvg-logo="myzentv.png" group-title="Vida y Estilo",My Zen TV HD 1080 (inglÈs)
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_C05_MYZENTVHD/variant.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="fashion tv.png" group-title="Vida y Estilo",Fashion TV HD 720 (ingl√©s)
-http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="fashion tv.png" group-title="Vida y Estilo",Fashion TV HD 720 (inglÈs)
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Fashion TV"  tvg-logo="victoriasecret.png" group-title="Vida y Estilo",Vctoria Secret TV (ingl√©s)
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8#MegaIPTVArgentina
+#EXTINF:-1  tvg-id="Fashion One" tvg-name="Fashion One" tvg-logo="fashion-one.png" group-title="Vida y Estilo",Fashion One
+http://46.61.226.18/hls/CH_C04_FASHIONONEHD/bw3000000/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-id="NewsPeopleTV" tvg-logo="newspeople.png" group-title="Entretenimiento",News People TV
-http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="Zoomin TV" tvg-logo="zoomintv.png" group-title="Vida y Estilo",Zoomin TV (inglÈs)
+http://stream01.yamgo.com/iPhone/broadcast/zoomin_eng_lifestyle-tablet.3gp/zoomin_eng_lifestyle-tablet.3gp-mr647k.m3u8
 
 
 #EXTINF:-1 group-title="Infantil",.: INFANTILES :.
 http://?
 
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="disneyxd.png" group-title="Infantil",Disney XD
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TATETI" tvg-name="TATETI" tvg-logo="tateti.png" group-title="Infantil",Ta Te Ti (OFFLINE)
+#EXTINF:-1 tvg-id="TATETI" tvg-name="TATETI" tvg-logo="tateti.png" group-title="Infantil",Ta Te Ti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="pakapaka.png" group-title="Infantil",Paka Paka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-
-#EXTINF:-1 tvg-id="MegaKids" tvg-name="MegaKids" tvg-logo="megakids.png" group-title="Infantil",Mega Kids
-rtmp://podi.hopper.pw:443/live/live_mega_kids
-
-#EXTINF:-1 tvg-id="Simpson" tvg-name="Simpson" tvg-logo="simpson.png" group-title="Infantil",Mega Simpsons 24/7
-rtmp://podi.hopper.pw:443/live/live_mega_simpson
-
-#EXTINF:-1 tvg-id="Chespirito Mania" tvg-name="Chespirito Mania" tvg-logo="chespirito.png" group-title="Infantil",Chespirito Man√≠a
-rtmp://podi.hopper.pw:443/live/live_chespirito_mania
-
-#EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="animetv.png" group-title="Infantil",Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Mega Anim√© TV" tvg-name="MegaAnime" tvg-logo="megaanime.png" group-title="Infantil",MegaAnim√© TV
-rtmp://podi.hopper.pw:443/live/live_mega_animeshd
-
 
 
 #EXTINF:-1 group-title="Infantil",.: ON DEMAND KIDS:.
@@ -134,7 +180,7 @@ http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/807
 #EXTINF:0 group-title="Infantil",LA CENICIENTA (1950)
 http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
 
-#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUE√ëO HECHO REALIDAD
+#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUE—O HECHO REALIDAD
 http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
 
 #EXTINF:0 group-title="Infantil",LA PRINCESA Y EL SAPO
@@ -168,169 +214,98 @@ http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/807
 #EXTINF:-1 group-title="Documental",.: DOCUMENTALES :.
 http://?
 
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild HD" tvg-logo="natgeo wild hd.png" group-title="Documental",NatGeo Wild HD 720
-http://fichd-lh.akamaihd.net/i/NATGEOW_LATAM@304509/index_2000_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Discovery-es" tvg-logo="Discovery.png" group-title="Documental",Discovery en espa√±ol
+#EXTINF:-1 tvg-id="Discovery-es" tvg-logo="Discovery.png" group-title="Documental",Discovery en espaÒol
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Discovery-es" tvg-logo="Discovery.png" group-title="Documental",Discovery en espa√±ol (Opc.2)
+#EXTINF:-1 tvg-id="Discovery-es" tvg-logo="Discovery.png" group-title="Documental",Discovery en espaÒol (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/17248101/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="history.png" group-title="Documental",History Sur
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="GreenTV" tvg-logo="greentv.png" group-title="Documental",Green TV (inglÈs)
+http://46.249.213.87/iPhone/HLS_TS/broadcast/wwf-tablet.3gp/wwf-tablet.3gp-mr647k.m3u8?trackingid=0550970000&os=desktop
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="history.png" group-title="Documental",History Argentina (OFFLINE)
-rtmp://podi.hopper.pw:443/live/live_mfv_08
-
-#EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="rtdocumentary.png" group-title="Documental",RT Documentary HD 720 (ingl√©s)
-http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="RTDocumentary" tvg-logo="rtdocumentary.png" group-title="Documental",RT Documentary (ingl√©s)
-http://odna.octoshape.net/f3f5m2v4/cds/ch5_480p/chunklist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Vernissage TV" tvg-logo="vernissagetv.png" group-title="Documental",Vernissage TV (ingl√©s)
-http://149.11.34.6:1935/live/vernissagetv.stream/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="NASAtv" tvg-logo="nasatv.png"group-title="Documental",NASA TV HD 720
-http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TECTV" tvg-name="TECTV" tvg-logo="tectv.png" group-title="Documental",Tec TV (OFFLINE)
+#EXTINF:-1 tvg-id="TECTV" tvg-name="TECTV" tvg-logo="tectv.png" group-title="Documental",Tec TV
 http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/master.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Indagando TV" tvg-logo="indagandotv.png"group-title="Documental",Indagando TV
 http://streaming.enetres.net/B7456E01B090498DAF2F191C36DF29DC024/smil:live.smil/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="IngenioTV" tvg-logo="ingeniotv.png"group-title="Documental",Ingenio TV
-http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8?
-
-#EXTINF:-1 tvg-id="Canal7cultura" tvg-logo="canal7cultura.png" group-title="Educativo",Canal 7 Cultura M√©xico
+#EXTINF:-1 tvg-id="Canal7cultura" tvg-logo="canal7cultura.png" group-title="Educativo",Canal 7 Cultura MÈxico
 http://74.63.97.188:1935/gnode05/videognode05/playlist_b125000.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="AprendeTV" tvg-logo="aprende.png"group-title="Educativo",Aprende TV
-rtmp://cdn.xsn.com.mx/rtmplive/live/canal24dgtv.mp4
-
-#EXTINF:-1 tvg-id="Telesecundaria" tvg-logo="telesecundaria.png"group-title="Educativo",Telesecundaria
-rtmp://cdn.xsn.com.mx/rtmplive/live/canal11dgtv.mp4
-
-#EXTINF:-1 tvg-id="Telesecundaria" tvg-logo="telesecundaria.png"group-title="Educativo",English Club (ingl√©s)
+#EXTINF:-1 tvg-id="Telesecundaria" tvg-logo="telesecundaria.png" group-title="Educativo",English Club (inglÈs)
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ENGLISHCLUB/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-id="JET TV" tvg-logo="jet-tv.png"group-title="Educativo",Jamaica Education Television (ingl√©s)
+#EXTINF:-1 tvg-id="JET TV" tvg-logo="jet-tv.png"group-title="Educativo",Jamaica Education Television (inglÈs)
 http://vm2.zenzig.com/hls/jet1_2000/index.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Telesecundaria" tvg-logo="telesecundaria.png"group-title="Educativo",UANL TV Canal 53 M√©xico
-mms://streaming.uanl.mx/canal53bandaancha
-
-#EXTINF:-1 tvg-id="MexicoTravel" tvg-logo="mexicotravel.jpg" group-title="Viajes y Turismo",Mexico Travel Channel
-http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
-
-#EXTINF:-1 tvg-id="Viajar" tvg-logo="viajar.png" group-title="Viajes y Turismo",ViajAR
-http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Travel TV" tvg-logo="traveltv.png" group-title="Viajes y Turismo",Travel TV
-rtmp://87.106.219.140/live/myStream_2
-
-#EXTINF:-1 tvg-id="GEM Travel" tvg-logo="gemtravel.png" group-title="Viajes y Turismo",GEM Travel (√°rabe)
-http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="Educativo",University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 
 
-#EXTINF:-1 "Variedades - Latinos",.: VARIEDADES - LATINOS :.
+
+
+
+#EXTINF:-1  group-title="Variedades - Latinos",.: VARIEDADES - LATINOS :.
 http://?
-#EXTINF:-1 tvg-id="Telemundo" tvg-logo="telemundo.png" group-title="Variedades - Latinos",Telemundo 34 USA
-rtmp://podi.hopper.pw:443/live/live_telemundo34
 
-#EXTINF:-1 tvg-id="Univision" tvg-logo="univision.png" group-title="Variedades - Latinos",Univision 41 New York USA
-rtmp://podi.hopper.pw:443/live/live_univision41ny
-
-#EXTINF:-1 tvg-id="Univision" tvg-logo="univision.png" group-title="Variedades - Latinos",Univision USA Opc.2
+#EXTINF:-1 tvg-id="Univision" tvg-logo="univision.png" group-title="Variedades - Latinos",Univision USA 
 http://184.154.28.210:1935/univision_attl/univision_attl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Univision" tvg-logo="univision.png" group-title="Variedades - Latinos",Univision USA Opc.3
-rtmp://206.190.129.28/live playpath=anahii?id=5286  swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv/embedplayer/ANAHIi/1/640/400 Conn=S:OK --live
-
-#EXTINF:-1 tvg-id="Unimas" tvg-logo="unimas.png" group-title="Variedades - Latinos",UniMas USA
-rtmp://podi.hopper.pw:443/live/live_unimas12
 
 #EXTINF:-1 tvg-id="TVEO" tvg-logo="tveo.png" group-title="Variedades - Latinos",TVEO Miami USA
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-name=MiamiTVHD" tvg-logo="miamitv.png" group-title="Variedades - Latinos",Miami TV HD 720 USA
-rtmp://74.208.69.207/live/miamitvhd
-
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca_7" tvg-logo="azteca 7.png" group-title="Variedades - Latinos",Azteca 7 Monterrey M√©xico
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca_7" tvg-logo="azteca 7.png" group-title="Variedades - Latinos",Azteca 7 Monterrey MÈxico
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="azteca-trece.png" group-title="Variedades - Latinos",El Trece M√©xico
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="azteca-trece.png" group-title="Variedades - Latinos",El Trece MÈxico
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Proyecto 40" tvg-name="Proyecto 40" tvg-logo="proyecto 40.png" group-title="Variedades - Latinos",Proyecto 40 M√©xico
+#EXTINF:-1 tvg-id="Proyecto 40" tvg-name="Proyecto 40" tvg-logo="proyecto 40.png" group-title="Variedades - Latinos",Proyecto 40 MÈxico
 http://tvaz-pd.kaltura.com.edgesuite.net/p/461031/sp/46103100/serveFlavor/entryId/0_08wdjxfl/v/1/flavorId/0_8j06e5nk/forceproxy/true/name/a.mp4
 
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="canal 2.png" group-title="Variedades - Latinos",Canal 2 XEWTV M√©xico
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="canal 2.png" group-title="Variedades - Latinos",Canal 2 XEWTV MÈxico
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="foro tv HD.png" group-title="Variedades - Latinos",Canal 4 Foro TV M√©xico
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="foro tv HD.png" group-title="Variedades - Latinos",Canal 4 Foro TV MÈxico
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Once TV" tvg-name="Once_TV" tvg-logo="once tv.png" group-title="Variedades - Latinos",Once TV Internacional M√©xico
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="KW TV Mexico" tvg-name="KW TV" tvg-logo="kwtv.png" group-title="Variedades - Latinos",KW TV M√©xico
+#EXTINF:-1 tvg-id="KW TV Mexico" tvg-name="KW TV" tvg-logo="kwtv.png" group-title="Variedades - Latinos",KW TV MÈxico
 http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
 
-#EXTINF:-1 tvg-id="CORtv Mexico" tvg-name="CORtv" tvg-logo="cortv.png" group-title="Variedades - Latinos",CORtv Oaxaca M√©xico
+#EXTINF:-1 tvg-id="CORtv Mexico" tvg-name="CORtv" tvg-logo="cortv.png" group-title="Variedades - Latinos",CORtv Oaxaca MÈxico
 http://iphone-streaming.ustream.tv/uhls/20366971/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="CORtv Mexico" tvg-name="CORtv" tvg-logo="cortv.png" group-title="Variedades - Latinos",CORtv Oaxaca M√©xico (Opc.2)
+#EXTINF:-1 tvg-id="CORtv Mexico" tvg-name="CORtv" tvg-logo="cortv.png" group-title="Variedades - Latinos",CORtv Oaxaca MÈxico (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/20366971/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" tvg-logo="multimedios monterrey.png" group-title="Variedades - Latinos",Multimedios TV SD 4:3 M√©xico
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?videoId=1266736350001&lineUpId=&pubId=1221954060001&playerId=1266656281001&affiliateId=
+#EXTINF:-1 tvg-id="Multimedios Monterrey" tvg-name="Multimedios Monterrey" tvg-logo="multimedios monterrey.png" group-title="Variedades - Latinos",Multimedios TV SD 4:3 MÈxico
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732?
 
 #EXTINF:-1 tvg-id="Mexiquense" tvg-logo="mexiquense.png" group-title="Variedades - Latinos",TV Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 
-#EXTINF:-1 tvg-id="UNO TV" tvg-logo="unotv.png" group-title="Variedades - Latinos",UNO TV HD 720 M√©xico
+#EXTINF:-1 tvg-id="UNO TV" tvg-logo="unotv.png" group-title="Variedades - Latinos",UNO TV HD 720 MÈxico
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="CanalJudicial" tvg-logo="canaljudicial.png" group-title="Variedades - Latinos",Canal Judicial M√©xico
+#EXTINF:-1 tvg-id="CanalJudicial" tvg-logo="canaljudicial.png" group-title="Variedades - Latinos",Canal Judicial MÈxico
 rtmp://200.38.163.191:1935/rtmplive/redundant/ playpath=mp4:scjnA2.mp4 swfUrl=http://www.sitios.scjn.gob.mx/player/player.swf live=1 pageUrl=http://www.sitios.scjn.gob.mx/canaljudicial/
 
-#EXTINF:-1 tvg-id="TV MAS" tvg-logo"tvmas.jpg" group-title="Variedades - Latinos",TV MAS Veracruz M√©xico
+#EXTINF:-1 tvg-id="TV MAS" tvg-logo"tvmas.jpg" group-title="Variedades - Latinos",TV MAS Veracruz MÈxico
 rtmp://50.7.98.234/rtv/videortv
 
-#EXTINF:-1 tvg-id="Tele Mexico" tvg-logo"telemexico.jpg" group-title="Variedades - Latinos",EDUSAT Canal 21 TeleMexico
-http://dl-dgtve.puntoti.com.mx:1935/dgtve/canal21dgtve.mp4/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 2 Obregon" tvg-logo"canal2obregon.jpg" group-title="Variedades - Latinos",Canal 2 Yaqui TV Obregon M√©xico
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 2 Los Mochis" tvg-logo"canal2losmochis.jpg" group-title="Variedades - Latinos",Canal 2 Los Mochis M√©xico
-http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 3 Culiac√°n" tvg-logo"canal3culiacan.jpg" group-title="Variedades - Latinos",Canal 3 Culiac√°n M√©xico
+#EXTINF:-1 tvg-id="Canal 3 Culiac·n" tvg-logo"canal3culiacan.jpg" group-title="Variedades - Latinos",Canal 3 Culiac·n MÈxico
 http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="NuestraVision" tvg-logo="nuestravision.png" group-title="Variedades - Latinos",Nuestra Visi√≥n Canal 5 M√©xico
-rtmp://159.16.243.10/live/canal5/canal5
-
-#EXTINF:-1 tvg-id="Canal6Guadalajara" tvg-logo="canal6guadalajara.png" group-title="Variedades - Latinos",Canal 6 Guadalajara M√©xico
-rtmp://200.52.193.57:1935/live/unique/live_2650
-
-#EXTINF:-1 tvg-id="Canal6Guadalajara" tvg-logo="canal6guadalajara.png" group-title="Variedades - Latinos",Canal 28 Chihuahua M√©xico
+#EXTINF:-1 tvg-id="Canal6Guadalajara" tvg-logo="canal6guadalajara.png" group-title="Variedades - Latinos",Canal 28 Chihuahua MÈxico
 http://web.xnet.mx:1935/xnetn/canal282/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TV Independencia" tvg-logo="tvindependencia.png" group-title="Variedades - Latinos",TV Independencia Hidalgo M√©xico
+#EXTINF:-1 tvg-id="TV Independencia" tvg-logo="tvindependencia.png" group-title="Variedades - Latinos",TV Independencia Hidalgo MÈxico
 http://iphone-streaming.ustream.tv/uhls/12143149/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TV Independencia" tvg-logo="tvindependencia.png" group-title="Variedades - Latinos",TV Independencia Hidalgo M√©xico
+#EXTINF:-1 tvg-id="TV Independencia" tvg-logo="tvindependencia.png" group-title="Variedades - Latinos",TV Independencia Hidalgo MÈxico
 http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal 7 Uruapan" tvg-logo"canal7uruapan.jpg" group-title="Variedades - Latinos",Canal 7 Uruapan M√©xico (OFFLINE)
-http://iphone-streaming.ustream.tv/uhls/20381882/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Ocho TV Guadalajara" tvg-name="Ocho TV" tvg-logo="ocho tv.png" group-title="Variedades - Latinos",Ocho TV M√©xico
+#EXTINF:-1 tvg-id="Ocho TV Guadalajara" tvg-name="Ocho TV" tvg-logo="ocho tv.png" group-title="Variedades - Latinos",Ocho TV MÈxico
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal 4 Guanajuato" tvg-logo="canal4guanajuato.png" group-title="Variedades - Latinos",TV 4 Guanajuato
@@ -339,111 +314,80 @@ http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="Canal 4 Guanajuato" tvg-logo="canal4guanajuato.png" group-title="Variedades - Latinos",TV 4 Guanajuato (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/4157836/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal 7 Mazatlan" tvg-name="Canal 7 Mazatlan" tvg-logo="canal7mazatl√°n.png" group-title="Variedades - Latinos",Canal 7 Mazatlan M√©xico
+#EXTINF:-1 tvg-id="Canal 7 Mazatlan" tvg-name="Canal 7 Mazatlan" tvg-logo="canal7mazatl·n.png" group-title="Variedades - Latinos",Canal 7 Mazatlan MÈxico
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="C7 SanLuisPotosi" tvg-name="Canal 7 San Luis Potosi" tvg-logo="canal7sanluispotosi.png" group-title="Variedades - Latinos",Canal 7 San Luis Potos√≠ M√©xico
+#EXTINF:-1 tvg-id="C7 SanLuisPotosi" tvg-name="Canal 7 San Luis Potosi" tvg-logo="canal7sanluispotosi.png" group-title="Variedades - Latinos",Canal 7 San Luis PotosÌ MÈxico
 http://187.188.159.113:1935/live/web.sdp/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="C9 SanLuisPotosi" tvg-name="Canal 9 San Luis Potosi" tvg-logo="canal9sanluispotosi.png" group-title="Variedades - Latinos",Canal 9 San Luis Potos√≠ M√©xico (OFFLINE)
-rtmp://201.140.115.69/live/ playpath=canal9  swfUrl=http://www.canal9slp.mx/video/jwplayer/player.swf live=1 pageUrl=http://www.canal9slp.mx/video/livestream.html
-
-#EXTINF:-1 tvg-id="C9 SanLuisPotosi" tvg-name="Canal 13 San Luis Potosi" tvg-logo="canal13slp.png" group-title="Variedades - Latinos",Canal 13 San Luis Potos√≠ M√©xico
-rtmp://192.99.9.67:1935/8076/8076
-
-#EXTINF:-1 tvg-id="Telemax MX" tvg-logo="telemax-mx.png" group-title="Variedades - Latinos",TeleMax Sonora M√©xico
+#EXTINF:-1 tvg-id="Telemax MX" tvg-logo="telemax-mx.png" group-title="Variedades - Latinos",TeleMax Sonora MÈxico
 http://enhd.co:1935/ilive/ilive/playlist.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="RTG Sy Gerrero" tvg-logo="rtg-soyguerrero.png" group-title="Variedades - Latinos",RTG Soy Guerero M√©xico
+#EXTINF:-1 tvg-id="RTG Sy Gerrero" tvg-logo="rtg-soyguerrero.png" group-title="Variedades - Latinos",RTG Soy Guerero MÈxico
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TreceVision" tvg-logo="trecevision.png" group-title="Variedades - Latinos",Trecevision Yucat√°n M√©xico
+#EXTINF:-1 tvg-id="TreceVision" tvg-logo="trecevision.png" group-title="Variedades - Latinos",Trecevision Yucat·n MÈxico
 http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8#MegaITVArgentina
 
-#EXTINF:-1 tvg-id="AcapulcoTV" tvg-logo="acapulcotv.png" group-title="Variedades - Latinos",Acapulco TV M√©xico
+#EXTINF:-1 tvg-id="AcapulcoTV" tvg-logo="acapulcotv.png" group-title="Variedades - Latinos",Acapulco TV MÈxico
 rtmp://video.hosteris.com/tvacapulco/tvacapulco
 
-#EXTINF:-1 tvg-id="SIPSA TV" tvg-logo="gala tv.png" group-title="Variedades - Latinos",SIPSA TV Canc√∫n M√©xico
+#EXTINF:-1 tvg-id="SIPSA TV" tvg-logo="gala tv.png" group-title="Variedades - Latinos",SIPSA TV Canc˙n MÈxico
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal4Merida" tvg-logo="canal4merida.png" group-title="Variedades - Latinos",Canal 4 M√©rida M√©xico
-rtmp://159.16.243.10/live/canal4/canal4
-
-#EXTINF:-1 tvg-id="5TV" tvg-logo="5tv-mx.png" group-title="Variedades - Latinos",5TV Sabinas Coahuila M√©xico
+#EXTINF:-1 tvg-id="5TV" tvg-logo="5tv-mx.png" group-title="Variedades - Latinos",5TV Sabinas Coahuila MÈxico
 http://50.7.29.178:1935/gnode06/videognode06/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal7noticias" tvg-logo="canal7noticias.png" group-title="Variedades - Latinos",Canal 7 Noticias M√©xico
+#EXTINF:-1 tvg-id="Canal7noticias" tvg-logo="canal7noticias.png" group-title="Variedades - Latinos",Canal 7 Noticias MÈxico
 http://74.63.97.188:1935/c7/videoc7/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal Capital 21" tvg-logo="capital21.png" group-title="Variedades - Latinos",Capital 21 M√©xico
+#EXTINF:-1 tvg-id="Canal Capital 21" tvg-logo="capital21.png" group-title="Variedades - Latinos",Capital 21 MÈxico
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TelemarCampeche" tvg-logo="telemarcampeche.png" group-title="Variedades - Latinos",Telemar Campeche M√©xico
+#EXTINF:-1 tvg-id="TelemarCampeche" tvg-logo="telemarcampeche.png" group-title="Variedades - Latinos",Telemar Campeche MÈxico
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TRC Campeche" tvg-logo="trc-campeche.png" group-title="Variedades - Latinos",TRC Campeche M√©xico
-http://video7.stream.mx:1935/8122/8122/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Quince TV" tvg-logo="quincetv.png" group-title="Variedades - Latinos",Quince TV Zacatecas M√©xico
+#EXTINF:-1 tvg-id="Quince TV" tvg-logo="quincetv.png" group-title="Variedades - Latinos",Quince TV Zacatecas MÈxico
 http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Quince TV" tvg-logo="quincetv.png" group-title="Variedades - Latinos",Ecovisi√≥n Zacatecas M√©xico
-http://iphone-streaming.ustream.tv/ustreamVideo/17171318/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Quince TV" tvg-logo="quincetv.png" group-title="Variedades - Latinos",Ecovisi√≥n Zacatecas M√©xico (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/17171318/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="SMTV Michoacan" tvg-logo="smtv.png" group-title="Variedades - Latinos",SMTV Michoac√°n M√©xico
+#EXTINF:-1 tvg-id="SMTV Michoacan" tvg-logo="smtv.png" group-title="Variedades - Latinos",SMTV Michoac·n MÈxico
 http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="SMTV Michoacan" tvg-logo="smtv.png" group-title="Variedades - Latinos",SMTV Michoac√°n M√©xico (Opc.2)
+#EXTINF:-1 tvg-id="SMTV Michoacan" tvg-logo="smtv.png" group-title="Variedades - Latinos",SMTV Michoac·n MÈxico (Opc.2)
 http://iphone-streaming.ustream.tv/uhls/13946965/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TV Queretaro" tvg-logo="tvqueretaro.png" group-title="Variedades - Latinos",Televisi√≥n Quer√©taro M√©xico
+#EXTINF:-1 tvg-id="TV Queretaro" tvg-logo="tvqueretaro.png" group-title="Variedades - Latinos",TelevisiÛn QuerÈtaro MÈxico
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Aguascalientes TV" tvg-logo="aguascalientestv.png" group-title="Variedades - Latinos",Aguascalientes TV6 M√©xico
+#EXTINF:-1 tvg-id="Aguascalientes TV" tvg-logo="aguascalientestv.png" group-title="Variedades - Latinos",Aguascalientes TV6 MÈxico
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Ultra Aguascalientes" tvg-logo="ultraaguascalientes.png" group-title="Variedades - Latinos",Ultra Aguascalientes M√©xico
+#EXTINF:-1 tvg-id="Ultra Aguascalientes" tvg-logo="ultraaguascalientes.png" group-title="Variedades - Latinos",Ultra Aguascalientes MÈxico
 http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Efekto TV" tvg-logo="efekto.png" group-title="Variedades - Latinos",Efekto TV M√©xico
+#EXTINF:-1 tvg-id="Efekto TV" tvg-logo="efekto.png" group-title="Variedades - Latinos",Efekto TV MÈxico
 http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Canal Mexico" tvg-logo="canalmexico.png" group-title="Variedades - Latinos",Canal M√©xico TV
+#EXTINF:-1 tvg-id="Canal Mexico" tvg-logo="canalmexico.png" group-title="Variedades - Latinos",Canal MÈxico TV
 http://iphone-streaming.ustream.tv/ustreamVideo/18636540/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal Mexico" tvg-logo="canalmexico.png" group-title="Variedades - Latinos",Canal M√©xico TV (Opc.2)
+#EXTINF:-1 tvg-id="Canal Mexico" tvg-logo="canalmexico.png" group-title="Variedades - Latinos",Canal MÈxico TV (Opc.2)
 http://iphone-streaming.ustream.tv/uhls/18636540/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Univision" tvg-logo="univision.png" group-title="Variedades - Latinos",Univision Puerto Rico
-rtmp://178.162.194.34/live playpath=Ana69?id=226663  swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf  pageUrl=http://www.mipsplayer.com/embedplayer/Ana69/1/610/430
- Conn=S:OK --live
+#EXTINF:-1 tvg-id="Univision" tvg-logo="univision.png" group-title="Variedades - Latinos",Univision Puerto Rico (OFFLINE)
 
-#EXTINF:-1 tvg-id=WAPA" tvg-logo="wapatv.png", group-title="Variedades - Latinos",WAPA TV Puerto Rico
-rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true pageUrl=http://iblups.com/e_WapaPRace-530-300
 
-#EXTINF:-1 tvg-name=Telemundo PR tvg-logo="telemundo pr.png" group-title="Variedades - Latinos",Telemundo Puerto Rico
-http://cf.cdn.bimvidlive.com/tlmpr1/tlmpr1_360p/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id=WAPA" tvg-logo="wapatv.png", group-title="Variedades - Latinos",WAPA TV Puerto Rico (OFFLINE)
+
+
+#EXTINF:-1 tvg-name=Telemundo PR tvg-logo="telemundo pr.png" group-title="Variedades - Latinos",Telemundo Puerto Rico (OFFLINE)
+
 
 #EXTINF:-1 tvg-name=TiVaHD" tvg-logo="tivahd.png" group-title="Variedades - Latinos",TiVa HD 720 Puerto Rico
 http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292
 
-#EXTINF:-1 tvg-id="TeleHaiti" tvg-logo="telehaiti.png" group-title="Variedades - Latinos",TeleHait√≠ HD 720 Hait√≠
-rtmp://38.69.194.52:1935/haiti_tv/haiti_tv.stream
-
 #EXTINF:-1 tvg-id="Canal 2 de Tele Antillas" tvg-logo="teleantillas.png" group-title="Variedades - Latinos",Tele Antillas Rep. Dominicana
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal Telesistema 11" tvg-logo="telesistema.png" group-title="Variedades - Latinos",Telesistema Rep. Dominicana
-http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Telemicro"  tvg-logo="telemicro.png" group-title="Variedades - Latinos",Telemicro Rep. Dominicana
-rtmp://vivo.canalesdominicanosenvivo.com:1935/can/ playpath=t05.stream  swfUrl=http://canalesdominicanosenvivo.com/asset/play/jwplayer.flash.swf live=1 pageUrl=http://canalesdominicanosenvivo.com/asset/play/rep2.php?canal=222
-
-#EXTINF:-1 tvg-id="Digital 15"  tvg-logo="digital15.png" group-title="Variedades - Latinos",Digital 15 Rep. Dominicana
-rtmp://vivo.canalesdominicanosenvivo.com:1935/can/ playpath=d15.stream swfUrl=http://canalesdominicanosenvivo.com/asset/play/jwplayer.flash.swf live=1 pageUrl=http://canalesdominicanosenvivo.com/asset/play/rep2.php?canal=223
 
 #EXTINF:-1 tvg-id="AntenaLatina" tvg-name="Antena Latina" tvg-logo="antenalatina.png" group-title="Variedades - Latinos",Antena Latina Rep. Dominicana
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8#MegaIPTVArgentina
@@ -454,11 +398,11 @@ http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="TeleUniverso 29" tvg-name="Teleuniverso29" tvg-logo="teleuniverso29.png" group-title="Variedades - Latinos",TeleUniverso 29 Rep. Dominicana
 http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal 9 de Color Visi√≥n" tvg-name="Color_Visi√≥n" tvg-logo="color vision.png" group-title="Variedades - Latinos",Color Vision Rep. Dominicana
-http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 8 PVTV" tvg-name="Color_Visi√≥n" tvg-logo="pvtvcanal8.png" group-title="Variedades - Latinos",PeraviaVision 8 Rep. Dominicana
+#EXTINF:-1 tvg-id="Canal 8 PVTV" tvg-logo="pvtvcanal8.png" group-title="Variedades - Latinos",PeraviaVision 8 Rep. Dominicana
 http://ss7.domint.net:1966/pr_str/peravia/playlist.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 tvg-id="Vega Teve" tvg-logo="vegateve.png" group-title="Variedades - Latinos",Vega Teve Rep. Dominicana
+http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 10 Bonao" tvg-name="Canal 10 Bonao" tvg-logo="canal10bonao.png" group-title="Variedades - Latinos",Lunavision Canal 10 Rep. Dominicana
 http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8#MegaIPTVArgentina
@@ -466,7 +410,7 @@ http://ss7.domint.net:1986/yv_str/yuna/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="Canal 12 TV Higuey" tvg-name="Canal 12 TV Higuey" tvg-logo="canal12-RD.png" group-title="Variedades - Latinos",TV Higuey Canal 12 Rep. Dominicana
 http://asx.domiplay.net:1935/rtplive/tvhiguey.sdp/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Musavision" tvg-name="Musavision" tvg-logo="musavision.png" group-title="Variedades - Latinos",Musavisi√≥n Rep. Dominicana
+#EXTINF:-1 tvg-id="Musavision" tvg-name="Musavision" tvg-logo="musavision.png" group-title="Variedades - Latinos",MusavisiÛn Rep. Dominicana
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="TeleNord" tvg-name="TeleNord" tvg-logo="telenord.png" group-title="Variedades - Latinos",TeleNord Rep. Dominicana
@@ -478,14 +422,8 @@ http://ss7.domint.net:2078/tni_str/canal51/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="SuperTV 55" tvg-name="SuperTV55" tvg-logo="supertv55.png" group-title="Variedades - Latinos",SuperTV 55 Rep. Dominicana
 http://ss7.domint.net:2022/stv_str/tv55/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TeleContacto" tvg-name="TeleContacto" tvg-logo="telecontacto.png" group-title="Variedades - Latinos",Telecontacto 57 Rep. Dominicana
-rtmp://stream.prostudionetwork.com:1957/telecontacto/ playpath=TC swfUrl=http://yucatv.com/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl=http://emisoradominicana.net/html5/iframes/telecontacto.html
-
-#EXTINF:-1 tvg-id="Canal 37 de CDN (Rep√∫blica Dominicana)" tvg-name="CDN_37" tvg-logo="cdn37.png" group-title="Variedades - Latinos",CDN 37 Rep. Dominicana
+#EXTINF:-1 tvg-id="Canal 37 de CDN (Rep˙blica Dominicana)" tvg-name="CDN_37" tvg-logo="cdn37.png" group-title="Variedades - Latinos",CDN 37 Rep. Dominicana
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Ultra web TV" tvg-name="Ultra web TV" tvg-logo="ultratv.png" group-title="Variedades - Latinos",Ultra TV Rep. Dominicana
-http://xultratvdomx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Aruba" tvg-logo="aruba.png" group-title="Variedades - Latinos",TeleAruba
 rtmp://201.229.0.51/livepkgr/livestream1
@@ -495,9 +433,6 @@ rtmp://cdn8.iviplanet.com/Telecuracao/myStream.sdp
 
 #EXTINF:-1 tvg-id="NOS TV" tvg-logo="nostv.png" group-title="Variedades - Latinos",NOS TV Bonaire
 rtmp://panchito13.flashmediacast.com:2087/live/livestream
-
-#EXTINF:-1 tvg-id="CBC TV8" tvg-logo="cbctv8barbados.png" group-title="Variedades - Latinos",CBC TV 8 Barbados
-rtmp://184.154.57.230/cbcvideo/cbcstream
 
 #EXTINF:-1 tvg-id="PlusTV Belice" tvg-logo="plustv-belice.png" group-title="Variedades - Latinos",Plus TV Belice
 http://iphone-streaming.ustream.tv/uhls/6108416/streams/live/iphone/playlist.m3u8
@@ -511,9 +446,6 @@ http://72.46.226.61/live01/canal71/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="Trecevision" tvg.logo="trecevision.png" group-title="Variedades - Latinos",Trecevision Guatemala
 http://72.46.226.61/live01/canal131/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Azteca35 Guatemala" tvg-logo="azteca35.jpg" group-title="Variedades - Latinos",Azteca 35 Guatemala
-http://aztecalive-lh.akamaihd.net/i/1tsbqgpq6_1@66743/master.m3u8
-
 #EXTINF:-1 tvg-id="Guatevision" tvg.logo="guatevision.png" group-title="Variedades - Latinos",Guatevision
 http://bravo967.sysvirtuales.com/live/stream1.sdp/playlist.m3u8#MegaIPTVArgentina
 
@@ -523,23 +455,11 @@ http://iphone-streaming.ustream.tv/ustreamVideo/1435410/streams/live/playlist.m3
 #EXTINF:-1 tvg-id="CanalAntigua" tvg-logo="canalantigua.jpg" group-title="Variedades - Latinos",Canal Antigua Guatemala (Opc.2)
 http://iphone-streaming.ustream.tv/uhls/1435410/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TV Maya" tvg-logo="tv maya.jpg" group-title="Variedades - Latinos",TV Maya Guatemala
-http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TV Maya" tvg-logo="tv maya.jpg" group-title="Variedades - Latinos",TV Maya Guatemala (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="CampusTV" tvg-logo="campustv.png" group-title="Variedades - Latinos",Campus TV Guatemala
-http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Megavision El Salvador" tvg-logo="megavision-elsalvador.png" group-title="Variedades - Latinos",Megavision Canal 21 El Salvador
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="TVX-ElSalvador" tvg-logo="tvxcanal23.jpg" group-title="Variedades - Latinos",TVX Canal 23 El Salvador
 rtmp://panel.elsalvadordigital.com:1935/canal23/canal23
-
-#EXTINF:-1 tvg-id="TVS Canal 25" tvg-logo="tvscanal25.png" group-title="Variedades - Latinos",TVS Canal 25 El Salvador
-http://iphone-streaming.ustream.tv/uhls/17020855/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Gentever" tvg-logo="genteve.png" group-title="Variedades - Latinos",Genteve Canal 29 El Salvador
 http://cdns840stu1010.multistream.net/genteve.c29.svlive/amlst:live/huraivza_b750000.m3u8#MegaIPTVArgentina
@@ -550,16 +470,13 @@ http://iphone-streaming.ustream.tv/ustreamVideo/4811076/streams/live/playlist.m3
 #EXTINF:-1 tvg-id="Canal33-ElSalvador" tvg-logo="canal33-elsalvador.png" group-title="Variedades - Latinos",Canal 33 El Salvador (Opc.2)
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TRV-ElSalvador" tvg-logo="trv.jpg" group-title="Variedades - Latinos",TRV El Salvador
-http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Telecadena 7/4" tvg-logo="telecadena.png" group-title="Variedades - Latinos",Telecadena 7/4 Honduras
 http://162.212.176.83:8080/telecadena.stream.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal 6 Honduras" tvg-logo="canal6hn.png" group-title="Variedades - Latinos",Canal 6 Honduras
 http://162.212.176.83:8080/canal6.stream.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Teleceiba" tvg-logo="teleceiba.png" group-title="Variedades - Latinos",TeleceibaHonduras
+#EXTINF:-1 tvg-id="Teleceiba" tvg-logo="teleceiba.png" group-title="Variedades - Latinos",Teleceiba Honduras
 http://162.212.176.83:8080/teleceiba.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="TEN" tvg-logo="ten.png" group-title="Variedades - Latinos",TEN Canal 10 HD 720 Honduras
@@ -589,9 +506,6 @@ rtmp://162.244.81.181:1935/live//Stream1
 #EXTINF:-1 tvg-id="Canal4Nicaragua" tvg-logo="canal4nicaragua.png" group-title="Variedades - Latinos",Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal10Nicaragua" tvg-logo="canal10nicaragua.png" group-title="Variedades - Latinos",Canal 10 Nicaragua (web)
-http://xcanal10nicax.api.channel.livestream.com/3.0/playlist.m3u8 
-
 #EXTINF:-1 tvg-id="Canal13Nicaragua" tvg-logo="viva-nicaragua.png" group-title="Variedades - Latinos",Canal 13 Viva Nicaragua
 http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8
 
@@ -601,26 +515,17 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="TeleUno Costa Rica" tvg-logo="teleunotv-cr.png" group-title="Variedades - Latinos",Tele Uno TV Costa Rica
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 
-#EXTINF:-1 tvg-id="CDR 2 Costa Rica" tvg-logo="cdr-cr.png" group-title="Variedades - Latinos",CDR Canal 2 Costa Rica
-rtmp://k3.usastreams.com:1935/extra/extra/
-
 #EXTINF:-1 tvg-id="Canal 6 Costa Rica" tvg-logo="canal6cr.png" group-title="Variedades - Latinos",Canal 6 Costa Rica
 rtmp://k3.usastreams.com:1935/cana6/cana6
 
 #EXTINF:-1 tvg-id="Canal 6 Costa Rica" tvg-logo="canal6cr.png" group-title="Variedades - Latinos",Canal 6 Costa Rica (Opc.2)
 http://72.46.226.61/live01/canal61/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Teletica Costa Rica" tvg-logo="teletica.png" group-title="Variedades - Latinos",Teletica Canal 7 Costa Rica
-rtmp://k3.usastreams.com:1935/cana7/cana7/
-
 #EXTINF:-1 tvg-id="Canal 9 Costa Rica" tvg-logo="canal9cr.png" group-title="Variedades - Latinos",Canal 9 Costa Rica
 rtmp://k3.usastreams.com:1935/canal9/canal9
 
 #EXTINF:-1 tvg-id="Canal 11 Costa Rica" tvg-logo="canal11cr.png" group-title="Variedades - Latinos",Canal 11 Costa Rica
 http://72.46.226.61/live01/canal111/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal Trece Costa Rica" tvg-logo="canaltrececr.png" group-title="Variedades - Latinos",Canal 13 Costa Rica
-rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
 
 #EXTINF:-1 tvg-id="27TV" tvg-logo="27tv.png" group-title="Variedades - Latinos",27 TV Costa Rica
 http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8#MegaIPTVArgentina
@@ -637,16 +542,16 @@ rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 tvg-id="ColosalTV" tvg-logo="colosaltv.png" group-title="Variedades - Latinos",Colosal TV Costa Rica
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 
-#EXTINF:-1 tvg-id="TVN Panama" tvg-name="TVN Panama" tvg-logo="tvn panama.png" group-title="Variedades - Latinos",TVN Panam√°
+#EXTINF:-1 tvg-id="TVN Panama" tvg-name="TVN Panama" tvg-logo="tvn panama.png" group-title="Variedades - Latinos",TVN Panam·
 http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Telemetro" tvg-logo="telemetro.png" group-title="Variedades - Latinos",Telemetro Panam√°
+#EXTINF:-1 tvg-id="Telemetro" tvg-logo="telemetro.png" group-title="Variedades - Latinos",Telemetro Panam·
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="RPC" tvg-logo="rpc-panama.png" group-title="Variedades - Latinos",RPC Panam√°
+#EXTINF:-1 tvg-id="RPC" tvg-logo="rpc-panama.png" group-title="Variedades - Latinos",RPC Panam·
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="SER TV" tvg-logo="sertv-panama.png" group-title="Variedades - Latinos",SER TV Panam√°
+#EXTINF:-1 tvg-id="SER TV" tvg-logo="sertv-panama.png" group-title="Variedades - Latinos",SER TV Panam·
 rtmp://216.224.177.132/live/sertv
 
 #EXTINF:-1 tvg-id="Telearagua" tvg-logo="telearagua.png" group-title="Variedades - Latinos",Tele Aragua Venezuela
@@ -673,26 +578,11 @@ http://iphone-streaming.ustream.tv/uhls/4172359/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="Canal 11 Venezuela" tvg-logo="canal11venezuela.png" group-title="Variedades - Latinos",Canal 11 Venezuela
 rtmp://edge.wms28.lorini.net/canalonce/canalonce
 
-#EXTINF:-1 tvg-id="Anzoategui TV" tvg-logo="anzoateguitv.png" group-title="Variedades - Latinos",Anzoategui TV Venezuela
-rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
-
 #EXTINF:-1 tvg-id="Sulavision" tvg-logo="Sulavision.png" group-title="Variedades - Latinos",Sulavision Venezuela
 http://162.212.176.83:8080/sulavision.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="PromarTV" tvg-logo="promartv.png" group-title="Variedades - Latinos",Promar TV Venezuela
-rtmp://edge.wms28.lorini.net/promartv/promartv
-
-#EXTINF:-1 tvg-id="TRT" tvg-logo="trtvenezuela.png" group-title="Variedades - Latinos",TRT Venezuela
-rtmp://edge.wms28.lorini.net/trttv/trttv
-
 #EXTINF:-1 tvg-id="Telecolor" tvg-logo="telecolor.png" group-title="Variedades - Latinos",Telecolor Venezuela
 rtmp://edge.wms28.lorini.net/telecolor/telecolor
-
-#EXTINF:-1 tvg-id="Barinas TV" tvg-logo="Barinas TV.png" group-title="Variedades - Latinos",Barinas TV Venezuela
-rtmp://edge.wms28.lorini.net/barinastv/barinastv
-
-#EXTINF:-1 tvg-id="Oasis TV" tvg-logo="Oasis TV.png" group-title="Variedades - Latinos",Oasis Television Venezuela
-rtmp://edge.wms28.lorini.net/oasistv/oasistv
 
 #EXTINF:-1 tvg-id="TIC TV" tvg-logo="tictv.png" group-title="Variedades - Latinos",TIC Television Venezuela
 rtmp://edge.wms28.lorini.net/tictv/tictv
@@ -712,32 +602,17 @@ http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgenti
 #EXTINF:-1 tvg-id="ANTV" tvg-logo="antv.png" group-title="Variedades - Latinos",ANTV Venezuela
 rtmp://cast.streamingconnect.tv:1935/antvweb/antvweb
 
-#EXTINF:-1 tvg-id="RCN" tvg-logo="rcn.png" group-title="Variedades - Latinos",RCN Colombia
-rtmp://50.7.69.186/iguide playpath=g5a1l98d8gy0ob0 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-
-#EXTINF:-1 tvg-id="RCN" tvg-logo="rcn-.png" group-title="Variedades - Latinos",Caracol Internacional
+#EXTINF:-1 tvg-id="RCN" tvg-logo="rcn-.png" group-title="Variedades - Latinos",Caracol Internacional Colombia
 http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Caracol" tvg-logo="caracol.png" group-title="Variedades - Latinos",Caracol Colombia
 http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8#megaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Caracol" tvg-logo="caracol.png" group-title="Variedades - Latinos",Caracol Colombia (opc 2)
-rtmp://50.7.69.186/iguide playpath=a4jap9zysp1psim swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-
-#EXTINF:-1 tvg-id="Se√±alColombia" tvg-logo="senalcolombia.png" group-title="Variedades - Latinos",Se√±al Colombia
+#EXTINF:-1 tvg-id="SeÒalColombia" tvg-logo="senalcolombia.png" group-title="Variedades - Latinos",SeÒal Colombia
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8#megaIPTVArgentina
 
-#EXTINF:-1 tvg-id=TVN Colombia" tvg-logo="tvn-colombia.png" group-title="Variedades - Latinos",Television del Norte Colombia (OFFLINE)
-http://iphone-streaming.ustream.tv/uhls/14895057/streams/live/iphone/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Telecaf√©" tvg-logo="telecafe.png" group-title="Variedades - Latinos",Telecaf√© Colombia
+#EXTINF:-1 tvg-id="TelecafÈ" tvg-logo="telecafe.png" group-title="Variedades - Latinos",TelecafÈ Colombia
 http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id=Telepacifico" tvg-logo="telepacifico.png" group-title="Variedades - Latinos",Telepacifico Colombia
-http://iphone-streaming.ustream.tv/ustreamVideo/12380713/streams/live/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id=Telepacifico" tvg-logo="telepacifico.png" group-title="Variedades - Latinos",Telepacifico Colombia (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/12380713/streams/live/iphone/playlist.m3u8#megaIPTVArgentina
 
 #EXTINF:-1 tvg-id=Canal Uno" tvg-logo="canaluno.png" group-title="Variedades - Latinos",Canal Uno Colombia
 http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#megaIPTVArgentina
@@ -745,7 +620,7 @@ http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#me
 #EXTINF:-1 tvg-id=Canal Capital" tvg-logo="canalcapital.png" group-title="Variedades - Latinos",Canal Capital Colombia
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8#megaIPTVArgentina
 
-#EXTINF:-1 tvg-id=Canal Tro" tvg-logo="canaltro.png" group-title="Variedades - Latinos",Canal TRO
+#EXTINF:-1 tvg-id=Canal Tro" tvg-logo="canaltro.png" group-title="Variedades - Latinos",Canal TRO Colombia
 http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26
 
 #EXTINF:-1 tvg-id=TeleCaribe" tvg-logo="telecaribe.png" group-title="Variedades - Latinos",TeleCaribe Colombia
@@ -754,7 +629,7 @@ http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8#Mega
 #EXTINF:-1 tvg-id="Canal Tr3ce Colombia" tvg-logo="canal tr3ce.png" group-title="Variedades - Latinos",Canal Tr3ce Colombia
 http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Se√±alInstitucional" tvg-logo="senalinstitucional.png" group-title="Variedades - Latinos",Se√±al Institucional Colombia
+#EXTINF:-1 tvg-id="SeÒalInstitucional" tvg-logo="senalinstitucional.png" group-title="Variedades - Latinos",SeÒal Institucional Colombia
 http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Zoom" tvg-logo="zoom.png" group-title="Variedades - Latinos",Zoom TV Colombia
@@ -765,9 +640,6 @@ http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Hogar TV" tvg-logo="hogartv.png" group-title="Variedades - Latinos",Hogar TV Colombia
 http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Viviral TV" tvg-logo="viviraltv.png" group-title="Variedades - Latinos",Viviral TV Colombia
-http://xviboraltvstreamx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal12Valledupar" tvg-logo="canal12valledupar.png" group-title="Variedades - Latinos",Canal 12 Valledupar Colombia
 rtmp://panelhdstream.com:1935/8022/8022
@@ -781,36 +653,14 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18726481/streams/live/playlist.m
 #EXTINF:-1 tvg-id="Cali TV" tvg-logo="calitv.png" group-title="Variedades - Latinos",Cali TV Colombia (Opc.2)
 http://iphone-streaming.ustream.tv/uhls/18726481/streams/live/iphone/playlist.m3u8#megaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TV Ibague" tvg-logo="tvibague.png" group-title="Variedades - Latinos",TV Ibague Colombia
-http://xtvibaguex.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="EcuadorTV-int" tvg-logo="ecuadortv.png" group-title="Variedades - Latinos",Canal 7 Ecuador TV
-rtmp://38.96.148.216:1935/live/myStream1?c43
-
-#EXTINF:-1 tvg-id="EcuadorTV-int" tvg-logo="ecuadortv.png" group-title="Variedades - Latinos",Ecuador TV Internacional
-http://38.96.148.216:1935/live/internacional/chunklist_w449343516.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="OromarTV" tvg-logo="oromartv.png" group-title="Variedades - Latinos",Oromar TV Ecuador
-rtmp://stream.gcorpvision.com:19356/live/oromartv
-
-#EXTINF:-1 tvg-id="Teleamazonas" tvg-logo="teleamazonas.png" group-title="Variedades - Latinos",Teleamazonas Ecuador
-rtmp://146.185.16.60/live playpath=teleamazonaspop?id=73168&pk=85d6d76de90d8106abbb362d38f91c3e1c67e13bbed6aa8eae3d62d8ac866de5  swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf  live=1 pageUrl=http://www.embeducaster.com/embedplayer/teleamazonaspop/1/600/400
- Conn=S:OK ‚Äìlive
-
-#EXTINF:-1 tvg-id="TC Ecuador" tvg-logo="tcecuador.png" group-title="Variedades - Latinos",TC Ecuador
-http://50.97.142.130:1935/hls2/amlst:10001_ios_hd/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Ecuavisa" tvg-logo="ecuavisa.png" group-title="Variedades - Latinos",Ecuavisa Ecuador
 rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
 
-#EXTINF:-1 tvg-id="Ca√±arTV" tvg-logo="ca√±artv.png" group-title="Variedades - Latinos",Ca√±ar TV Ecuador
+#EXTINF:-1 tvg-id="CaÒarTV" tvg-logo="caÒartv.png" group-title="Variedades - Latinos",CaÒar TV Ecuador
 rtmp://ecuastreamhd.com:1935/canartv/canartv
 
 #EXTINF:-1 tvg-id="TVS Ecuador" tvg-logo="tvs-ecuador.png" group-title="Variedades - Latinos",TVS Ecuador
 http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="CanalUno" tvg-logo="canaluno.png" group-title="Variedades - Latinos",Canal UNO Ecuador
-rtmp://62.210.83.154:1935/liverepeat playpath=ecuatv2 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv2&vw=600&vh=400
 
 #EXTINF:-1 tvg-id="TVN Ecuador" tvg-logo="tvnecuador.png" group-title="Variedades - Latinos",Television Nacional de Ecuador
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
@@ -827,101 +677,44 @@ rtmp://enhd.co:1935/ecoteltv/ecoteltv
 #EXTINF:-1 tvg-id="Digital TV" tvg-logo="digitaltv.jpg" group-title="Variedades - Latinos",Digital TV Canal 28 Macas Ecuador
 http://enhd.co:1935/9208/9208/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Uponavisi√≥n" tvg-logo="upanovision.jpg" group-title="Variedades - Latinos",Upanovision Macas Ecuador
-rtmp://31.204.128.140/live//master19
-
 #EXTINF:-1 tvg-id="CN Plus" tvg-logo="cnplus.jpg" group-title="Variedades - Latinos",CN Plus Ecuador
 http://iphone-streaming.ustream.tv/uhls/9026145/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATV Peru" tvg-name="ATV Peru" tvg-logo="atvperu.png" group-title="Variedades - Latinos",Andina TV HD 720 Per√∫
+#EXTINF:-1 tvg-id="ATV Peru" tvg-name="ATV Peru" tvg-logo="atvperu.png" group-title="Variedades - Latinos",Andina TV HD 720 Per˙
 http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8#megaIPTVArgentina
 
-#EXTINF:-1 tvg-id="ATV Peru" tvg-name="ATV Peru" tvg-logo="atvperu.png" group-title="Variedades - Latinos",Andina TV Per√∫
+#EXTINF:-1 tvg-id="ATV Peru" tvg-name="ATV Peru" tvg-logo="atvperu.png" group-title="Variedades - Latinos",Andina TV Per˙
 http://live.mvdigital.net:1935/live3/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="America TV Peru" tvg-name="America TV" tvg-logo="america peru.png" group-title="Variedades - Latinos",America TV Per√∫
+#EXTINF:-1 tvg-id="America TV Peru" tvg-name="America TV" tvg-logo="america peru.png" group-title="Variedades - Latinos",America TV Per˙
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 
-#EXTINF:-1 tvg-id="America TV Peru" tvg-name="America TV" tvg-logo="america peru.png" group-title="Variedades - Latinos",America TV SD 4:3 Per√∫
-http://live.mvdigital.net:1935/live2/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TV Peru" tvg-name="TVPeru" tvg-logo="tv peru.png" group-title="Variedades - Latinos",TV Per√∫
-http://sjc-uhls-proxy103.ustream.tv/watch/playlist.m3u8?appType=103&appVersion=3&conn=wifi&cid=17419715
-
-#EXTINF:-1 tvg-id="UCV Peru" tvg-name="UCV Peru" tvg-logo="ucvperu.png" group-title="Variedades - Latinos",UCV Satelital Per√∫
+#EXTINF:-1 tvg-id="UCV Peru" tvg-name="UCV Peru" tvg-logo="ucvperu.png" group-title="Variedades - Latinos",UCV Satelital Per˙
 rtmp://wowzacontrol.net:1935/8050/8050
 
-#EXTINF:-1 tvg-id="FrecuenciaLatina" tvg-logo="frecuencialatina.jpg" group-title="Variedades - Latinos",Frecuencia Latina Per√∫
-rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1
-
-#EXTINF:-1 tvg-id="Panamericana" tvg-logo="panamericana.png" group-title="Variedades - Latinos",Panamericana Per√∫
+#EXTINF:-1 tvg-id="Panamericana" tvg-logo="panamericana.png" group-title="Variedades - Latinos",Panamericana Per˙
 http://m.iblups.com:1935/lives/ptv1/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Panamericana" tvg-logo="panamericana.png" group-title="Variedades - Latinos",Panamericana Per√∫ (Opc. 2)
+#EXTINF:-1 tvg-id="Panamericana" tvg-logo="panamericana.png" group-title="Variedades - Latinos",Panamericana Per˙ (Opc. 2)
 http://live.mvdigital.net:1935/live8/livestream1.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Williax" tvg-logo="williax.png" group-title="Variedades - Latinos",Williax Per√∫
-rtmp://willax.mediastream.pe/vv_willax/livestream
-
-#EXTINF:-1 tvg-id="Capital TV Peru" tvg-logo="capitaltv-pe.png" group-title="Variedades - Latinos",Capital TV Per√∫
-rtmp://rpplivefs.fplive.net/rpp02live-live/streamCAPTV
-
-#EXTINF:-1 tvg-id="RBC" tvg-logo="rbc.png" group-title="Variedades - Latinos",RBC Per√∫
+#EXTINF:-1 tvg-id="RBC" tvg-logo="rbc.png" group-title="Variedades - Latinos",RBC Per˙
 http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Quatro TV" tvg-logo="quatrotv.png" group-title="Variedades - Latinos",Quatro TV Arequipa Per√∫
+#EXTINF:-1 tvg-id="Quatro TV" tvg-logo="quatrotv.png" group-title="Variedades - Latinos",Quatro TV Arequipa Per˙
 http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Sol TV" tvg-logo="soltv.png" group-title="Variedades - Latinos",Sol TV Per√∫
+#EXTINF:-1 tvg-id="Sol TV" tvg-logo="soltv.png" group-title="Variedades - Latinos",Sol TV Per˙
 rtmp://live.soltvperu.com/soltv/soltv
-
-#EXTINF:-1 tvg-id="Red TV" tvg-logo="redtv.png" group-title="Variedades - Latinos",Red TV Per√∫
-http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Red PAT" tvg-logo="pat.png" group-title="Variedades - Latinos",Red PAT Nacional Bolivia
 rtmp://www.server.tevemi.com:1935/8092/8092
 
-#EXTINF:-1 tvg-id="Red PAT" tvg-logo="pat.png" group-title="Variedades - Latinos",Red PAT Santa Cruz Bolivia
-rtmp://www.server.tevemi.com:1935/8022/8022
-
 #EXTINF:-1 tvg-id="Red Uno" tvg-logo="reduno.png" group-title="Variedades - Latinos",Red Uno Bolivia (web)
 http://iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m3u8#megaIPTVArgentina
 
-#EXTINF:-1 tvg-id="ATB" tvg-logo="atb-bolivia.png" group-title="Variedades - Latinos",ATB Bolivia
-http://iphone-streaming.ustream.tv/ustreamVideo/15914111/streams/live/playlist.m3u8#megaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Telefuturo" tvg-logo="telefuturo-py.png" group-title="Variedades - Latinos",Telefuturo Paraguay
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal13Paraguay" tvg-logo="canal13paraguay.png" group-title="Variedades - Latinos",Canal 13 Paraguay (web)
-rtmp://70.36.100.38:1935/live playpath=canal13_hq.stream swfUrl=http://www.rpc.com.py/swf/player_web04.swf pageUrl=http://www.dparaguay.com/2013/09/canal-13-paraguay-en-vivo-online.html
-
-#EXTINF:-1 tvg-id="SNT" tvg-logo="snt.png" group-title="Variedades - Latinos",SNT Paraguay
-rtmp://199.168.116.13/app/ramtvps-channel
-
-#EXTINF:-1 tvg-id="TVS" tvg-logo="tvsparaguay.png" group-title="Variedades - Latinos",TVS Paraguay
-rtmp://67.159.60.37/TV playpath=tvs  swfUrl=http://www.desdeparaguay.com/images/dsdpy-play-2.swf? skin=images/fsjw39.zip&repeat=list&autostart=true&buttons=false&bufferlength=12&volume=60&playlist=none&backcolor=FFFFFF&playlistsize=280&file=play2.xml?permitir=10025228042015144683tvs------  live=1 pageUrl=http://www.desdeparaguay.com/tvs
-
-#EXTINF:-1 tvg-logo="canal10py" group-title="Variedades - Latinos",Intercable Canal 10 Paraguay
-rtmp://67.159.60.37/intercable playpath=intercable  swfUrl=http://www.desdeparaguay.com/images/dsdpy-play-2.swf?skin=images/fsjw39.zip&repeat=list&autostart=true&buttons=false&bufferlength=12&volume=60&playlist=none&backcolor=FFFFFF&playlistsize=280&file=play2.xml?permitir=10053028042015869687intercable------  live=1 pageUrl=http://www.desdeparaguay.com/intercable
-
-#EXTINF:-1 tvg-id="TVAParaguay" tvg-name="TVA Paraguay" tvg-logo="tvapy.png",TVA Coronel Oviedo Paraguay
-http://iphone-streaming.ustream.tv/ustreamVideo/18651489/streams/live/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TVAParaguay" tvg-name="TVA Paraguay" tvg-logo="tvapy.png",TVA Coronel Oviedo Paraguay (Opc.2)
-http://iphone-streaming.ustream.tv/uhlso/18651489/streams/live/iphone/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TVMasParaguay" tvg-name="TVMas Paraguay" tvg-logo="tvmaspy.png",TV Mas Encarnaci√≥n Paraguay
-http://iphone-streaming.ustream.tv/uhls/12462352/streams/live/iphone/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TVMasParaguay" tvg-name="TVMas Paraguay" tvg-logo="tvmaspy.png",TV Mas Encarnaci√≥n Paraguay (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/12462352/streams/live/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Globo" tvg-logo="globo.png" group-title="Variedades - Latinos",Rede Globo Brasil
-http://noscdn1.connectedviews.com:1935/live/sporttvlivehd.stream/livestream.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id=Tarob√°TV" tvg-logo"band.png" group-title="Variedades - Latinos",Taroba TV (afiliada BAND) Brasil
-http://mistreaming.com.br:8081/TarobaCascavel/TarobaCascavel/playlist.m3u8#megaIPTVArgentina
 
 #EXTINF:-1 tvg-id="TVCaruaru" tvg-logo"sbt.png" group-title="Variedades - Latinos",TV Pioneira Teresina (Afiliada SBT) Brasil
 rtmp://192.99.46.182/pioneira-tv//pioneira-tv
@@ -935,17 +728,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/13654224/streams/live/playlist.m
 #EXTINF:-1 tvg-id="TVCaruaru" tvg-logo"sbt.png" group-title="Variedades - Latinos",TV Caruaru Pernambuco (Afiliada SBT) Brasil
 http://evp.mm.uol.com.br:1935/ne10/ne10_tcaruaru.sdp/live.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TVParaiba" tvg-logo"record.png" group-title="Variedades - Latinos",TV Para√≠ba (Afiliada Record) Brasil
-http://174.37.99.198:1935/dvrid1816/1816/DVR_b125000_w850070613_qRFZS.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="TVPampa" tvg-logo"redetv.png" group-title="Variedades - Latinos",TV Pampa (Afiliada RedeTV) Brasil
 http://flash1.crossdigital.com.br:1935/ponto4/tvpampa/live.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TV Cultura" tvg-logo"TV Cultura.png" group-title="Variedades - Latinos",TV Cultura Brasil
-rtmp://200.136.27.12/livepkgr/tvcultura4?
-
-#EXTINF:-1 tvg-id="TVE Brasil" tvg-logo"tvebrasil.png" group-title="Variedades - Latinos",TVE HD 720 Brasil
-rtmp://stream2.ba.gov.br/livepkgr//pgm-1?adbe-live-event=irdeb?
 
 #EXTINF:-1 tvg-id="TV Escola Brasil" tvg-logo"tvescola.png" group-title="Variedades - Latinos",TV Escola HD 720 Brasil
 http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
@@ -955,12 +739,6 @@ rtmp://evp.mm.uol.com.br/terraviva/_definst_/terraviva
 
 #EXTINF:-1 tvg-id="AmazonSat" tvg-logo"amazonsat.png" group-title="Variedades - Latinos",AmazonSat Brasil
 http://livela.sambatech.com.br/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="MultiShow" tvg-logo"multishow.png" group-title="Variedades - Latinos",MultiShow Brasil
-rtmp://31.204.128.74/live/brlive_0031
-
-#EXTINF:-1 tvg-id="Futura" tvg-logo"futura.png" group-title="Variedades - Latinos",Futura Brasil
-http://xcanalfuturax.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="tvurbana" tvg-logo"tvurbana.png" group-title="Variedades - Latinos",TV Urbana Brasil
 rtmp://srv6.zoeweb.tv/z433-live/stream
@@ -977,9 +755,6 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f11141
 #EXTINF:-1 tvg-id="TVN Chile" tvg-name="TV Chile" tvg-logo="tvn.png" group-title="Variedades - Latinos",TVN Chile HD 720
 http://edge-20-gtd.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-id="TVN Chile" tvg-name="TV Chile" tvg-logo="tvn.png" group-title="Variedades - Latinos",TVN Chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b500000.m3u8#megaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="mega-cl.png" group-title="Variedades - Latinos",MEGA HD 720 Chile
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 
@@ -992,15 +767,6 @@ http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u
 #EXTINF:-1 tvg-id="C13" tvg-name="Canal 13 HD" tvg-logo="Canal 13 chile.png" group-title="Variedades - Latinos",Canal 13 Chile HD
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-desktopc3vW.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="C13" tvg-name="Canal 13 SD" tvg-logo="Canal 13 chile.png" group-title="Variedades - Latinos",Canal 13 Chile
-http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-632.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Chilevision" tvg-logo="chilevision.png" group-title="Variedades - Latinos",Chilevision HD 720 Chile
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Chilevision" tvg-logo="chilevision.png" group-title="Variedades - Latinos",Chilevision Chile
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="REC TV" tvg-name="REC TV" tvg-logo=" rectvchile.png" group-title="Variedades - Latinos",REC TV Chile
 http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8#MegaIPTVArgentina
 
@@ -1010,26 +776,15 @@ http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3
 #EXTINF:-1 tvg-id="canal9chile" tvg-name="Canal 9 Bio Bio" tvg-logo="canal 9 bio bio.png" group-title="Variedades - Latinos",Canal 9 Bio Bio
 http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w500751237_b1200000.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal del Vino" tvg-logo="canaldelvino.png" group-title="Variedades - Latinos",Canal del Vino Chile
-http://evo.eltelon.com:443/live/canaldelvinotv/playlist.m3u8?MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="CesfamTV" tvg-logo="cesfamtv.png" group-title="Variedades - Latinos",Cesfam TV Chile
-http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="DCH TV" tvg-logo="dchtv.png" group-title="Variedades - Latinos",DCH TV Chile
 http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="SUB TV" tvg-logo="subtv.png" group-title="Variedades - Latinos",SUB TV Santiago Chile
-mmsh://190.196.9.186:8080/subtv
 
-#EXTINF:-1 tvg-id="Ping√ºino TV" tvg-logo="elpinguino.png" group-title="Variedades - Latinos",El Ping√ºino TV Chile
+#EXTINF:-1 tvg-id="Ping¸ino TV" tvg-logo="elpinguino.png" group-title="Variedades - Latinos",El Ping¸ino TV Chile
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal 2 Chile" tvg-logo="canal2chile.png" group-title="Variedades - Latinos",Canal 2 San Antonio Chile
 rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
-
-#EXTINF:-1 tvg-id="Canal 2 VTV" tvg-logo="canal2vtv.png" group-title="Variedades - Latinos",Canal 2 ValleTV Chile
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8?MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="ATV Valdivia" tvg-logo="atv-valdivia.png" group-title="Variedades - Latinos",ATV Valdivia Chile
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
@@ -1043,13 +798,7 @@ http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:-1 tvg-id="Campustv" tvg-logo="campustvcl.png" group-title="Variedades - Latinos",Campus TV Chile
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
 
-#EXTINF:-1 tvg-id="Canal11chile" tvg-logo="aysentv.png" group-title="Variedades - Latinos",Aysen TV Chile
-http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/hasbahca.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Arica TV Chile" tvg-logo="aricatv.png" group-title="Variedades - Latinos",Arica TV Canal 12 Chile
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="QuintaVision" tvg-logo="quintavision.png" group-title="Variedades - Latinos",Quinta Vision Vi√±a del Mar Chile
+#EXTINF:-1 tvg-id="QuintaVision" tvg-logo="quintavision.png" group-title="Variedades - Latinos",Quinta Vision ViÒa del Mar Chile
 http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal 5 Linares" tvg-logo="canal5linares.png" group-title="Variedades - Latinos",Canal 5 Linares Chile
@@ -1058,17 +807,8 @@ rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1 tvg-id="TV Red" tvg-logo="tvred.png" group-title="Variedades - Latinos",TV Red Chile
 http://69.164.193.177:1935/live/myStream/chunklist.m3u8?wowzasessionid=2143164950
 
-#EXTINF:-1 tvg-id="Canal10SAETA"  tvg-logo="canal10uru.png" group-title="Variedades - Latinos",SAETA TV Canal 10 Uruguay
-rtmp://cdnw1.zetatv.com.uy:80/saeta-web/saeta-web.stream
-
 #EXTINF:-1 tvg-id="Canal11 Punta del Este"  tvg-logo="canal11uru.png" group-title="Variedades - Latinos",Canal 11 Punta del Este Uruguay
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal12Uru"  tvg-logo="canal12uru.png" group-title="Variedades - Latinos",Noticiero - Canal 12 HD 720 Uruguay (web)
-http://livela.sambatech.com.br/hls-live/livepkgr/teledoce2_3e0118a5de80a0de508f4c860f155198/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="Canal3Minas"  tvg-logo="canal3minas.png" group-title="Variedades - Latinos",Canal 3 Minas de Corrales Uruguay
-http://iphone-streaming.ustream.tv/ustreamVideo/19067706/streams/live/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Tele 8 Uruguay"  tvg-logo="tele8uru.png" group-title="Variedades - Latinos",Tele 8 Mercedes Uruguay
 http://iphone-streaming.ustream.tv/uhls/18664831/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
@@ -1094,9 +834,6 @@ http://live-edge01.telecentro.net.ar:1935/live/tlfhd-720/playlist.m3u8#MegaIPTVA
 #EXTINF:-1 tvg-id="TELEFE" tvg-name="Telefe" tvg-logo="telefe.png" group-title="Variedades - Latinos",TeLeFe SD HQ Argentina
 http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TELEFE" tvg-name="Telefe" tvg-logo="telefe.png" group-title="Variedades - Latinos",TeLeFe SD 4:3 Argentina
-rtmp://podi.hopper.pw:443/live/live_beto_3
-
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="america2.png" group-title="Variedades - Latinos",America TV HD 720 Argentina
 http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8#MegaIPTVArgentina
 
@@ -1106,17 +843,8 @@ http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8#MegaIPTVArgen
 #EXTINF:-1 tvg-id="Canal9" tvg-name="Canal9" tvg-logo="canal9.png" group-title="Variedades - Latinos",Canal 9 Bs As Argentina (HTTP)
 http://72.46.226.61/live01/canal91/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal9" tvg-name="Canal9" tvg-logo="canal9.png" group-title="Variedades - Latinos",Canal 9 Bs As Argentina
-rtmp://85.17.20.69/live playpath=nuevegran?id=228815  swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf  pageUrl=http://www.mipsplayer.com/embedplayer/nuevegran/1/600/400 Conn=S:OK --live
-
 #EXTINF:-1 tvg-id="Orbe21" tvg-logo="orbe21.png" group-title="Variedades - Latinos",ORBE 21 Argentina
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Acua Federal" tvg-logo="acuafederal.png" group-title="Variedades - Latinos",Acua Federal HD 720 Argentina (OFFLINE)
-http://media.tda.gob.ar/live/ngrp:cabildo.stream_pc/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Acua Federal" tvg-logo="acuafederal.png" group-title="Variedades - Latinos",Acua Mayor Argentina (OFFLINE)
-http://media.tda.gob.ar/live/acua_profile_pc.smil/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Antena Negra" tvg-logo="antenanegra.png" group-title="Variedades - Latinos",Antena Negra Argentina
 http://servicioamerica.net:1935/8680/8680/playlist.m3u8#MegaIPTVArgentina
@@ -1130,20 +858,11 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8#MegaIPTVArge
 #EXTINF:-1 tvg-id="TangoCity" tvg-logo="tangocity.png" group-title="Variedades - Latinos",Solo Tango Argentina
 mms://stream.tangocity.com.ar/tangocity
 
-#EXTINF:-1 tvg-id=DigoTV" tvg-logo="digotv.png" group-title="Variedades - Latinos",Digo TV Argentina (OFFLINE)
-http://iphone-streaming.ustream.tv/ustreamVideo/12082398/streams/live/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id=ConstruirTV" tvg-logo="construirtv.png" group-title="Variedades - Latinos",Construir TV Argentina
 http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id=Diputados TV" tvg-logo="diputadostv.png" group-title="Variedades - Latinos",Diputados TV Argentina
 http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/master.m3u8
-
-#EXTINF:-1 tvg-id="Telecreativa" tvg-logo="telecreativa.png" group-title="Variedades - Latinos",Telecreativa Lan√∫s Argentina
-http://iphone-streaming.ustream.tv/uhls/18545628/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Telecreativa" tvg-logo="telecreativa.png" group-title="Variedades - Latinos",Telecreativa Lan√∫s Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/18545628/streams/live/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal5Tigre" tvg-logo="canal5tigre.jpg" group-title="Variedades - Latinos",Canal 5 Tigre Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8#MegaIPTVArgentina
@@ -1151,17 +870,11 @@ http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m
 #EXTINF:-1 tvg-id="Canal5Tigre" tvg-logo="canal5tigre.jpg" group-title="Variedades - Latinos",Canal 5 Tigre Argentina
 http://iphone-streaming.ustream.tv/uhls/11068260/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="MorenoVision" tvg-logo="morenovision.png" group-title="Variedades - Latinos",Moreno Vision Argentina
-rtmp://morenovisiontv.noip.me/oflaDemo/live
-
-#EXTINF:-1 tvg-id="se√±al provinciall" tvg-logo="se√±al provincial.png" group-title="Variedades - Latinos",Se√±al Provincial Argentina
+#EXTINF:-1 tvg-id="seÒal provinciall" tvg-logo="seÒal provincial.png" group-title="Variedades - Latinos",SeÒal Provincial Argentina
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="UTV" tvg-logo="utv.png"group-title="Variedades - Latinos",U TV La Plata Argentina
 rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
-
-#EXTINF:-1 tvg-id="Canal4Lobos" tvg-logo="canal4lobos.png" group-title="Variedades - Latinos",Canal 4 Lobos Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/5808974/streams/live/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal 29" tvg-logo="canal29ensenada.png"group-title="Variedades - Latinos",Canal 29 Ensenada Argentina
 rtmp://panel.dattalive.com/8008/8008
@@ -1172,16 +885,7 @@ rtmp://65.254.42.234/telejunin/telejunin
 #EXTINF:-1 tvg-id="Canal 2 Santa Teresita" tvg-logo="canal2atlantica.png" group-title="Variedades - Latinos",Canal 2 Santa Teresita
 mmsh://190.14.32.204:3905/
 
-#EXTINF:-1 tvg-id="Canal 2 Mar del Plata" tvg-logo="canal2mdq.png" group-title="Variedades - Latinos",Canal 2 Mar del Plata
-http://iphone-streaming.ustream.tv/uhls/13284341/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 2 Mar del Plata" tvg-logo="canal2mdq.png" group-title="Variedades - Latinos",Canal 2 Mar del Plata (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/13284341/streams/live/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Canal 28 Mar del Plata" tvg-logo="canal28mdq.png" group-title="Variedades - Latinos",Canal 28 Mar del Plata
-http://iphone-streaming.ustream.tv/uhls/18752678/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 28 Mar del Plata" tvg-logo="canal28mdq.png" group-title="Variedades - Latinos",Canal 28 Mar del Plata (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/18752678/streams/live/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal 41 Mar del Plata" tvg-logo="canal41mdq.png" group-title="Variedades - Latinos",Canal 41 Mar del Plata
@@ -1193,149 +897,63 @@ rtmp://painel.serveron.com.br:1935/8168/8168
 #EXTINF:-1 tvg-id="Telpin HD" tvg-logo="telpinhd.png" group-title="Variedades - Latinos",Telpin Canal 2 HD 720 Pinamar Argentina
 rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
 
-#EXTINF:-1 tvg-id="Canal 5 Mar de Aj√≥" tvg-logo="canal5mda.png" group-title="Variedades - Latinos",Canal 5 Mar de Aj√≥
+#EXTINF:-1 tvg-id="Canal 5 Mar de AjÛ" tvg-logo="canal5mda.png" group-title="Variedades - Latinos",Canal 5 Mar de AjÛ
 http://iphone-streaming.ustream.tv/ustreamVideo/14888585/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 5 Mar de Aj√≥" tvg-logo="canal5mda.png" group-title="Variedades - Latinos",Canal 5 Mar de Aj√≥ (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/14888585/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 11 Mar de Aj√≥" tvg-logo="canal11mda.png" group-title="Variedades - Latinos",Canal 11 Mar de Aj√≥
-http://iphone-streaming.ustream.tv/ustreamVideo/18678216/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 11 Mar de Aj√≥" tvg-logo="canal11mda.png" group-title="Variedades - Latinos",Canal 11 Mar de Aj√≥ (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/18678216/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="ECO TV" tvg-logo="ecotv.png" group-title="Variedades - Latinos",ECO TV Tandil Argentina
 rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv
 
-#EXTINF:-1 tvg-id="Canal 5 Olavarria" tvg-logo="canal5olavarria.png" group-title="Variedades - Latinos",Canal 5 Olavarr√≠a Argentina
+#EXTINF:-1 tvg-id="Canal 5 Olavarria" tvg-logo="canal5olavarria.png" group-title="Variedades - Latinos",Canal 5 OlavarrÌa Argentina
 http://iphone-streaming.ustream.tv/uhls/510556/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 5 Olavarria" tvg-logo="canal5olavarria.png" group-title="Variedades - Latinos",Canal 5 Olavarr√≠a Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/510556/streams/live/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Celta TV" tvg-logo="celtatv.png" group-title="Variedades - Latinos",Celta TV Tres Arroyos Argentina
 http://iphone-streaming.ustream.tv/uhls/13952483/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Celta TV" tvg-logo="celtatv.png" group-title="Variedades - Latinos",Celta TV Tres Arroyos Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/13952483/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 12 Cabletel" tvg-logo="canal12zarate.png" group-title="Variedades - Latinos",Canal 12 Z√°rate Argentina
+#EXTINF:-1 tvg-id="Canal 12 Cabletel" tvg-logo="canal12zarate.png" group-title="Variedades - Latinos",Canal 12 Z·rate Argentina
 http://190.151.144.22:8083/canallocal.flv
 
-#EXTINF:-1 tvg-id="Cable Hogar Rosario" tvg-name="CCC San Luis" tvg-logo="cablehogar.png" group-title="Variedades - Latinos",Cable Hogar TV Rosario Argentina
-http://iphone-streaming.ustream.tv/uhls/8053481/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 12 Cordoba" tvg-logo="canal12cordoba.png" group-title="Variedades - Latinos",Canal 12 C√≥rdoba Argentina
-http://iphone-streaming.ustream.tv/uhls/13115741/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal 12 Cordoba" tvg-logo="canal12cordoba.png" group-title="Variedades - Latinos",Canal 12 C√≥rdoba Argentina (Opc.2)
+#EXTINF:-1 tvg-id="Canal 12 Cordoba" tvg-logo="canal12cordoba.png" group-title="Variedades - Latinos",Canal 12 CÛrdoba Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/13115741/streams/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13 SL" tvg-name="Canal 13 San Luis" tvg-logo="canal13sl.png" group-title="Variedades - Latinos",Canal 13 San Luis Argentina
-http://iphone-streaming.ustream.tv/uhls/18347718/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 13 SL" tvg-name="Canal 13 San Luis" tvg-logo="canal13sl.png" group-title="Variedades - Latinos",Canal 13 San Luis Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/18347718/streams/live//playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="CCC SL" tvg-name="CCC San Luis" tvg-logo="cccsl.png" group-title="Variedades - Latinos",CCC San Luis Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/5031477/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="CCC SL" tvg-name="CCC San Luis" tvg-logo="cccsl.png" group-title="Variedades - Latinos",CCC San Luis Argentina (Opc.2)
 http://iphone-streaming.ustream.tv/uhls/5031477/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Se√±alU" tvg-logo="senalu.png"group-title="Variedades - Latinos",Se√±al U Argentina
+#EXTINF:-1 tvg-id="SeÒalU" tvg-logo="senalu.png"group-title="Variedades - Latinos",SeÒal U Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/20087208/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Se√±alU" tvg-logo="senalu.png"group-title="Variedades - Latinos",Se√±al U Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/20087208/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal C Cordoba" tvg-logo="canal-c.png" group-title="Variedades - Latinos",Canal C C√≥rdoba Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/15263481/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="QuatroTV" tvg-logo="quatrotv.png"group-title="Variedades - Latinos",Quatro TV Rio Cuarto Argentina
-rtmp://enhd.co/8938/8938
 
 #EXTINF:-1 tvg-id="Canal10cba" tvg-logo="canal10cba.png" group-title="Variedades - Latinos",Canal 10 Cordoba Argentina
 http://iphone-streaming.ustream.tv/uhls/20251601/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal10cba" tvg-logo="canal10cba.png" group-title="Variedades - Latinos",Canal 10 Cordoba Argentina (opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/20251601/streams/live/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="ImperioTV" tvg-logo="imperiotv.png" group-title="Variedades - Latinos",Imperio TV Rio Cuarto Argentina
 http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="ImperioTV" tvg-logo="imperiotv.png" group-title="Variedades - Latinos",Imperio TV Rio Cuarto Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/18376856/streams/live/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="ElOnce" tvg-logo="elonce.png" group-title="Variedades - Latinos",El Once TV Entre Rios Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/8957585/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="ElOnce" tvg-logo="elonce.png" group-title="Variedades - Latinos",El Once TV Entre Rios Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone(playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Canal 6 Entre Rios" tvg-logo="canal6entrerios.png" group-title="Variedades - Latinos",Canal 6 Entre Rios Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/9042949/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal 6 Entre Rios" tvg-logo="canal6entrerios.png" group-title="Variedades - Latinos",Canal 6 Entre Rios Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/9042949/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 9 Paran√°" tvg-logo="canal9parana.png" group-title="Variedades - Latinos",Canal 9 Paran√° Argentina
+#EXTINF:-1 tvg-id="Canal 9 Paran·" tvg-logo="canal9parana.png" group-title="Variedades - Latinos",Canal 9 Paran· Argentina
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Canal 10 Entre Rios" tvg-logo="canal10entrerios.png" group-title="Variedades - Latinos",Canal 10 Entre Rios Argentina
 http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 10 Entre Rios" tvg-logo="canal10entrerios.png" group-title="Variedades - Latinos",Canal 10 Entre Rios Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal4SJ" tvg-logo="canal4sanjuan.png" group-title="Variedades - Latinos",Canal 4 San Juan Argentina
 rtmp://streamlky.alsolnet.com:1935/canal4sanjuan/live
 
-#EXTINF:-1 tvg-id="Canal 13 San Juan" tvg-logo="canal13sanjuan.png" group-title="Variedades - Latinos",Canal 13 San Juan Argentina
-http://iphone-streaming.ustream.tv/uhls/7650561/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 13 San Juan" tvg-logo="canal13sanjuan.png" group-title="Variedades - Latinos",Canal 13 San Juan Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/7650561/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 9 La Rioja" tvg-logo="canal9larioja.png" group-title="Variedades - Latinos",Canal 9 La Rioja Argentina
-http://200.5.80.158:1935/vod/canal9/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 13 La Rioja" tvg-logo="canal13larioja.png" group-title="Variedades - Latinos",Canal 13 La Rioja Argentina (OFFLINE)
-http://iphone-streaming.ustream.tv/ustreamVideo/10143427/streams/live/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Canal 2 Misiones" tvg-logo="canal2misiones.jpg" group-title="Variedades - Latinos",Canal 2 Misiones Argentina
 http://190.57.237.214/live/canal.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal 4 Misiones" tvg-logo="canal4misiones.jpg" group-title="Variedades - Latinos",Canal 4 Misiones Argentina
-rtmp://67.212.178.250/sav_canal4/myStream
-
-#EXTINF:-1 tvg-id="Canal 9 Misiones" tvg-logo="canal9misiones.jpg" group-title="Variedades - Latinos",Canal 9 Misiones Argentina
-http://iphone-streaming.ustream.tv/uhls/18361719/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 9 Misiones" tvg-logo="canal9misiones.jpg" group-title="Variedades - Latinos",Canal 9 Misiones Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/18361719/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="13 Max TV" tvg-logo="13maxtv.png" group-title="Variedades - Latinos",13 MAX TV Misiones Argentina
-rtsp://coninfo.info/13m
-
 #EXTINF:-1 tvg-id="litoraltv" tvg-logo="litoraltv.png" group-title="Variedades - Latinos",Litoral TV Corrienes Argentina
-http://iphone-streaming.ustream.tv/uhls/9160292/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="litoraltv" tvg-logo="litoraltv.png" group-title="Variedades - Latinos",Litoral TV Corrienes Argentina (Opc.2)
 http://iphone-streaming.ustream.tv/ustreamVideo/9160292/streams/live/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Telesat" tvg-logo="telesat.png" group-title="Variedades - Latinos",TeleSat Corrienes Argentina
 http://iphone-streaming.ustream.tv/uhls/16009593/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Telesat" tvg-logo="telesat.png" group-title="Variedades - Latinos",TeleSat Corrienes Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/16009593/streams/live/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Tele 10 Salta" tvg-logo="tele10corrientes.png" group-title="Variedades - Latinos",Tele 10 Corrientes Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/10327824/streams/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tele 10 Salta" tvg-logo="tele10corrientes.png" group-title="Variedades - Latinos",Tele 10 Corrientes Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/10327824/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LapachoTV" tvg-logo="lapachotv.jpg" group-title="Variedades - Latinos",Lapacho TV Formosa Argentina
 http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8#MegaIPTVArgentina
@@ -1343,20 +961,8 @@ http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8#
 #EXTINF:-1 tvg-id="Canal 9 Salta" tvg-logo="canal9salta.png" group-title="Variedades - Latinos",Canal 9 Salta Argentina
 http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8  
 
-#EXTINF:-1 tvg-id="Tele 10 Salta" tvg-logo="tele10salta.png" group-title="Variedades - Latinos",Tele 10 Salta Argentina
-http://iphone-streaming.ustream.tv/ustreamVideo/14183607/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Tele 10 Salta" tvg-logo="tele10salta.png" group-title="Variedades - Latinos",Tele 10 Salta Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/14183607/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Canal 20 Salta" tvg-logo="canal20salta.png" group-title="Variedades - Latinos",Canal 20 Salta Argentina
 http://iphone-streaming.ustream.tv/uhls/13425182/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 20 Salta" tvg-logo="canal20salta.png" group-title="Variedades - Latinos",Canal 20 Salta Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/13425182/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 4 Jujuy" tvg-logo="canal4jujuy.png" group-title="Variedades - Latinos",Canal 4 HD 720 Jujuy Argentina
-rtmp://streaming.wirenetserver.com.ar/canal4/live_1
 
 #EXTINF:-1 tvg-id="Canal 7 Jujuy" tvg-logo="canal7jujuy.png" group-title="Variedades - Latinos",Canal 7 Jujuy Argentina
 mms://200.43.187.111/canal7
@@ -1367,31 +973,15 @@ rtmp://painel.serveron.com.br:1935/8162/8162
 #EXTINF:-1 tvg-id="TVEO Mendoza" tvg-logo"tveo-mendoza.png" group-title="Variedades - Latinos",TVEO Mendoza Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/13300574/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TVEO Mendoza" tvg-logo"tveo-mendoza.png" group-title="Variedades - Latinos",TVEO Mendoza Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/13300574/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Canal 4 Chubut" tvg-logo"canal4chubut.png" group-title="Variedades - Latinos",Canal 4 Esquel Argentina
 rtmp://streamlky.alsolnet.com/canal4/live
 
 #EXTINF:-1 tvg-id="Madryn TV" tvg-logo"madryntv.png" group-title="Variedades - Latinos",Madryn TV Argentina
 http://iphone-streaming.ustream.tv/ustreamVideo/7029416/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Madryn TV" tvg-logo"madryntv.png" group-title="Variedades - Latinos",Madryn TV Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/7029416/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal 9 Rio Gallegost" tvg-logo"canal 9 Rio Gallegos.png" group-title="Variedades - Latinos",Canal 9 Rio Gallegos Argentina
-http://iphone-streaming.ustream.tv/uhls/18325790/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Canal 9 Rio Gallegost" tvg-logo"canal 9 Rio Gallegos.png" group-title="Variedades - Latinos",Canal 9 Rio Gallegos Argentina (Opc.2)
-http://iphone-streaming.ustream.tv/ustreamVideo/18325790/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Canal 10 Rio Negro" tvg-logo"tvrionegrina.png" group-title="Variedades - Latinos",TV Rionegrina
-rtmp://198.50.154.40/live/live15
-
-#EXTINF:-1 tvg-id="Canal 3 Trelew" tvg-logo"canal3trelew.png" group-title="Variedades - Latinos",Canal 3 Trelew Argentina
-rtmp://198.49.76.226:1935/inovasd/inovasd
-
-#EXTINF:-1 group-title="Noticias",.: NOTICIAS EN ESPA√ëOL :.
+#EXTINF:-1 group-title="Noticias",.: NOTICIAS EN ESPA—OL :.
 http://?
 
 #EXTINF:-1 tvg-id="TodoNoticias" tvg-name="TN" tvg-logo="TN.png" group-title="Noticias",TN
@@ -1415,12 +1005,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17916700/streams/live/playlist.m
 #EXTINF:-1 tvg-id="360TV" tvg-name="360TV" tvg-logo="360tv.png" group-title="Noticias",360TV
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="QM Noticias" tvg-name="QM Noticias" tvg-logo="QM Noticias.png" group-title="Noticias",QM Noticias
-http://iphone-streaming.ustream.tv/ustreamVideo/8684475/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="QM Noticias" tvg-name="QM Noticias" tvg-logo="QM Noticias.png" group-title="Noticias",QM Noticias (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/8684475/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Cba24n" tvg-name="Cba24n" tvg-logo="cba24n.png" group-title="Noticias",Cba 24n
 http://iphone-streaming.ustream.tv/uhls/11678041/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
@@ -1430,23 +1014,11 @@ http://iphone-streaming.ustream.tv/ustreamVideo/11678041/streams/live/playlist.m
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="canalruralarg.png" group-title="Noticias",Canal Rural
 rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
 
-#EXTINF:-1 tvg-id="CNN en Espa√±ol" tvg-name="CNN en Espa√±ol" tvg-logo="cnn en espanol.png" group-title="Noticias",CNN en espa√±ol
-http://187.247.255.139/Apple/CNNEspanol1200.m3u8
-
-#EXTINF:-1 tvg-id="Cable Noticias" tvg-logo="cable noticias.png" group-title="Noticias",Cable Noticias HD 720
-rtmp://50.23.173.13:1935/live/cablenoticiastv_720p
-
-#EXTINF:-1 tvg-id="ElTiempo" tvg-logo="el tiempo.png" group-title="Noticias",El Tiempo Televisi√≥n
+#EXTINF:-1 tvg-id="ElTiempo" tvg-logo="el tiempo.png" group-title="Noticias",El Tiempo TelevisiÛn
 http://ooyalahd2-f.akamaihd.net/i/eltiempo1avts_1603@1603/master.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="telesur.png" group-title="Noticias",Telesur
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Globovision" tvg-logo="globovision.png" group-title="Noticias",Globovisi√≥n
-http://stream-ec.vty.dmcdn.net/14/dm/1/xio7e2/live.isml/events(live-1429738627)/live-audio=128000-video=1024000./playlist.m3u8
-
-#EXTINF:-1 tvg-id="CB24" tvg-logo="telemarcampeche.png" group-title="Variedades - Latinos",CB24 Noticias HD 720
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AztecaNoticias" tvg-logo="azteca noticias.png" group-title="Noticias",Azteca Noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8#MegaIPTVArgentina
@@ -1460,17 +1032,8 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="324" tvg-logo="324a.png" group-title="Noticias",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="EuronewsESP" tvg-logo="euronews.png" group-title="Noticias",Euronews en Espa√±ol
-http://149.11.34.78:1935/live/euronewses.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Informacion TV" tvg-logo="informaciontv.png" group-title="Noticias",Informaci√≥n TV
-http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-
-#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="rt.png" group-title="Noticias",RT en Espa√±ol HD 720
+#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="rt.png" group-title="Noticias",RT en EspaÒol HD 720
 http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/master.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="rt.png" group-title="Noticias",RT en Espa√±ol
-http://odna.octoshape.net/f3f5m2v4/cds/ch2_320p/chunklist.m3u8#MegaIPTVArgentina
 
 
 #EXTINF:-1 group-title="Variedades - Mundo",.: VARIEDADES - INTERNACIONALES :.
@@ -1479,17 +1042,8 @@ http://?
 #EXTINF:-1 tvg-id="CBS 13 USA" tvg-logo="cbs13.png" group-title="Variedades - Mundo",CBS 13 California USA
 http://cbslocal-lh.akamaihd.net/i/KOVR_ULS@118053/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="ABC 33/40 USA" tvg-logo="abc3340.png" group-title="Variedades - Mundo",ABC 33/40 Alabama USA
-rtmp://ms-9.sbgnet.com/livenews/mp4:wbmalive_medium
-
 #EXTINF:-1 tvg-id="Mee Mee TV" tvg-logo="meemeetv" group-title="Variedades - Mundo",Mee Mee TV Florida USA
 http://live-h1.frontlayer.net/fl623481/live/live.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Key TV" tvg-logo="keytv.png" group-title="Variedades - Mundo",KeyTV HD 720 Florida USA
-rtmp://media4.tripsmarter.com/LiveTV/KTVHD
-
-#EXTINF:-1 tvg-id="BeachTV" tvg-logo="beachtv.png" group-title="Variedades - Mundo",Beach TV Florida USA
-rtmp://media4.tripsmarter.com/LiveTV/BTVHD
 
 #EXTINF:-1 tvg-id="CTN 33" tvg-logo="ctn33.png" group-title="Variedades - Mundo",CTN 33 Florida USA
 http://whbr6922.srfms.com:2125/live/livestream/playlist.m3u8#MegaIPTVArgentina
@@ -1497,166 +1051,118 @@ http://whbr6922.srfms.com:2125/live/livestream/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="HSN" tvg-logo="hsn.png" group-title="Variedades - Mundo",HSN Florida USA
 rtmp://hsn.mpl.miisolutions.net/hsn-live01/mp4:420p500kB31
 
-#EXTINF:-1 tvg-id="WIS PBS" tvg-logo="wispbs.png" group-title="Variedades - Mundo",Wisconsin PBS USA
-http://128.104.144.134:1935/WisconsinChannel/mystream/WisconsinChannel.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TVA" tvg-logo="tva-canada.png" group-title="Variedades - Mundo",TVA Canad√°
+#EXTINF:-1 tvg-id="TVA" tvg-logo="tva-canada.png" group-title="Variedades - Mundo",TVA Canad·
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="LCN" tvg-logo="lcn-canada.png" group-title="Variedades - Mundo",LCN Canad√°
-rtmp://cp39414.live.edgefcs.net/live/lcn1@9753
-
-#EXTINF:-1 tvg-id="CTV" tvg-name="CTV" tvg-logo="ctv.png" group-title="Variedades - Mundo",CICC CTV Yorkton Canad√°
+#EXTINF:-1 tvg-id="CTV" tvg-name="CTV" tvg-logo="ctv.png" group-title="Variedades - Mundo",CICC CTV Yorkton Canad·
 http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="CTV Edmond" tvg-logo="cvnews.png" group-title="Noticias",CFRN CTV Edmond Canad√°
+#EXTINF:-1 tvg-id="CTV Edmond" tvg-logo="cvnews.png" group-title="Noticias",CFRN CTV Edmond Canad·
 http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="Antena 3 hd.png" group-title="Variedades - Mundo",Antena 3 HD 720 Espa√±a
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="Antena 3 hd.png" group-title="Variedades - Mundo",Antena 3 HD 720 EspaÒa
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="Antena 3 hd.png" group-title="Variedades - Mundo",Antena 3 SD Espa√±a
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/stream-antena3_1
-
-#EXTINF:-1 tvg-id="LaSexta" tvg-logo="la sexta.png" group-title="Variedades - Mundo",La Sexta HD 720 Espa√±a
+#EXTINF:-1 tvg-id="LaSexta" tvg-logo="la sexta.png" group-title="Variedades - Mundo",La Sexta HD 720 EspaÒa
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Nova" tvg-name=".Nova" tvg-logo="nova.png" group-title="Variedades - Mundo",Neox/Nova
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Cuatro" tvg-logo="cuatro.png" group-title="Variedades - Mundo",Cuatro Espa√±a (web)
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_22@168474/index_0_av-p.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Tele5Espa√±a" tvg-logo="tele5espana.png" group-title="Variedades - Mundo",Telecinco Espa√±a (web)
+#EXTINF:-1 tvg-id="Tele5EspaÒa" tvg-logo="tele5espana.png" group-title="Variedades - Mundo",Telecinco EspaÒa (web)
 http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Telemadrid" tvg-logo="telemadrid.png" group-title="Variedades - Mundo",Telemadrid Espa√±a (web)
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
-
-#EXTINF:-1 tvg-id="Canal 10 Espa√±a" tvg-name="Canal 10 Espa√±a" tvg-logo="canal10es.png" group-title="Variedades - Mundo",Canal 10 Espa√±a
+#EXTINF:-1 tvg-id="Canal 10 EspaÒa" tvg-name="Canal 10 EspaÒa" tvg-logo="canal10es.png" group-title="Variedades - Mundo",Canal 10 EspaÒa
 rtmp://87.106.220.67/live/myStream_2
 
-#EXTINF:-1 tvg-id="Mediterraneo TV" tvg-logo="mediterraneotv.png" group-title="Variedades - Mundo",Mediterraneo TV Espa√±a
+#EXTINF:-1 tvg-id="Mediterraneo TV" tvg-logo="mediterraneotv.png" group-title="Variedades - Mundo",Mediterraneo TV EspaÒa
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="13tv" tvg-logo="13tv.png" group-title="Variedades - Mundo",13tv Espa√±a (web)
+#EXTINF:-1 tvg-id="13tv" tvg-logo="13tv.png" group-title="Variedades - Mundo",13tv EspaÒa (web)
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8?idLive=021&amp;referer=TkQ=
 
-#EXTINF:-1 tvg-id="Extremadura" tvg-logo="extremadura.png" group-title="Variedades - Mundo",Extremadura TV Espa√±a
+#EXTINF:-1 tvg-id="Extremadura" tvg-logo="extremadura.png" group-title="Variedades - Mundo",Extremadura TV EspaÒa
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 
-#EXTINF:-1 tvg-id="HuescaTV" tvg-logo="huescatv.png" group-title="Variedades - Mundo",Huesca TV Espa√±a
-rtmp://streaming2.radiohuesca.com/live/huescatv
-
-#EXTINF:-1 tvg-id="AndaluciaTV" tvg-logo"andaluciatv.png" group-title="Variedades - Mundo",Andalucia TV Espa√±a
+#EXTINF:-1 tvg-id="AndaluciaTV" tvg-logo"andaluciatv.png" group-title="Variedades - Mundo",Andalucia TV EspaÒa
 http://195.10.10.209/rtva/andaluciatelevision-iphone/stream.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="AndaluciaTV" tvg-logo"andaluciatv.png" group-title="Variedades - Mundo",Andalucia TV Espa√±a (Opc.2)
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TV3Cat" tvg-logo="tv3cat.png" group-title="Variedades - Mundo",TV3 Catalunya Espa√±a
+#EXTINF:-1 tvg-id="TV3Cat" tvg-logo="tv3cat.png" group-title="Variedades - Mundo",TV3 Catalunya EspaÒa
 http://www.tv3.cat/directetv3cat/tv3catpc.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="LuxMallorca" tvg-logo="luxmallorca.png" group-title="Variedades - Mundo",Lux Mallorca TV Espa√±a
+#EXTINF:-1 tvg-id="LuxMallorca" tvg-logo="luxmallorca.png" group-title="Variedades - Mundo",Lux Mallorca TV EspaÒa
 rtmp://fl1.viastreaming.net/canal37/livestream
 
-#EXTINF:-1 tvg-id="AragonTV" tvg-logo="aragontv.png" group-title="Variedades - Mundo",Aragon TV Zaragoza Espa√±a
-http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="ZaragozaTV" tvg-logo="zaragozatv.png" group-title="Variedades - Mundo",Zaragoza TV Espa√±a
+#EXTINF:-1 tvg-id="ZaragozaTV" tvg-logo="zaragozatv.png" group-title="Variedades - Mundo",Zaragoza TV EspaÒa
 http://streaming.enetres.net/CD9843D3A4014583ACED8D757D30EAE5022/mobile/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TV Elche" tvg-logo="tvelche.png" group-title="Variedades - Mundo",TV Elche Espa√±a
+#EXTINF:-1 tvg-id="TV Elche" tvg-logo="tvelche.png" group-title="Variedades - Mundo",TV Elche EspaÒa
 rtmp://teledifusion.tv/teleelx/teleelxlive
 
-#EXTINF:-1 tvg-id="TeleBilbao" tvg-logo="telebilbao.png" group-title="Variedades - Mundo",TeleBilbao Espa√±a
-rtmp://149.11.34.6:1935/live/telebilbao.stream
-
-#EXTINF:-1 tvg-id="Girona TV" tvg-logo="gironatv.png" group-title="Variedades - Mundo",Girona TV Espa√±a
+#EXTINF:-1 tvg-id="Girona TV" tvg-logo="gironatv.png" group-title="Variedades - Mundo",Girona TV EspaÒa
 rtmp://tvgirona.dnssw.net/live/Icontouch
 
-#EXTINF:-1 tvg-id="SevillaTV" tvg-logo="sevilla.png" group-title="Variedades - Mundo",Sevilla TV Espa√±a
+#EXTINF:-1 tvg-id="SevillaTV" tvg-logo="sevilla.png" group-title="Variedades - Mundo",Sevilla TV EspaÒa
 http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Granada 7 TV" tvg-logo="granadatv.png" group-title="Variedades - Mundo",Granada 7 TV Espa√±a
+#EXTINF:-1 tvg-id="Granada 7 TV" tvg-logo="granadatv.png" group-title="Variedades - Mundo",Granada 7 TV EspaÒa
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TV Asturias" tvg-logo="teleasturias.png" group-title="Variedades - Mundo",TV Asturias Espa√±a
-rtmp://149.11.34.6:1935/live//teleasturias.stream
-
-#EXTINF:-1 tvg-id="RTPAsturias" tvg-logo="rtpasturias.png" group-title="Variedades - Mundo",RTP Asturias Espa√±a
+#EXTINF:-1 tvg-id="RTPAsturias" tvg-logo="rtpasturias.png" group-title="Variedades - Mundo",RTP Asturias EspaÒa
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TeleBaladona" tvg-logo="telebaladona.png" group-title="Variedades - Mundo",TeleBaladona Espa√±a
+#EXTINF:-1 tvg-id="TeleBaladona" tvg-logo="telebaladona.png" group-title="Variedades - Mundo",TeleBaladona EspaÒa
 rtmp://directe.tvbadalona.cat/live/myStream.sdp
 
-#EXTINF:-1 tvg-id="Navarra TV" tvg-logo="navarratv.png" group-title="Variedades - Mundo",Navarra TV Espa√±a
+#EXTINF:-1 tvg-id="Navarra TV" tvg-logo="navarratv.png" group-title="Variedades - Mundo",Navarra TV EspaÒa
 rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
 
-#EXTINF:-1 tvg-id="Valles Visi√≥" tvg-logo="vallesvisio.png" group-title="Variedades - Mundo",Valles Visi√≥ Barcelona Espa√±a
+#EXTINF:-1 tvg-id="Valles VisiÛ" tvg-logo="vallesvisio.png" group-title="Variedades - Mundo",Valles VisiÛ Barcelona EspaÒa
 http://iphone-streaming.ustream.tv/uhls/14420271/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="EITB" tvg-logo="eitb.png" group-title="Variedades - Mundo",EITB Espa√±a
+#EXTINF:-1 tvg-id="EITB" tvg-logo="eitb.png" group-title="Variedades - Mundo",EITB EspaÒa
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="ComarcalTV" tvg-logo="comarcaltv.png" group-title="Variedades - Mundo",Comarcal TV Espa√±a
-http://iphone-streaming.ustream.tv/ustreamVideo/17652616/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Cantabria" tvg-logo="cantabriatv.png" group-title="Variedades - Mundo",PTV Cantabria Espa√±a
-http://flash3.todostreaming.es:1935/ptvcantabria/livestream/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="CanalBlau" tvg-logo="canalblau.png" group-title="Variedades - Mundo",Canal Blau Espa√±a
+#EXTINF:-1 tvg-id="CanalBlau" tvg-logo="canalblau.png" group-title="Variedades - Mundo",Canal Blau EspaÒa
 http://iphone-streaming.ustream.tv/ustreamVideo/14339579/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="FerrolTV" tvg-logo="ferroltv.png" group-title="Variedades - Mundo",Ferrol TV Espa√±a
+#EXTINF:-1 tvg-id="FerrolTV" tvg-logo="ferroltv.png" group-title="Variedades - Mundo",Ferrol TV EspaÒa
 mms://streaming.arsenet.com/tvf
 
-#EXTINF:-1 tvg-id="Benavente TV" tvg-logo="benaventetv.png" group-title="Variedades - Mundo",Benavente TV Espa√±a
+#EXTINF:-1 tvg-id="Benavente TV" tvg-logo="benaventetv.png" group-title="Variedades - Mundo",Benavente TV EspaÒa
 http://xbenaventetvx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TeleBahia" tvg-logo="telebahia.png" group-title="Variedades - Mundo",TeleBahia Espa√±a
-http://62.42.17.93:1935/live/Live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Toledo TV" tvg-logo="toledotv.png" group-title="Variedades - Mundo",Toledo TV Espa√±a
-http://149.11.34.6:1935/live/teletoledo.stream/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="MijasTV" tvg-logo="mijastv.png" group-title="Variedades - Mundo",Mijas TV M√°laga Espa√±a
+#EXTINF:-1 tvg-id="MijasTV" tvg-logo="mijastv.png" group-title="Variedades - Mundo",Mijas TV M·laga EspaÒa
 http://teledifusion.tv:1935/mijastv/mijastvlive/.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="iB3TV" tvg-logo="ib3tv.png", iB3 Balears TV Espa√±a
-rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live/streamib3
-
-#EXTINF:-1 tvg-id="OndaLuzSierra" tvg-logo="ondaluzsierra.jpg" group-title="Variedades - Mundo",Ondaluz Sierra Espa√±a
+#EXTINF:-1 tvg-id="OndaLuzSierra" tvg-logo="ondaluzsierra.jpg" group-title="Variedades - Mundo",Ondaluz Sierra EspaÒa
 http://cls.elitehd-audiovisuales.com/olsierra/livestream1/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="CeutaTV" tvg-logo="ceutatv.png" group-title="Variedades - Mundo",Ceuta TV Espa√±a
+#EXTINF:-1 tvg-id="CeutaTV" tvg-logo="ceutatv.png" group-title="Variedades - Mundo",Ceuta TV EspaÒa
 http://teledifusion.tv:1935/anguloceuta/anguloceuta/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="HuelvaTV" tvg-logo="huelvatv.png" group-title="Variedades - Mundo",Huelva TV Espa√±a
+#EXTINF:-1 tvg-id="HuelvaTV" tvg-logo="huelvatv.png" group-title="Variedades - Mundo",Huelva TV EspaÒa
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="CondaVision" tvg-logo="condavision.png" group-title="Variedades - Mundo",Condavision Huelva Espa√±a
+#EXTINF:-1 tvg-id="CondaVision" tvg-logo="condavision.png" group-title="Variedades - Mundo",Condavision Huelva EspaÒa
 http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Mirame" tvg-logo="mirametv.png" group-title="Variedades - Mundo",Mirame TV
 rtmp://cast.streamingconnect.tv:1935/2015mirame/2015mirame
 
-#EXTINF:-1 tvg-id="El Dia TV" tvg-logo="eldiatv.png" group-title="Variedades - Mundo",El DiaTV Tenerife Espa√±a
+#EXTINF:-1 tvg-id="El Dia TV" tvg-logo="eldiatv.png" group-title="Variedades - Mundo",El DiaTV Tenerife EspaÒa
 http://teledifusion.tv:1935/dia/dia/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-name=TV Canarias tvg-logo="tv canarias.png" group-title="Variedades - Mundo",TV Canarias Espa√±a (web)
+#EXTINF:-1 tvg-name=TV Canarias tvg-logo="tv canarias.png" group-title="Variedades - Mundo",TV Canarias EspaÒa (web)
 http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-name=Lancelot TV" tvg-logo="lancelot.png" group-title="Variedades - Mundo",Lancelot TV Las Palmas Espa√±a
+#EXTINF:-1 tvg-name=Lancelot TV" tvg-logo="lancelot.png" group-title="Variedades - Mundo",Lancelot TV Las Palmas EspaÒa
 rtmp://62.210.141.18:1935/directo/lancelot.television
 
-#EXTINF:-1 tvg-name=TindayaTV" tvg-logo="tindayatv.png" group-title="Variedades - Mundo",Tindaya TV Las Palmas Espa√±a
+#EXTINF:-1 tvg-name=TindayaTV" tvg-logo="tindayatv.png" group-title="Variedades - Mundo",Tindaya TV Las Palmas EspaÒa
 http://188.165.135.22/tindayatv/livestream/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-name="EHSTV" tvg-logo="ehstv.png" group-title="Variedades - Mundo",EHS TV Ibiza Espa√±a
+#EXTINF:-1 tvg-name="EHSTV" tvg-logo="ehstv.png" group-title="Variedades - Mundo",EHS TV Ibiza EspaÒa
 rtmp://streaming6.streamteca.com/live/WXPHL
 
-#EXTINF:-1 tvg-id="TVGalicia" tvg-name="TVG" tvg-logo="tv galicia.png" group-title="Variedades - Mundo",TV Galicia Espa√±a
+#EXTINF:-1 tvg-id="TVGalicia" tvg-name="TVG" tvg-logo="tv galicia.png" group-title="Variedades - Mundo",TV Galicia EspaÒa
 http://media3.crtvg.es/live/tvge/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="TVGalicia" tvg-name="TVE" tvg-logo="tv galicia.png" group-title="Variedades - Mundo",TV Galicia Internacional
@@ -1674,12 +1180,6 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlis
 #EXTINF:-1 tvg-id="RTP" tvg-logo="RTPint.png" group-title="Variedades - Mundo",RTP Internacional Portugal
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="RTP Radical" tvg-logo="RTP-radical.png" group-title="Variedades - Mundo",RTP Radical
-rtmp://46.28.50.116/live playPath=sicradicalq?id=77959 swfVfy=1 conn=S:OK live=true swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf ccommand=vujkoMiLazarBarakovOdMonospitovo;TRUE;TRUE pageUrl=http://www.ucaster.eu/ Conn=S:OK --live
-
-#EXTINF:-1 tvg-id="TVI" tvg-logo="tvi.png" group-title="Variedades - Mundo",TVI Portugal
-http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-3/livestream.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-logo="RAI 1.png" group-title="Variedades - Mundo",RAI 1 Italia
 http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8#MegaIPTVArgentina
 
@@ -1692,32 +1192,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b
 #EXTINF:-1 tvg-logo="rai5.png" group-title="Variedades - Mundo",RAI 5 Italia
 http://stream12.rai.it/live/smil:rai5.smil/chunklist_b1500000.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="RAIPremium" tvg-logo="raipremium.jpg" group-title="Variedades - Mundo",RAI Premium Italia
-mmsh://212.162.68.163:80/Rai_Premium
-
-#EXTINF:-1 tvg-id="RAIGulp" tvg-logo="raigulp.jpg" group-title="Variedades - Mundo",RAI Gulp Italia
-http://212.162.68.163/Rai_gulp
-
 #EXTINF:-1 tvg-id="RAIstoria" tvg-logo="raistoria.jpg" group-title="Variedades - Mundo",RAI Storia Italia
 mmsh://212.162.68.163/rai_storia
-
-#EXTINF:-1 tvg-id="RSI La2" tvg-logo="rsila2.png" group-title="Variedades - Mundo",RSI La 2 Italia
-http://81.92.105.135:5555/pl.m3u8?channel=176
-
-#EXTINF:-1 tvg-id="RSI La1" tvg-logo="rsila1.png" group-title="Variedades - Mundo",RSI La 1 HD 720 Italia
-http://5.189.144.85:1935/live/rsila1/playlist.m3u8?auth=e572da4f-7f1b-1328-a37a-3e47acd94d6b
-
-#EXTINF:-1 tvg-id="RSI La2" tvg-logo="rsila2.png" group-title="Variedades - Mundo",RSI La 2 HD 720 Italia
-http://5.189.144.85:1935/live/rsila2/playlist.m3u8?auth=e7deeeb5-145f-dfa7-0a86-7e3d807feda0
-
-#EXTINF:-1 tvg-id="Canale 5" tvg-logo="canale5.png" group-title="Variedades - Mundo",Mediaset Canale 5 Italia
-http://5.189.144.85:1935/live/canale5/playlist.m3u8?auth=e05e9a27-cf39-3eb2-5d12-cf55a188babe
-
-#EXTINF:-1 tvg-id="Mediaset 1" tvg-logo="mediaset1.png" group-title="Variedades - Mundo",Mediaset La 1 Italia
-http://5.189.144.85:1935/live/italia1/playlist.m3u8?auth=74912685-3dac-6168-cb49-aff8428b23a7
-
-#EXTINF:-1 tvg-id="La 5 Italia" tvg-logo="la5.png" group-title="Variedades - Mundo",Mediaset La 5 Italia
-http://5.189.144.85:1935/live/la5/playlist.m3u8?auth=6fa53c2f-de43-5ba3-aa45-d31570cec52d
 
 #EXTINF:-1 tvg-id="La 6 Italia" tvg-logo="la6.png" group-title="Variedades - Mundo",Mediaset La 6 Italia
 rtmp://la6.stream.internetone.it/streaming/la6.stream
@@ -1733,12 +1209,6 @@ http://wms.shared.streamshow.it/telesanremo/telesanremo/playlist.m3u8#MegaIPTVAr
 
 #EXTINF:-1 tvg-id="Vdeolina" tvg-logo="videolina.png" group-title="Variedades - Mundo",Videolina Italia
 rtmp://178.33.229.111/live/Videolina
-
-#EXTINF:-1 tvg-id="Telearena" tvg-logo="telearena.png" group-title="Variedades - Mundo",TeleArena Italia
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TST" tvg-logo="tst.png" group-title="Variedades - Mundo",TST Molise Italia
-http://live.streamcaster.net:1935/tstv_live/tstv/chunklist_w1576261212.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="DW" tvg-logo="dw.png" group-title="Variedades - Mundo",Deutsche Welle (L.A) Alemania
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8#MegaIPTVArgentina
@@ -1773,16 +1243,7 @@ http://pebbles107-lh.akamaihd.net/i/rtl2_1@97460/index_1300_av-p.m3u8|X-Forwarde
 #EXTINF:-1 tvg-logo="tv4suecia.png" group-title="Variedades - Mundo",TV4 Suecia
 http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="BBC One" tvg-logo="bbc one.png" group-title="Variedades - Mundo",BBC One UK (OFFLINE)
-http://llnw.live.simplestream.com/mediaexcel01/channel01/3/prog_index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="BBC Two" tvg-logo="bbc two.png" group-title="Variedades - Mundo",BBC Two UK (OFFLINE)
-http://llnw.live.simplestream.com/mediaexcel01/channel02/3/prog_index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="BBC Four" tvg-logo="bbc four.png" group-title="Variedades - Mundo",BBC Four  (OFFLINE)
-http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TV5" tvg-logo="tv5.png" group-title="Variedades - Mundo",TV5 Europa
+#EXTINF:-1 tvg-id="TV5" tvg-logo="tv5.png" group-title="Variedades - Mundo",TV5 Europa Francia
 http://myafricanmega3.tulix.tv:1935/map-tv5afrique/map-tv5afrique.stream/chunklist.m3u8?wowzasessionid=1670180312
 
 #EXTINF:-1 tvg-id="Arte" tvg-logo="arte.png" group-title="Variedades - Mundo",ARTE Francia
@@ -1794,34 +1255,7 @@ http://str81.creacast.com/weo/smil:weo.smil/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="Weo" tvg-logo="weo.png" group-title="Variedades - Mundo",W9 Francia
 http://sslhls.m6tv.cdn.sfr.net/w9_hls_aes.m3u8
 
-#EXTINF:-1 tvg-id="1 Tele" tvg-logo="1tele.png" group-title="Variedades - Mundo",1 Tele Francia
-http://hls-live-m2-l3.canal-plus.com/live/hls/itele-clair-v3-sd-andr7/and-sd-clair/index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TLM" tvg-logo="tlm-fr.png" group-title="Variedades - Mundo",TLM Francia
-http://stream-ec.vty.dmcdn.net/01/dm/1/x173n01/live.isml/master.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Correze TV" tvg-logo="correze.png" group-title="Variedades - Mundo",Correze TV (Francia)
-rtmp://www.correzetelevision.fr:1935/playlist/webtv
-
-#EXTINF:-1 tvg-id="TF1 Monde" tvg-name="TV5" tvg-logo="TF1.png" group-title="Variedades - Mundo",TF1 Francia
-http://medias.streaming-hub.com:8090/hls/tf1.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="France 2" tvg-logo="france2.png" group-title="Variedades - Mundo",France 2 HD 720
-http://94.23.33.220:8080/simulcast/France_2/hls_v1/.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="France 3 tvg-logo="france3.png" group-title="Variedades - Mundo",France 3 HD 720
-http://94.23.33.220:8080/simulcast/France_3/hls_v1/.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="France 4 tvg-logo="france4.png" group-title="Variedades - Mundo",France 4 HD 720
-http://94.23.33.220:8080/simulcast/France_4/hls_v1/.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="France 5" tvg-logo="france5.png" group-title="Variedades - Mundo",France 5 HD 720
-http://94.23.33.220:8080/simulcast/France_5/hls_v1/.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="FranceO" tvg-logo="franceo.png" group-title="Variedades - Mundo",France O HD 720
-http://94.23.33.220:8080/simulcast/France_O/hls_v1/.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-logo="latele-x.png" group-title="Variedades - Mundo",LA TEL√â
+#EXTINF:-1 tvg-logo="latele-x.png" group-title="Variedades - Mundo",LA TEL…
 http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="RTL9" tvg-logo="RTL9.png" group-title="Variedades - Mundo",RTL9 
@@ -1830,19 +1264,16 @@ http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_900_av-p.m3u8|X-Forwarded
 #EXTINF:-1 tvg-id="OM5 TV" tvg-logo="om5tv.png" group-title="Variedades - Mundo",OM5 TV
 http://ec.playmedia.fr/om5-tv/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-logo="canal9suiza.png" group-title="Variedades - Mundo",CANAL 9 HD 720 Suiza
-http://httpstream.canal9.ch/canal9live.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TELESambre" tvg-logo="telesambre.png" group-title="Variedades - Mundo",T√©l√©sambre B√©lgica
+#EXTINF:-1 tvg-id="TELESambre" tvg-logo="telesambre.png" group-title="Variedades - Mundo",TÈlÈsambre BÈlgica
 rtmp://vm109.imust.org:1935/live playpath=telesambre-live  swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf live=1 pageUrl=http://tv.charkleons.com/2014/05/telesambre.html
 
-#EXTINF:-1 tvg-id="TELESambre" tvg-logo="telesambre.png" group-title="Variedades - Mundo",T√©l√© MB B√©lgica
+#EXTINF:-1 tvg-id="TELESambre" tvg-logo="telesambre.png" group-title="Variedades - Mundo",TÈlÈ MB BÈlgica
 rtmp://vm109.imust.org:1935/live playpath=telemb-live  swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf live=1 pageUrl=http://tv.charkleons.com/2014/05/telemb.html
  
-#EXTINF:-1 tvg-id="Not√©l√©" tvg-name="Not√©l√©" tvg-logo="telesambre.png" group-title="Variedades - Mundo",Not√©l√© B√©lgica
+#EXTINF:-1 tvg-id="NotÈlÈ" tvg-name="NotÈlÈ" tvg-logo="telesambre.png" group-title="Variedades - Mundo",NotÈlÈ BÈlgica
 rtmp://streaming06.axeweb.be:1935/live/ playpath=direct.stream  swfUrl=http://www.axeweb.be/player/player.swf live=1 pageUrl=http://tv.charkleons.com/2014/05/notele.html
 
-#EXTINF:-1 tvg-id="T√©l√© Bruxelles" tvg-logo="telebruxelles.png" group-title="Variedades - Mundo",T√©l√© Bruxelles Bruselas
+#EXTINF:-1 tvg-id="TÈlÈ Bruxelles" tvg-logo="telebruxelles.png" group-title="Variedades - Mundo",TÈlÈ Bruxelles Bruselas
 http://37.187.156.238:1935/live/live.sdp/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="mega.png" group-title="Variedades - Mundo",Mega Grecia
@@ -1857,17 +1288,11 @@ http://live2.ertopen.com/live2/e600/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="TB 3" tvg-logo="tb3-ru.png" group-title="Variedades - Mundo", TB 3 Rusia
 http://msk2.peers.tv/streaming/tv3/126/tvrec/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Kanal 5" tvg-logo="kanal5.png" group-title="Variedades - Mundo", Kanal 5 Rusia
-http://rtk1.peers.tv/streaming/5kanal/126/tvrec/laylist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="zvezda.png" group-title="Variedades - Mundo",Zvezda Rusia
 http://rtk1.peers.tv/streaming/zvezda/126/tvrec/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="MIR24" tvg-logo="mir24.png" group-title="Variedades - Mundo",MIR24 Rusia
 http://rtk1.peers.tv/streaming/mir24/16/tvrec/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="strk" tvg-logo="strk.png" group-title="Variedades - Mundo",STRK HD 720 Rusia
-http://msk2.peers.tv/streaming/strk/126/hd/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="HCK 49" tvg-logo="hc49.png" group-title="Variedades - Mundo",HCK 49 Rusia
 http://msk2.peers.tv/streaming/49kanal/16/tvrec/playlist.m3u8#MegaIPTVArgentina
@@ -1875,10 +1300,10 @@ http://msk2.peers.tv/streaming/49kanal/16/tvrec/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="2x2" tvg-logo="2x2.png" group-title="Variedades - Mundo",2x2 Rusia
 http://rtk1.peers.tv/streaming/2x2tv/126/tvrec/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="M1 TV" tvg-logo="m1tv.png" group-title="Variedades - Mundo",M1 TV Hungr√≠a
+#EXTINF:-1 tvg-id="M1 TV" tvg-logo="m1tv.png" group-title="Variedades - Mundo",M1 TV HungrÌa
 http://212.40.98.161/intstreams/mtva/mtv1live_international.smil/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Duna TV" tvg-logo="dunatv.png" group-title="Variedades - Mundo",Duna TV Hungr√≠a
+#EXTINF:-1 tvg-id="Duna TV" tvg-logo="dunatv.png" group-title="Variedades - Mundo",Duna TV HungrÌa
 http://212.40.98.161/intstreams/mtva/dunalive_international.smil/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Digi24" tvg-logo="digi24.png" group-title="Variedades - Mundo",Digi 24 Brasov Rumania
@@ -1896,35 +1321,8 @@ rtmp://193.43.26.198:1935/live/bntsat
 #EXTINF:-1 tvg-id="Zing TVt" tvg-logo="zingtv.png" group-title="Variedades - Mundo",Zing TV India
 http://46.249.213.87/iPhone/HLS_TS/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr648k.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="cctv4.png" group-title="Variedades - Mundo",CCTV 4 China
-http://103.242.13.67:5000/nn_live.ts?id=cctv4-m-h
-
-#EXTINF:-1 tvg-id="CCTV9" tvg-logo="cctv9.png" group-title="Variedades - Mundo",CCTV 9 China
-http://103.242.13.66:5000/nn_live.ts?id=cctvd-m-h
-
-#EXTINF:-1 tvg-id="JET TV"tvg-logo="jettv-tw.png" group-title="Variedades - Mundo",JET TV Taiw√°n
-rtmp://podi.hopper.pw:443/live/live_mirror582vg
-
-#EXTINF:-1 tvg-id="NHKWorld Jap√≥n" tvg-logo="nhk.png" group-title="Variedades - Mundo",NHK World Jap√≥n (OFFLINE)
-http://103.242.13.67:5000/nn_live.ts?id=nhkworldhd-m-h
-
-#EXTINF:-1 tvg-id="kansai" tvg-logo="kansai.png" group-title="Variedades - Mundo",Kansai Channel Jap√≥n
-rtmp://199.168.116.19/app/kansai-channel
-
-#EXTINF:-1 tvg-id="NTV"tvg-logo="ntvjapon.png" group-title="Variedades - Mundo",NTV Jap√≥n
-rtmp://stream2.mov3.co/live/kanto
-
-#EXTINF:-1 tvg-id="TV Tokyo"tvg-logo="tvtokyo.png" group-title="Variedades - Mundo",TV Tokyo Jap√≥n
-rtmp://stream6.mov3.co/live/kanto2
-
-#EXTINF:-1 tvg-id="TV Asahi"tvg-logo="tvtasahi.png" group-title="Variedades - Mundo",TV Asahi Jap√≥n (OFFLINE)
-http://66.55.92.71:1935/app/sherming6666s-channel/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Nippon TV"tvg-logo="nippontv.png" group-title="Variedades - Mundo",Nippon TV HD 720 Jap√≥n
-rtmp://167.114.159.157/app/sherming7777s-channel
-
-#EXTINF:-1 tvg-id="TV Asahi"tvg-logo="tvtasahi.png" group-title="Variedades - Mundo",Kansai TV Jap√≥n
-http://167.114.157.89:1935/app/kansai-channel/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="NHKWorld JapÛn" tvg-logo="nhk.png" group-title="Variedades - Mundo",NHK World JapÛn
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NHK/bw480000/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="arirang.png" group-title="Variedades - Mundo",Arirang TV HD 720 Korea
 
@@ -1938,35 +1336,17 @@ http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/
 #EXTINF:-1 tvg-id="BBTV7" tvg-logo="bbtv7.png" group-title="Variedades - Mundo",BBTV 7 HD 720 Thailandia
 rtmp://58.97.57.152/live playpath=ch47 swfUrl=http://www.one2hd.com/swfs/mediaPlayer/mediaPlayer.swf pageUrl=http://www.one2hd.com/
 
-#EXTINF:-1 tvg-id="Thai PBS" tvg-logo="thaipbs.png" group-title="Variedades - Mundo",Thai PBS HD 720 Thailandia
-http://74.207.251.9/hls/tpbspc2/index.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Arena" tvg-logo="arenasports.png" group-title="Variedades - Mundo",Arena TV Indonesia
 http://118.97.167.19/jhos/arena//Playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Trans7" tvg-logo="trans7.png" group-title="Variedades - Mundo",Trans 7 Indonesia
-http://www.useetv.com/jhos/tellin/trans7.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TV One" tvg-logo="tvone.png" group-title="Variedades - Mundo",TV One Indonesia
-http://www.useetv.com:24103http://www.useetv.com/jhos/tellin/tvone.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Imedi" tvg-logo="imedi.png" group-title="Variedades - Mundo",Imedi Georgia
 rtmp://185.36.100.33:1935/imedi/hq/
 
-#EXTINF:-1 tvg-id="AZTV" tvg-logo="aztv.png" group-title="Variedades - Mundo",AZTV Azerbaiy√°n
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TRTHD" tvg-logo="trt.png" group-title="Variedades - Mundo",TRT Turqu√≠a
+#EXTINF:-1 tvg-id="TRTHD" tvg-logo="trt.png" group-title="Variedades - Mundo",TRT TurquÌa
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="kanalturk" tvg-logo="kanalturk.png" group-title="Variedades - Mundo",Kanal Turk Turqu√≠a
-http://50.7.136.162:1935/live/kanalturk/master.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="kanal7" tvg-logo="kanal7.png" group-title="Variedades - Mundo",Kanal 7 Kanli Izle Turqu√≠a
+#EXTINF:-1 tvg-id="kanal7" tvg-logo="kanal7.png" group-title="Variedades - Mundo",Kanal 7 Kanli Izle TurquÌa
 http://mobil.gostream.nl/kanal7iphone/_definst_/3kanal7iphone.sdp/iptvarg_w682189916.m3u8
-
-#EXTINF:-1 tvg-id="PIK Sat" tvg-logo="piksat.png" group-title="Variedades - Mundo",PIK Sat Chipre
-http://cdnvideo.webvideocore.net/live11uk/out_2xtqzyrq6gysc48ko0cs/index.m3u8
 
 #EXTINF:-1 tvg-id="2israel" tvg-logo="2israel.png" group-title="Variedades - Mundo",Canal 2 HD 720 Israel
 http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8#MegaIPTVArgentina
@@ -1983,38 +1363,17 @@ http://63.237.48.23/ios/MBC2/MBC2.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="UTV Ghana" tvg-logo="utvghana.png" group-title="Variedades - Mundo",UTV Ghana
 http://iphone-streaming.ustream.tv/ustreamVideo/19246420/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="NTV Kenia" tvg-logo="ntvkenia.png" group-title="Variedades - Mundo",NTV Kenia
-http://iphone-streaming.ustream.tv/ustreamVideo/18069821/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TCV" tvg-logo="tvc-caboverde.png" group-title="Variedades - Mundo",TCV Cabo Verde
-http://213.13.26.12:1935/live/rtc_teste/magellan.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TPA" tvg-logo="tpa-angola.png" group-title="Variedades - Mundo",TPA Internacional Angola
-rtmp://fml.6F53.edgecastcdn.net/206F53/tpai512
-
-
-#EXTINF:-1, .: NOTICIAS - MUNDO :.
+#EXTINF:-1 group-title="Noticias", .: NOTICIAS - MUNDO :.
 http://?
-#EXTINF:-1 tvg-id="SIC Noticiast" tvg-logo="sic_noticias.png" group-title="Noticias",SIC NOTICIAS
-http://213.13.26.7:1936/live/_definst_/sicnoticias/magellan.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="RTusa" tvg-name="RT ingles" tvg-logo="rt usa.png" group-title="Noticias",RT
 http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?Vd?u#bt!25
-
-#EXTINF:-1 tvg-id="CCTV News" tvg-name="CCTV News" tvg-logo="cctvnews.png" group-title="Noticias",CCTV News
-rtsp://212-123.livestream.com:8080/livestreamiphone/7082210_2743426_c2b2a8be_1_198@190595
 
 #EXTINF:-1 tvg-id="EuroNews" tvg-name="Euronews" tvg-logo="euronews.png" group-title="Noticias",EuroNews Portugal
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
 
 #EXTINF:-1 tvg-id="EuroNews" tvg-name="Euronews" tvg-logo="euronews.png" group-title="Noticias",EuroNews en Ingles
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
-
-#EXTINF:-1 tvg-id="WeatherNation" tvg-name="WeatherNation" tvg-logo="weathernation.png" group-title="Noticias",Weather Nation HD 720
-http://kalsegsec-a.akamaihd.net:80/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_all.smil/chunklist_b2096000.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="News12" tvg-name="News12" tvg-logo="news12.png" group-title="Noticias",News 12 Long Island USA
-rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
 
 #EXTINF:-1 tvg-id="CNN"  tvg-logo="cnn.png" group-title="Noticias",CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8#MegaIPTVArgentina
@@ -2028,35 +1387,16 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?MegaIPTVArgentina
 #EXTINF:-1 tvg-id="abc news" tv-name="Action News" tvg-logo="actionnews.png" group-title="Noticias",Action News California USA
 rtmp://76.12.161.174/gocom-edge/livestream.stream_360p
 
-#EXTINF:-1 tvg-id="abc news" tv-name="NBC News" tvg-logo="kcra3.png" group-title="Noticias",KCRA 3 News Sacramento USA
-http://23.22.215.3/server/play/hearst-kcra-dfp/1048000/prog.m3u8?anvsid=bc858953-6a05-48e0-9328-8b41c11ed762
-
-#EXTINF:-1 tvg-id="abc news" tv-name="NBC News" tvg-logo="kcra3.png" group-title="Noticias",WFMJ 21 News Now
-http://wfmj-lh.akamaihd.net/i/WFMJ_902@53287/master.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="CBS 10 news" tv-name="10 News" tvg-logo="10news.png" group-title="Noticias",WTSP 10 News Florida HD720  USA
 
 
 #EXTINF:-1 tvg-id="CTN 33" tvg-logo="ctn33.png" group-title="Variedades - Mundo",CTN 33 Florida USA
 
-
-#EXTINF:-1 tvg-id="abc news" tv-name="Action News" tvg-logo="actionnews.png" group-title="Noticias",ABC 10 News HD 720
-http://kxtv-lh.akamaihd.net/KXTV_Live_1_2000@74761?videoId=2166100606001&lineUpId=&pubId=35121343001&playerId=1811591078001&affiliateId=&accountid=35121343001&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2016,0,0,305&r=NVLKP&g=KFDXSNYRFCBN
-
-#EXTINF:-1 tvg-id="Action News" tv-name="Action News" tvg-logo="actionnews.png" group-title="Noticias",KYTV 4 News
-http://54.157.244.65/server/play/hearst-kitv-dfp/548000/prog.m3u8?anvsid=949fef00-b3e6-482f-8d2a-22db60787230
-
 #EXTINF:-1 tvg-id="WGN 9 News" tv-name="Action News" tvg-logo="wgnnews.png" group-title="Noticias",WGN 9 News Chicago USA
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="FOX 22 News" tv-name="Fox 22 News" tvg-logo="fox22news.png" group-title="Noticias",FOX 22 News Oklahoma USA
-rtmp://syndilivefs.fplive.net/syndilive-live/stream32-koki
-
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="cnbc.png" group-title="Noticias",CNBC
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="LCN" tvg-logo="lcn.png" group-title="Noticias",LCN Canad√°
-rtmp://cp39414.live.edgefcs.net/live/lcn1@9753
 
 #EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky_News7" tvg-logo="sky news.png" group-title="Noticias",Sky News
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8#MegaIPTVArgentina
@@ -2066,9 +1406,6 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8#
 
 #EXTINF:-1 tvg-id="Bloomberg UKs" tvg-name="BLoomberg UK" tvg-logo="bloomberg.png" group-title="Noticias",Bloomberg UK
 http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Economico TV" tvg-name="Economico TV" tvg-logo="economicotv.png" group-title="Noticias",Economico TV
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="france24.png"group-title="Noticias",France 24
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_500.m3u8#MegaIPTVArgentina
@@ -2082,7 +1419,7 @@ http://httpstream2.rai.it/rn24.isml/QualityLevels(1256000)/manifest(format=m3u8-
 #EXTINF:-1 tvg-id="TG24" tvg-name="TG24" tvg-logo="tg24.png"group-title="Noticias",TG 24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-logo="Digi24.png" group-title="Variedades - Mundo",Digi24 Rumania
+#EXTINF:-1 tvg-logo="Digi24.png" group-title="Noticias",Digi24 Rumania
 http://82.76.249.77/digi24edge/digi24oradealivehls/hasbahca.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Austria 24" tvg-name="Austria 24" tvg-logo="austria24.png"group-title="Noticias",Austria 24
@@ -2107,11 +1444,8 @@ http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8#MegaIPT
 #EXTINF:-1 tvg-id="esnetv" tvg-logo="ESNE.png" group-title="Religion",ESNE
 http://198.154.228.82:1935/live/esnetv/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="MariaVisi√≥n" tvg-logo="mariavision.png" group-title="Religion",Mar√≠aVisi√≥n
+#EXTINF:-1 tvg-id="MariaVisiÛn" tvg-logo="mariavision.png" group-title="Religion",MarÌaVisiÛn
 http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="La Voz de Mar√≠a" tvg-logo="lavozdemaria.png" group-title="Religion",La Voz de Mar√≠a
-rtmp://va1.ministeriotv.com/mtv_video/83/stream  swfUrl=http://www.ministeriotv.com/embed.swf  pageUrl=http://www.ministeriotv.com/embed/83/960/540/FALSE/true/false
 
 #EXTINF:-1 tvg-id="CristoVision" tvg-logo="cristovision.png" group-title="Religion",CristoVision
 http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist.m3u8#MegaIPTVArgentina
@@ -2119,32 +1453,14 @@ http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist.m3u8#
 #EXTINF:-1 tvg-id="Teleamiga" tvg-logo="teleamiga.png" group-title="Religion",Tele Amiga
 http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/canalesdelpueblotv.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TV_Diocesano" tvg-logo="canal diocesano.png" group-title="Religion",Canal Diocesano
-rtmp://flash3.todostreaming.es/edesco/livestream
-
-#EXTINF:-1 tvg-id="BYU TV" tvg-logo="byutv.png" group-title="Religion",BYU TV en espa√±ol
+#EXTINF:-1 tvg-id="BYU TV" tvg-logo="byutv.png" group-title="Religion",BYU TV en espaÒol
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="SolidariaTV-es" tvg-logo="solidariatv.png" group-title="Religion",Solidaria TV Espa√±a
-rtsp://flash3.todostreaming.es/solidariatv/mystream
-
-#EXTINF:-1 tvg-id="SolidariaTV-ar" tvg-logo="solidariatv.png" group-title="Religion",Solidaria TV Argentina
-rtmp://flash3.todostreaming.es/remararg/livestream
 
 #EXTINF:-1 tvg-id="CanalLuz" tvg-logo="canal-luz.jpg" group-title="Religion",Canal Luz
 http://iphone-streaming.ustream.tv/ustreamVideo/8901586/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="CanalLuz" tvg-logo="canal-luz.jpg" group-title="Religion",Canal Luz (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/8901586/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Nuevo Tiempo" tvg-logo="nuevotiempo.png" group-title="Religion",Nuevo Tiempo
 rtmp://wow1.dallas.digitalproserver.com/ntiempo/ntiempovivo playpath=mp4:livestream1  swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/latest/jwplayer.flash.swf?v=70  live=1 pageUrl=http://media.digitalproserver.com/v2/live/ntiempo
-
-#EXTINF:-1 tvg-id="Canal-i" tvg-logo="canal-i.jpg" group-title="Religion",Iglesia Adventista Florida
-http://xiglesiaadventistadefloridax.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Tele Vida" tvg-logo="televida.jpg" group-title="Religion",TeleVida
-http://evo.eltelon.com:443/live/televida/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Teledunamis" tvg-logo="teledunamis.jpg" group-title="Religion",Teledunamis
 http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8#MegaIPTVArgentina
@@ -2161,7 +1477,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8#MegaIPTV
 #EXTINF:-1 tvg-id="Bethel TV" tvg-logo="betheltv.jpg" group-title="Religion",Bethel TV HD 720
 http://streamtv.betheltv.pe:1935/bethelgospelhd/ngrp:streamingbethel25hd_all/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Hosanna Vision Panama" tvg-logo="hosannavision.jpg" group-title="Religion",Hosanna Visi√≥n
+#EXTINF:-1 tvg-id="Hosanna Vision Panama" tvg-logo="hosannavision.jpg" group-title="Religion",Hosanna VisiÛn
 http://xhosannavisiontvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Rhema TV Guatemala" tvg-logo="rhematv.jpg" group-title="Religion",Rhema TV
@@ -2173,7 +1489,7 @@ rtmp://k3.usastreams.com:1935/etvSD/etvSD
 #EXTINF:-1 tvg-id="Nazareno TV" tvg-logo="nazarenotv.png" group-title="Religion",Nazareno TV
 rtmp://87.106.232.7/live/myStream_2
 
-#EXTINF:-1 tvg-id="CBN en espa√±ol" tvg-logo="cbn.jpg" group-title="Religion",CBN en espa√±ol
+#EXTINF:-1 tvg-id="CBN en espaÒol" tvg-logo="cbn.jpg" group-title="Religion",CBN en espaÒol
 http://brightcove03-f.akamaihd.net/iptv2_1_900@50919?videoId=1370792317001&lineUpId=&pubId=734546207001&playerId=2210144031001&affiliateId=&v=3.4.0&fp=WIN%2016,0,0,305&
 
 #EXTINF:-1 tvg-id="RedAdvenir" tvg-logo="redadvenir.png" group-title="Religion",Red ADvenir
@@ -2184,13 +1500,11 @@ http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8#MegaIPTVArg
 
 #EXTINF:-1 tvg-id="Claret TV" tvg-logo="claret-tv.png" group-title="Religion",Claret TV
 rtmp://edge.wms28.lorini.net/clarettv/clarettv
-#EXTINF:-1 tvg-id="MCN TV" tvg-logo="mcntv.png" group-title="Religion",MCN Televisi√≥n
-http://iphone-streaming.ustream.tv/uhls/7227963/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Alcance TV" tvg-logo="alcancetv.png" group-title="Religion",Alcance TV
 http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1282066740_b1000000.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Almavision" tvg-logo="almavision.png" group-title="Religion",Almavisi√≥n
+#EXTINF:-1 tvg-id="Almavision" tvg-logo="almavision.png" group-title="Religion",AlmavisiÛn
 http://cdn3.iviplanet.com:1935/Almavision/_definst_/mp4:almavision1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTNi" tvg-logo="CTNi.png" group-title="Religion",CTNi
@@ -2199,12 +1513,16 @@ http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="RTV" tvg-logo="RTV.png" group-title="Religion",RTV
 http://178.32.53.254/radiovida/mobile/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Alfa TV" tvg-logo="alfatv.png" group-title="Religion",Alfa TV
-rtmp://streamer1.streamhost.org/salive/GMIalfam
 
 
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 http://?
+
+#EXTINF:-1 tvg-id="CB24" tvg-logo="telemarcampeche.png" group-title="Variedades - Latinos",CB24 Noticias HD 720
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GEM Travel" tvg-logo="gemtravel.png" group-title="Deportes",GEM
+http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="MotorsTV" tvg-logo="motorstv.png" group-title="Deportes",Motors TV
 http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2#MegaIPTVArgentina
@@ -2212,38 +1530,11 @@ http://46.61.226.21/hls/CH_MOTORSTV/variant.m3u8?version=2#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="AutoSport TV" tvg-logo="autosport-tv.png" group-title="Deportes",AutoSport TV
 mms://83.222.173.94/100livesport
 
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="Sky Sports" tvg-logo="skysports.png" group-title="Deportes",SKY Sports F1
-http://pappuyartangnakar.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
-
-#EXTINF:-1 tvg-id="F1" tvg-name="F1" tvg-logo="skysports.png" group-title="Deportes",Channel F1
-rtmp://safe.iguide.to/iguide playpath=8wwhhqwh25uf05q swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30568&autoplay=true pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1 tvg-id="Fox Sports USA" tvg-name="Fox Sports USA" tvg-logo="fox sports.png" group-title="Deportes"",Fox Sports U.S.A HD 720
-http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Fox Sports-" tvg-logo="fox sports.png" group-title="Deportes",Fox Sports Latino (SD 4:3 low)
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Gol TV" tvg-name="Gol TV" tvg-logo="goltv.png" group-title="Deportes",Gol TV USA
-http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Gol TV" tvg-logo="goltv.png" group-title="Deportes",GOL TV L.A (SD 4:3 low)
-http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Azteca Deportes" tvg-logo="azteca deportes.png" group-title="Deportes",Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Todo Deportes" tvg-logo="todo deportes.png" group-title="Deportes", Todo Deportes Honduras
-http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
-
-#EXTINF:-1 tvg-id="CMD" tvg-logo="cmd.png" group-title="Deportes",CMD Per√∫
-http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="TyC Sports" tvg-logo="tyc Sports.png" group-title="Deportes",TyC Sports
-rtmp://podi.hopper.pw:443/live/live_afatv1
-
-#EXTINF:-1 tvg-id="DeporTV" tvg-logo="deportv.png" group-title="Deportes",DeporTV Argentina
-rtmp://edge02.dcarsat.com.ar/DXTV/DXTV/
 
 #EXTINF:0,tvg-id="America Sports" tvg-name="America Sports" tvg-logo="america sports.png" group-title="Deportes",America Sports
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
@@ -2251,32 +1542,8 @@ http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="Canal CDN-SportsMax" tvg-name="CDN-SportsMax" tvg-logo="CDN-SportsMax.png" group-title="Deportes",CDN SportsMax
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN L.A" tvg-logo="ESPN.png" group-title="Deportes",ESPN L.A (SD 4:3 low)
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="ESPN UK" tvg-name="ESPN UK" tvg-logo="espn.png" group-title="Deportes",ESPN UK
-rtmp://109.123.70.38:80/live playpath=espnxuk swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedu.php?live=espnxuk&vw=620&vh=490 token=%Zrey(nKa@#Z
-
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="Sky Sports" tvg-logo="skysports.png" group-title="Deportes",SKY Sports 1
-http://pappuyartangnakar.ddns.net:8080/sportK1/sp0K1/index.m3u8
-
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="Sky Sports" tvg-logo="skysports.png" group-title="Deportes",SKY Sports 2
-http://pappuyartangnakar.ddns.net:8080/sporK2/NSsp2Two/index.m3u8
-
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="Sky Sports" tvg-logo="skysports.png" group-title="Deportes",SKY Sports 3
-http://pappuyartangnakar.ddns.net:8080/sportK3/sp0K3re/index.m3u8
-
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="Sky Sports" tvg-logo="skysports.png" group-title="Deportes",SKY Sports 4
-http://pappuyartangnakar.ddns.net:8080/sp4TK/sp4Rtk/index.m3u8
-
-#EXTINF:-1 tvg-id="SKY Sports" tvg-name="Sky Sports" tvg-logo="skysports.png" group-title="Deportes",SKY Sports 5
-http://pappuyartangnakar.ddns.net:8080/sTpRg5/spK5/index.m3u8
-
-#EXTINF:-1 tvg-id="BT Sports" tvg-logo="btn.png" group-title="Deportes",BT Sports 1
-http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BT Sports" tvg-logo="btn.png" group-title="Deportes",BT Sports 2
-
+#EXTINF:-1 tvg-id="Fox Sports-" tvg-logo="fox sports.png" group-title="Deportes",Fox Sports 2 Sur (SD 4:3 low)
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="BTNHD" tvg-logo="btn.png" group-title="Deportes",BTN HD 720
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8#MegaIPTVArgentina
@@ -2284,20 +1551,11 @@ http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnne
 #EXTINF:-1 tvg-id="Viasat Sports" tvg-logo="viasatsports.png" group-title="Deportes",Viasat Sports
 http://212.220.30.219/hls/CH_VIASATSPORT/bw1500000/variant.m3u8
 
-#EXTINF:-1 tvg-id="Viasat Sports" tvg-logo="viasatsports.png" group-title="Deportes",Viasat Sports
-http://178.49.132.73/streaming/viasat_sport/tvrec/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Pac12Encore" tvg-logo="pac12encore.png" group-title="Deportes",PAC 12 Encore HD 1080
 http://xrxs.net/video/live-p12moun-4728.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="RealMadridTV" tvg-logo="realmadridtv.png" group-title="Deportes",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="beIn Sport Espa√±ol" tvg-name="beIN_Sport_ES" tvg-logo="Bein sports.png" group-title="Deportes",beIN en Espa√±ol HD 720
-http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="beIn Sport 1" tvg-name="beIN_Sport_1_Ingles" tvg-logo="Bein sports.png" group-title="Deportes",beIN Sports en Ingl√©s
-http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="beIn Sport 1" tvg-name="beIN_Sport_1_Ingles" tvg-logo="Bein sports.png" group-title="Deportes",beIN Sports 1
 http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8#MegaIPTVArgentina
@@ -2307,15 +1565,6 @@ http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8#MegaIPTVArgenti
 
 #EXTINF:-1 tvg-id="eurosportRusia" tvg-logo="eurosport.png" group-title="Deportes",Eurosport Rusia HD 1080
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
-
-#EXTINF:-1 tvg-id="eurosportRusia" tvg-logo="eurosport.png" group-title="Deportes",Eurosport Rusia SD 16:9
-rtmp://edge03-09.az.myvideo.az/dvrh264/eurosport/ playpath=mp4:eurosport swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=eurosport
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="eurosport.png" group-title="Deportes",Eurosport
-http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="eurosport.png" group-title="Deportes",Eurosport 2
-rtmp://94.102.49.207/iguide playpath=ewpegl393qjjqoq swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
 
 #EXTINF:-1 tvg-id="Sport Time TV" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 1
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
@@ -2331,9 +1580,6 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 
 #EXTINF:-1 tvg-id="Sport Time TV" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 5
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-
-#EXTINF:-1 tvg-id="SetantaEurasia" tvg-logo="setantaeurasia.png" group-title="Deportes",Setanta Eurasia HD 1080
-http://80.77.52.6:4314/udp/230.0.4.1:12345
 
 #EXTINF:-1 tvg-id="Futball 1 HD" tvg-logo="fultball1hd.png" group-title="Deportes",Futballl 1 HD 1080
 http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
@@ -2374,26 +1620,11 @@ http://hlsstr03.svc.iptv.rt.ru/hls/CH_FUTBALL3SD/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="CNOPT1" tvg-logo="cnopt1.png" group-title="Deportes",CNOPT 1
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-id="DubaiSports" tvg-logo="dubaisports.png" group-title="Deportes",Dubai Sports
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="SaudiSports" tvg-logo="saudisports.png" group-title="Deportes",Saudi Sports
 http://intigral_live-lh.akamaihd.net/i/DPS2KCCAHLXSHB010514_1@135296/index_1200_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="KuwaitSports" tvg-logo="kuwaitsports.png" group-title="Deportes",Kuwait Sports
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b528000.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="ADSports" tvg-logo="adsports.png" group-title="Deportes",AD Sports 1
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="ADSports" tvg-logo="adsports.png" group-title="Deportes",AD Sports 2
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="TurkmenSports" tvg-logo="turkmen.png" group-title="Deportes",Turkmen Sports
 rtmp://217.174.227.20/webtv/ch004_sd
-
-#EXTINF:-1 tvg-id="Idman" tvg-logo="idman.png" group-title="Deportes",Idman Sports
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
 
 #EXTINF:-1 tvg-id="SportTimeTV" tvg-logo="sporttimetv.png" group-title="Deportes",Sport Time TV 1
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
@@ -2431,38 +1662,14 @@ http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tab
 #EXTINF:-1 tvg-logo="tracesports.png" group-title="Deportes",Trace Sports
 http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="BOX Nation" tvg-logo="box_nation.png" group-title="Deportes",BOX Nation
-http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="FightClub" tvg-logo="fightclub.png" group-title="Deportes",Fight Club
-http://edge.ailetv.net/org13/boycovskiyklub_me/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="NBC Golf" tvg-logo="nbc Golf.png" group-title="Deportes",NBC Golf China
-http://121.156.46.44/live/10292.m3u8?sid=115646
-
-#EXTINF:-1 tvg-id="NBA TV" tvg-logo="nbatv.png" group-title="Deportes",NBA TV
-http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
+#EXTINF:-1 tvg-id="FambeBox Cricket" tvg-logo="famebox.png" group-title="Deportes",FameBox Cricket
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/famebox_cricket-tablet.3gp/famebox_cricket-tablet.3gp-mr648k.m3u8
 
 #EXTINF:-1 tvg-id="Big Ten Network" tvg-logo="bigtennetwork.png" group-title="Deportes",Big Ten Network HD 720
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="MLB Net" tvg-logo="mlb.png" group-title="Deportes",MLB Network
-http://cctv-lh.akamaihd.net/i/purakura_live@125124/index_1080p_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="RacingUK" tvg-logo="racinguk.png" group-title="Deportes",Racing UK (turf)
-http://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ruk/.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="DubaiRacing" tvg-logo="dubairacng.png" group-title="Deportes",Dubai Racing
-http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="NauticalChannel" tvg-logo="nauticalchannel.png" group-title="Deportes",Nautical Channel
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_NAUTICALCHANNEL/variant.m3u8?version=2
-
-#EXTINF:-1 tvg-id="CazayPesca" tvg-logo="cazaypesca.png" group-title="Deportes",Caza y Pesca
-http://185.38.12.20:8088/ohot&ryb/
-
-#EXTINF:-1 tvg-id="FishTV" tvg-logo="fishtv.png" group-title="Deportes",Fish TV
-rtmp://199.59.88.39/cam4-cr107/89
 
 
 #EXTINF:-1 group-title="Musical",.: MUSICALES :.
@@ -2482,56 +1689,17 @@ rtmp://91.201.78.3:1935/live/jazzhd
 #EXTINF:-1 tvg-id="tvdisco" tvg-logo="tvdisco.png" group-title="Musical",One Live Mix HD 720
 rtmp://91.201.78.3:1935/live/onehdhd
 
-#EXTINF:-1 tvg-id="Stage-TV" tvg-logo="StageTV.png" group-title="Musical",Stage TV
-rtmp://149.11.34.6/live/stagetv.stream
-
 #EXTINF:-1 tvg-id="Indies Live" tvg-logo="Indies Live.png" group-title="Musical",Indies Live
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="RE TV" tvg-logo="re-jamaica.png" group-title="Musical",RE TV Jamaica
-http://rjr_flash-lh.akamaihd.net/i/retvD_1@39668/master.m3u8
-
-#EXTINF:-1 tvg-id="MTV Live Bulgaria" tvg-name="MTV Live HD" tvg-logo="mtv live hd.png" group-title="Musical",MTV Live Bulgaria HD 1080
-http://84.54.129.25:8181/MTV_Live_HD
-
-#EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="mtv.png" group-title="Musical",MTV Rocks
-http://92.50.181.6/tv/1279/index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="MTV Music USA" tvg-logo="mtvmusic.png" group-title="Musical",MTV Music U.S.A
-http://93.184.221.133/00573D/1345/1345-0.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="Musical",MTV Suiza
-http://5.189.144.85:1935/live/mtv_ch/playlist.m3u8?auth=97dd2fae-e575-bafd-d955-9e9c5e56bb58
-
-#EXTINF:-1 tvg-id="MTV Rusia" tvg-logo="mtv-rusia.png" group-title="Musical",MTV Rusia
-http://92.50.181.6/tv/1284/index.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="MTVhits Rusia" tvg-logo="mtvhits-rusia.png" group-title="Musical",MTV Hits Rusia
 http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/153/index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="VH1 usa" tvg-name="VH1 usa" tvg-logo="vh1.png" group-title="Musical",VH 1
-rtmp://edge03-03.az.myv playpath=mp4:vh1  swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2
-
-#EXTINF:-1 tvg-id="VH1 Classic" tvg-logo="vh1 classics.png" group-title="Musical",VH1 Classics L.A
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?
-
-#EXTINF:-1 tvg-id="VH1Classic" tvg-logo="vh1 classics.png" group-title="Musical",VH1 Classics
-http://92.50.181.6/tv/1282/index.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="tvdisco" tvg-logo="tvdisco.png" group-title="Musical",One Classic HD 720
 rtmp://91.201.78.3:1935/live/classicshd
 
 #EXTINF:-1 tvg-id="onepop" tvg-logo="onepop.png" group-title="Musical",One Pop HD 720
 rtmp://91.201.78.3:1935/live/pophd
-
-#EXTINF:-1 tvg-id="The Box" tvg-logo="thebox.png" group-title="Musical",The Box
-http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Smash Hits" tvg-logo="smashhits.png" group-title="Musical",Smash Hits
-http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Heat" tvg-logo="heat.png" group-title="Musical",Heat
-http://llnw.live.simplestream.com/coder9/coder.channels.channel8/hls/3/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="PlanetPop" tvg-logo="planetpop.png" group-title="Musical",PlanetPop
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -2547,9 +1715,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#Mega
 
 #EXTINF:-1 tvg-id="Kiss TV" tvg-name="Kiss TV" tvg-logo="kiss tv.png"  group-title="Musical",Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-
-#EXTINF:-1 tvg-id="BlackTVRado" tvg-name="BlackTVRado" tvg-logo="blacktvrado.png"  group-title="Musical",BlackTVRado
-http://target3.blacktvrado.itemdb.com:6665/blacktvrado18
 
 #EXTINF:-1 tvg-logo="rougetvpng" group-title="Musical",Rouge TV
 http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8#MegaIPTVArgentina
@@ -2578,10 +1743,6 @@ mmsh://194.88.200.11:80/pop?MSWMExt=.asf
 #EXTINF:-1 tvg-id="MCM Top" tvg-logo="mcmtop.png" group-title="Musical",MCM Top
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8
 
-#EXTINF:-1 tvg-id="Lobas TV" tvg-logo="lobastv.png" group-title="Musical",Lobas TV
-
-http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8?wowzasessionid=1931591437
-
 #EXTINF:-1 tvg-id="BPM" tvg-logo="bpmusic.jpg" group-title="Musical",BigPound Music
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 
@@ -2604,13 +1765,10 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&prot
 http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
 #EXTINF:-1 tvg-id=W9" tvg-logo="W9.png" group-title="Musical",W9
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="For Music" tvg-logo="formusic.png" group-title="Musical",For Music
 rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
-
-#EXTINF:-1 tvg-id="Tuba TV" tvg-logo="tubatv.png" group-title="Musical",Tuba TV
-rtmp://fms.gazeta.pl/aglive/tuba_tv
 
 #EXTINF:-1 tvg-id="tvdisco" tvg-logo="tvdisco.png" group-title="Musical",TV Disco
 rtmp://153.19.248.4:1935/publishlive?play=123452 playpath=tvdisco swfUrl=http://images.popler.tv/player/flowplayer.commercial.swf live=1 pageUrl=http://www.popler.tv/live/tvdisco
@@ -2618,35 +1776,14 @@ rtmp://153.19.248.4:1935/publishlive?play=123452 playpath=tvdisco swfUrl=http://
 #EXTINF:-1 tvg-id="tvdisco" tvg-logo="tvdisco.png" group-title="Musical",One Rock HD 720
 rtmp://91.201.78.3:1935/live/rockhd
 
-#EXTINF:-1 tvg-id="GoticaTV" tvg-logo="Gotica TV.png" group-title="Musical",Gotica TV
-rtmp://149.11.34.6:1935/live/gotica.stream
-
 #EXTINF:-1 tvg-id="RockTV" tvg-logo="Rock TV.png" group-title="Musical",Rock One TV
 mmsh://mediatv2.topix.it/24RockOne66
-
-#EXTINF:-1 tvg-id="CMC TV" tvg-logo="cmctv.png" group-title="Musical",CMC TV
-rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive3
 
 #EXTINF:-1 tvg-id="A-One" tvg-logo="a-one.png" group-title="Musical",A-One
 http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
 
 #EXTINF:-1 tvg-id="AKA" tvg-logo="aka.png" group-title="Musical",AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-
-#EXTINF:-1 tvg-id="Flava" tvg-name="Flava" tvg-logo="flava.png" group-title="Musical",Flava
-http://212.70.155.243:40665/udp/237.100.0.173:4000
-
-#EXTINF:-1 tvg-id="Bliss" tvg-name="Bliss" tvg-logo="bliss.png" group-title="Musical",Bliss
-http://212.70.155.243:40665/udp/237.100.0.174:4000
-
-#EXTINF:-1,tvg-id="Scuzz" tvg-name="Scuzz" tvg-logo="scuzz.png" group-title="Musical",Scuzz
-http://212.70.155.243:40665/udp/237.100.0.175:4000
-
-#EXTINF:-1 tvg-id="Chart Show TV" tvg-name=Chart Show TV" tvg-logo="chart show tv.png" group-title="Musical",Chart Show TV
-http://212.70.155.243:40665/udp/237.100.0.187:4000
-
-#EXTINF:-1 tvg-id="Chart Show Dance" tvg-name="Chart Show Dance" tvg-logo="chart show dance.png" group-title="Musical",Chart Show Dance
-http://212.70.155.243:40665/udp/237.100.0.176:4000
 
 #EXTINF:-1 tvg-id="electrosound" tvg-logo="telectrosound.png" group-title="Musical",Electrosound TV HD 720
 rtmp://www.electrosound.tv:1935/public/stream
@@ -2667,7 +1804,7 @@ http://www.djing.com/tv/hothothot.m3u8#MegaIPTVArgentina
 http://www.djing.com/tv/ibiza.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="FilmOnTV" tvg-logo="filmontv.jpg" group-title="Musical",Film ON TV Clubbing
-http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Dance" tvg-logo="Dance.png" group-title="Musical",Dance TV Rusia
 http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8#MegaIPTVArgentina
@@ -2699,9 +1836,6 @@ rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:-1 tvg-id="ESKA TV" tvg-logo="eskarock.png" group-title="Musical",ESKA Music Vox
 rtmp://stream.smcloud.net/live2/vox/vox_360p
 
-#EXTINF:-1 tvg-id="The Vault" tvg-name="The Vault" tvg-logo="thevault.png" group-title="Musical",The Vault
-http://212.70.155.243:40665/udp/237.100.0.184:4000
-
 #EXTINF:-1 tvg-id="GoldTV" tvg-name="GoldTV" tvg-logo="goldtv.png" group-title="Musical",Gold TV
 http://87.248.160.8/edge/smil:goldtv/playlist.m3u8#MegaIPTVArgentina
 
@@ -2720,9 +1854,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_BRIDGETV/variant.m3u8?version=2
 #EXTINF:-1,tvg-id="Yumor TV" tvg-logo="yumor.png" group-title="Musical",Yumor TV
 http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Russian Music Box" tvg-name="Russian Music Box" tvg-logo="music box.png"  group-title="Musical",Russian Music Box
-http://musicbox.cdnvideo.ru/musicbox-live/musicbox.sdp/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Music Box" tvg-name="Russian Music Box" tvg-logo="musicbox.png"  group-title="Musical",Music Box UA
 rtmp://212.26.132.86/live/mb_ua
 
@@ -2737,9 +1868,6 @@ http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8#MegaIPTVArge
 
 #EXTINF:-1,tvg-id="MTV.am" tvg-logo="mtv-am.png" group-title="Musical",MTV.am HD 1080
 http://mtvam.ru/hlsam/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1,tvg-id="Supersonic TV" tvg-logo="supersonictv.png" group-title="Musical",Supersonic TV
-rtmp://178.18.3 playpath=stv_online swfUrl=http://online.super-sonic.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/
 
 #EXTINF:-1 tvg-id="Channel V" tvg-logo="channelv.png" group-title="Musical",Channel V
 http://113.160.49.34/lives/origin03/channelvsd.isml/channelvsd-1096k.m3u8#MegaIPTVArgentina
@@ -2756,26 +1884,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8#Meg
 #EXTINF:-1 tvg-id="Si TV" tvg-logo="sitv.png" group-title="Musical",Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="SingleTV" tvg-logo="singletv.png" group-title="Musical",Single TV
-rtmp://149.11.34.78/live/singletv.stream
-
-#EXTINF:-1 tvg-id="EXAtv" tvg-logo="exatv.png" group-title="Musical",EXA TV
-http://iphone-streaming.ustream.tv/usreamVideo/16934974/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="EXAtv" tvg-logo="exatv.png" group-title="Musical",EXA TV (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="TeleMusica" tvg-logo="telemusica.png" group-title="Musical",Telemusica
 rtmp://186.155.200.118:1935/live/telemusica
-
-#EXTINF:-1 tvg-id="TeleMusica" tvg-logo="telemusica.png" group-title="Musical",VideoRola
-http://187.247.255.139/Apple/VROLAHD1200.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Ultra Fiesta" tvg-name="Ultra Fiesta" tvg-logo="ultrafiesta.png" group-title="Musical",Ultra Fiesta HD 720
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
-
-#EXTINF:-1 tvg-id="Ultra Fiesta" tvg-name="Ultra Fiesta" tvg-logo="ultrafiesta.png" group-title="Musical",Ultra Fiesta
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream2/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="Quiero" tvg-name="Quiero" tvg-logo="quiero.png" group-title="Musical",Quiero Musica
 mms://streamqm.uigc.net/qmusica
@@ -2793,12 +1903,12 @@ rtmp://186.155.200.118:1935/live/Televitrola
 rtmp://186.155.200.118:1935/live/ColombiasuMusica
 
 #EXTINF:-1 tvg-id="MiGente" tvg-logo="migente.png" group-title="Musical",Mi Gente TV
-http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8
+http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8#MegaIPTVArgentina
 
 
 #EXTINF:-1, .: RADIOS :.
 
-#EXTINF:-1, -- CANALES DE AUDIO --
+#EXTINF:-1 group-title="Audio - Radio", -- CANALES DE AUDIO --
 http://?
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",50's
 http://buecrplb01.cienradios.com.ar/50_32000.aac
@@ -2806,13 +1916,11 @@ http://buecrplb01.cienradios.com.ar/50_32000.aac
 http://buecrplb01.cienradios.com.ar/60_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's
 http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's Europa
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_UK_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's USA
 http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio Beatles
 http://108.61.73.119:8062/;stream.nsv
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80¬¥s
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80¥s
 http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
 #EXTINF:-1 tvg-logo="radios.png",80's Argentina
 http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
@@ -2822,8 +1930,6 @@ http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
 http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Europa
 http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90¬¥s USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_USA_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Adulto Contemporaneo
 http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Baladas
@@ -2882,7 +1988,7 @@ http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
 http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reiki
 http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Relajaci√≥n
+#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",RelajaciÛn
 http://pub7.radiotunes.com:80/radiotunes_relaxation?c99c0d59b19e3b7c9f99d515
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",New Age
 http://pub7.radiotunes.com:80/radiotunes_newage?c99c0d59b19e3b7c9f99d515
@@ -2896,25 +2002,50 @@ http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
 
 
-#EXTINF:-1 group-title="Espirituales", [COLOR blue] --Espirituales--[/COLOR]  
-http://www.google.com
-#EXTINF:1679 group-title="Espirituales",Maria Vision
-rtsp://74.63.97.188:1935/mariavision1/videomariavision1/
-#EXTINF:1679,ESNE TV El Sembrador
-http://198.154.228.82:1935/live/esnetv/playlist.m3u8
-#EXTINF:1679,Radio Vaticana
-http://www.vaticanradio-us.org/webcasting/ispanoamerica_1_1.mp3
-#EXTINF:1679,Guadalupe Radio
-http://208.80.53.110:32920
-#EXTINF:1679,Radio Maria Mexico
-http://50.7.98.234:9996/;*.nsv
-#EXTINF:1679,Radio Maria El Salvador
-http://50.7.181.186:8098/
-#EXTINF:1679,Radio SEPA
-http://stream1.servercristianonetwork.com:8002
-#EXTINF:1679,Radio Catolica Mundial
-http://http.yourmuze.com/ewtn-sp/mp3-64-m.mp3
+#EXTINF:-1 group-title="Infantil",.: CINE ON DEMAND :.
+http://?
+
+#EXTINF:0,RESUCITADOS
+https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
+
+#EXTINF:0,FOCUS
+https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
+
+#EXTINF:0,FRANCOTIRADOR
+https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
+
+#EXTINF:0,CHAPIEE
+http://www.spruto.tv/get_file/5/c0e48113fc2ef52a45381d909a729b4a/116000/116862/116862.mp4
+
+#EXTINF:0,IRON MAN 3
+http://www.spruto.tv/get_file/7/0eaa75a746e22a3f89fed8269a68bedb/78000/78196/78196.mp4
+
+#EXTINF:0,X-MEN DIAS DEL FUTURO PASADO
+http://www.spruto.tv/get_file/1/647a43ca7e0a013b3593fd839a2144aa/85000/85787/85787.mp4
+
+#EXTINF:0,MENTES PELIGROSAS
+https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
+
+#EXTINF:0,INTRUSOS
+https://ia600309.us.archive.org/17/items/IntrrStream/INTRRS.mp4
+
+#EXTINF:0,INDESTRUCTIBLES 3
+https://ia600309.us.archive.org/4/items/industructibles/I%C3%91D3TRUC3.mp4
+
+#EXTINF:0,FRANCOTIRADOR
+https://ia600309.us.archive.org/0/items/FRCNTDR/FRCNTDR.mp4
+
+#EXTINF:0,FOCUS
+https://ia600309.us.archive.org/21/items/hemelgelvez4_gmail_FCS/FCS.mp4
+
+#EXTINF:0,RESUCITADOS
+https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
+
+#EXTINF:0,ROBOCOP
+https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
+
+#EXTINF:0,DESTINO JUPITER
+https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
 
 
 
- 
