@@ -172,7 +172,7 @@ http://ift.tt/1JQ8dNo
 #EXTINF:-1 group-title=”LATINOS”,FOX Family
 http://ift.tt/1HHUJE8
 #EXTINF:-1 group-title=”LATINOS”,Fox Cinema
-http://ift.tt/1JQ8gc4
+http://31.220.40.100/LiveEdge/FoxCinemaSD/chunklist_w92959994_b1000000.m3u8?token=f461a514f88b27dec66b32755576cb58
 #EXTINF:-1 group-title=”LATINOS”,FOX Comedy
 http://ift.tt/1HHUJEa
 #EXTINF:-1 group-title=”LATINOS”,FOX ACTION
@@ -2428,48 +2428,20 @@ http://198.154.228.82:1935/live/esnetv/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="MariaVisión" tvg-logo="mariavision.png" group-title="Religion",MaríaVisión
 http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="La Voz de María" tvg-logo="lavozdemaria.png" group-title="Religion",La Voz de María
-rtmp://va1.ministeriotv.com/mtv_video/83/stream  swfUrl=http://www.ministeriotv.com/embed.swf  pageUrl=http://www.ministeriotv.com/embed/83/960/540/FALSE/true/false
-
 #EXTINF:-1 tvg-id="CristoVision" tvg-logo="cristovision.png" group-title="Religion",CristoVision
 http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Teleamiga" tvg-logo="teleamiga.png" group-title="Religion",Tele Amiga
 http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/canalesdelpueblotv.m3u8?MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="TV_Diocesano" tvg-logo="canal diocesano.png" group-title="Religion",Canal Diocesano
-rtmp://flash3.todostreaming.es/edesco/livestream
-
 #EXTINF:-1 tvg-id="BYU TV" tvg-logo="byutv.png" group-title="Religion",BYU TV en español
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="SolidariaTV-es" tvg-logo="solidariatv.png" group-title="Religion",Solidaria TV España
-rtsp://flash3.todostreaming.es/solidariatv/mystream
-
-#EXTINF:-1 tvg-id="SolidariaTV-ar" tvg-logo="solidariatv.png" group-title="Religion",Solidaria TV Argentina
-rtmp://flash3.todostreaming.es/remararg/livestream
 
 #EXTINF:-1 tvg-id="CanalLuz" tvg-logo="canal-luz.jpg" group-title="Religion",Canal Luz
 http://iphone-streaming.ustream.tv/ustreamVideo/8901586/streams/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="CanalLuz" tvg-logo="canal-luz.jpg" group-title="Religion",Canal Luz (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/8901586/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Nuevo Tiempo" tvg-logo="nuevotiempo.png" group-title="Religion",Nuevo Tiempo
 rtmp://wow1.dallas.digitalproserver.com/ntiempo/ntiempovivo playpath=mp4:livestream1  swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/latest/jwplayer.flash.swf?v=70  live=1 pageUrl=http://media.digitalproserver.com/v2/live/ntiempo
-
-#EXTINF:-1 tvg-id="Canal-i" tvg-logo="canal-i.jpg" group-title="Religion",Iglesia Adventista Florida
-http://xiglesiaadventistadefloridax.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Tele Vida" tvg-logo="televida.jpg" group-title="Religion",TeleVida
-http://evo.eltelon.com:443/live/televida/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1  tvg-id="Tele Vid" tvg-logo="televid.jpg" group-title="Religion",TeleVID
-http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1tvg-id="Life Design" tvg-logo="lifedesign.png" group-title="Religion",Life Design
-
-http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m3u8
 
 #EXTINF:-1 tvg-id="Teledunamis" tvg-logo="teledunamis.jpg" group-title="Religion",Teledunamis
 http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8#MegaIPTVArgentina
@@ -2509,8 +2481,6 @@ http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8#MegaIPTVArg
 
 #EXTINF:-1 tvg-id="Claret TV" tvg-logo="claret-tv.png" group-title="Religion",Claret TV
 rtmp://edge.wms28.lorini.net/clarettv/clarettv
-#EXTINF:-1 tvg-id="MCN TV" tvg-logo="mcntv.png" group-title="Religion",MCN Televisión
-http://iphone-streaming.ustream.tv/uhls/7227963/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Alcance TV" tvg-logo="alcancetv.png" group-title="Religion",Alcance TV
 http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1282066740_b1000000.m3u8?MegaIPTVArgentina
@@ -2524,8 +2494,6 @@ http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-id="RTV" tvg-logo="RTV.png" group-title="Religion",RTV
 http://178.32.53.254/radiovida/mobile/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Alfa TV" tvg-logo="alfatv.png" group-title="Religion",Alfa TV
-rtmp://streamer1.streamhost.org/salive/GMIalfam
 
 
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
@@ -2808,59 +2776,17 @@ rtmp://91.201.78.3:1935/live/jazzhd
 #EXTINF:-1 tvg-id="tvdisco" tvg-logo="tvdisco.png" group-title="Musical",One Live Mix HD 720
 rtmp://91.201.78.3:1935/live/onehdhd
 
-#EXTINF:-1 tvg-id="Stage-TV" tvg-logo="StageTV.png" group-title="Musical",Stage TV
-rtmp://149.11.34.6/live/stagetv.stream
-
 #EXTINF:-1 tvg-id="Indies Live" tvg-logo="Indies Live.png" group-title="Musical",Indies Live
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="RE TV" tvg-logo="re-jamaica.png" group-title="Musical",RE TV Jamaica
-http://rjr_flash-lh.akamaihd.net/i/retvD_1@39668/master.m3u8
-
-#EXTINF:-1 tvg-id="MTV Live Bulgaria" tvg-name="MTV Live HD" tvg-logo="mtv live hd.png" group-title="Musical",MTV Live Bulgaria HD 1080
-http://84.54.129.25:8181/MTV_Live_HD
-
-#EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="mtv.png" group-title="Musical",MTV Rocks
-http://92.50.181.6/tv/1279/index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="MTV Music USA" tvg-logo="mtvmusic.png" group-title="Musical",MTV Music U.S.A
-http://93.184.221.133/00573D/1345/1345-0.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="Musical",MTV Suiza
-http://5.189.144.85:1935/live/mtv_ch/playlist.m3u8?auth=97dd2fae-e575-bafd-d955-9e9c5e56bb58
-
-#EXTINF:-1 tvg-id="MTV Rusia" tvg-logo="mtv-rusia.png" group-title="Musical",MTV Rusia
-http://92.50.181.6/tv/1284/index.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="MTVhits Rusia" tvg-logo="mtvhits-rusia.png" group-title="Musical",MTV Hits Rusia
 http://s2.edem.tv/iptv/7TTVQ9XVDDC7Q9/153/index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="VH1 usa" tvg-name="VH1 usa" tvg-logo="vh1.png" group-title="Musical",VH 1
-rtmp://edge03-03.az.myv playpath=mp4:vh1  swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2
-
-#EXTINF:-1 tvg-id="VH1 usa" tvg-name="VH1 usa" tvg-logo="vh1.png" group-title="Musical",VH 1
-http://92.50.181.6/tv/1281/index.m3u8
-
-#EXTINF:-1 tvg-id="VH1Classic" tvg-logo="vh1 classics.png" group-title="Musical",VH1 Classics
-http://92.50.181.6/tv/1282/index.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="tvdisco" tvg-logo="tvdisco.png" group-title="Musical",One Classic HD 720
 rtmp://91.201.78.3:1935/live/classicshd
 
 #EXTINF:-1 tvg-id="onepop" tvg-logo="onepop.png" group-title="Musical",One Pop HD 720
 rtmp://91.201.78.3:1935/live/pophd
-
-#EXTINF:-1 tvg-id="Pop Beat TV" tvg-logo="popbeat.png" group-title="Musical",Pop Beat TV
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/pop_beat_tv-tablet.3gp/pop_beat_tv-tablet.3gp-mr648k.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="The Box" tvg-logo="thebox.png" group-title="Musical",The Box
-http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Smash Hits" tvg-logo="smashhits.png" group-title="Musical",Smash Hits
-http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Heat" tvg-logo="heat.png" group-title="Musical",Heat
-http://llnw.live.simplestream.com/coder9/coder.channels.channel8/hls/3/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="PlanetPop" tvg-logo="planetpop.png" group-title="Musical",PlanetPop
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -2877,23 +2803,14 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#Mega
 #EXTINF:-1 tvg-id="Kiss TV" tvg-name="Kiss TV" tvg-logo="kiss tv.png"  group-title="Musical",Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 
-#EXTINF:-1 tvg-id="BlackTVRado" tvg-name="BlackTVRado" tvg-logo="blacktvrado.png"  group-title="Musical",BlackTVRado
-http://target3.blacktvrado.itemdb.com:6665/blacktvrado18
-
 #EXTINF:-1 tvg-logo="rougetvpng" group-title="Musical",Rouge TV
 http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id"Musik" tvg-logo="musik" group-title="Musical",Musik German
-http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/musik-tablet.3gp/musik-tablet.3gp-mr648k.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="VIVA" tvg-logo="viva.png" group-title="Musical",VIVA HD 720
 http://pebbles105-lh.akamaihd.net/i/viva_1@97493/index_1300_av-p.m3u8|X-Forwarded-For=160.53.186.194
 
 #EXTINF:-1 tvg-id="VOX" tvg-logo="vox.png" group-title="Musical",VOX HD 720
 http://pebbles108-lh.akamaihd.net/i/vox_1@97466/index_1300_av-p.m3u8|X-Forwarded-For=160.53.186.194
-
-#EXTINF:-1 tvg-id="1 Take TV" tvg-logo="1take-tv.png" group-title="Musical",1 Take TV
-http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/1_take_tv-tablet.3gp/1_take_tv-tablet.3gp-mr1364k.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Virgin" tvg-logo="virgin.png" group-title="Musical",Virgin TV
 rtmp://fms.105.net:1935/live/virgin2
@@ -2912,10 +2829,6 @@ mmsh://194.88.200.11:80/pop?MSWMExt=.asf
 
 #EXTINF:-1 tvg-id="MCM Top" tvg-logo="mcmtop.png" group-title="Musical",MCM Top
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_MCMTOP/variant.m3u8
-
-#EXTINF:-1 tvg-id="Lobas TV" tvg-logo="lobastv.png" group-title="Musical",Lobas TV
-
-http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8?wowzasessionid=1931591437
 
 #EXTINF:-1 tvg-id="BPM" tvg-logo="bpmusic.jpg" group-title="Musical",BigPound Music
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
@@ -2944,50 +2857,20 @@ https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_ae
 #EXTINF:-1 tvg-id="For Music" tvg-logo="formusic.png" group-title="Musical",For Music
 rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
 
-#EXTINF:-1 tvg-id="Tuba TV" tvg-logo="tubatv.png" group-title="Musical",Tuba TV
-rtmp://fms.gazeta.pl/aglive/tuba_tv
-
 #EXTINF:-1 tvg-id="tvdisco" tvg-logo="tvdisco.png" group-title="Musical",TV Disco
 rtmp://153.19.248.4:1935/publishlive?play=123452 playpath=tvdisco swfUrl=http://images.popler.tv/player/flowplayer.commercial.swf live=1 pageUrl=http://www.popler.tv/live/tvdisco
 
 #EXTINF:-1 tvg-id="tvdisco" tvg-logo="tvdisco.png" group-title="Musical",One Rock HD 720
 rtmp://91.201.78.3:1935/live/rockhd
 
-#EXTINF:-1 tvg-id="GoticaTV" tvg-logo="Gotica TV.png" group-title="Musical",Gotica TV
-rtmp://149.11.34.6:1935/live/gotica.stream
-
 #EXTINF:-1 tvg-id="RockTV" tvg-logo="Rock TV.png" group-title="Musical",Rock One TV
 mmsh://mediatv2.topix.it/24RockOne66
-
-#EXTINF:-1 tvg-id="Indi Music TV" tvg-logo="indimusictv.png" group-title="Musical",Indi Music TV
-http://46.249.213.87/iPhone/broadcast/indimusic-tablet.3gp/indimusic-tablet.3gp-mr648k.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="CMC TV" tvg-logo="cmctv.png" group-title="Musical",CMC TV
-rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive3
-
-#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="trace.png" group-title="Musical",Trace Urban
-http://stream01.yamgo.com/iPhone/broadcast/trace_tv_urban-tablet.3gp/trace_tv_urban-tablet.3gp-mr647k.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="A-One" tvg-logo="a-one.png" group-title="Musical",A-One
 http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
 
 #EXTINF:-1 tvg-id="AKA" tvg-logo="aka.png" group-title="Musical",AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-
-#EXTINF:-1 tvg-id="Flava" tvg-name="Flava" tvg-logo="flava.png" group-title="Musical",Flava
-http://212.70.155.243:40665/udp/237.100.0.173:4000
-
-#EXTINF:-1 tvg-id="Bliss" tvg-name="Bliss" tvg-logo="bliss.png" group-title="Musical",Bliss
-http://212.70.155.243:40665/udp/237.100.0.174:4000
-
-#EXTINF:-1,tvg-id="Scuzz" tvg-name="Scuzz" tvg-logo="scuzz.png" group-title="Musical",Scuzz
-http://212.70.155.243:40665/udp/237.100.0.175:4000
-
-#EXTINF:-1 tvg-id="Chart Show TV" tvg-name=Chart Show TV" tvg-logo="chart show tv.png" group-title="Musical",Chart Show TV
-http://212.70.155.243:40665/udp/237.100.0.187:4000
-
-#EXTINF:-1 tvg-id="Chart Show Dance" tvg-name="Chart Show Dance" tvg-logo="chart show dance.png" group-title="Musical",Chart Show Dance
-http://212.70.155.243:40665/udp/237.100.0.176:4000
 
 #EXTINF:-1 tvg-id="electrosound" tvg-logo="telectrosound.png" group-title="Musical",Electrosound TV HD 720
 rtmp://www.electrosound.tv:1935/public/stream
@@ -3012,9 +2895,6 @@ http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Dance" tvg-logo="Dance.png" group-title="Musical",Dance TV Rusia
 http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Ibiza On TV" tvg-logo="ibizaontv.png" group-title="Musical",Ibiza On TV
-http://stream01.yamgo.com/iPhone/broadcast/ibiza_on_tv-tablet.3gp/ibiza_on_tv-tablet.3gp-mr648k.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="ESKA Party" tvg-logo="eskatv.png" group-title="Musical",ESKA Party HD 720
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
@@ -3043,9 +2923,6 @@ rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:-1 tvg-id="ESKA TV" tvg-logo="eskarock.png" group-title="Musical",ESKA Music Vox
 rtmp://stream.smcloud.net/live2/vox/vox_360p
 
-#EXTINF:-1 tvg-id="The Vault" tvg-name="The Vault" tvg-logo="thevault.png" group-title="Musical",The Vault
-http://212.70.155.243:40665/udp/237.100.0.184:4000
-
 #EXTINF:-1 tvg-id="GoldTV" tvg-name="GoldTV" tvg-logo="goldtv.png" group-title="Musical",Gold TV
 http://87.248.160.8/edge/smil:goldtv/playlist.m3u8#MegaIPTVArgentina
 
@@ -3064,9 +2941,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_BRIDGETV/variant.m3u8?version=2
 #EXTINF:-1,tvg-id="Yumor TV" tvg-logo="yumor.png" group-title="Musical",Yumor TV
 http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="Russian Music Box" tvg-name="Russian Music Box" tvg-logo="music box.png"  group-title="Musical",Russian Music Box
-http://musicbox.cdnvideo.ru/musicbox-live/musicbox.sdp/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="Music Box" tvg-name="Russian Music Box" tvg-logo="musicbox.png"  group-title="Musical",Music Box UA
 rtmp://212.26.132.86/live/mb_ua
 
@@ -3081,9 +2955,6 @@ http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8#MegaIPTVArge
 
 #EXTINF:-1,tvg-id="MTV.am" tvg-logo="mtv-am.png" group-title="Musical",MTV.am HD 1080
 http://mtvam.ru/hlsam/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1,tvg-id="Supersonic TV" tvg-logo="supersonictv.png" group-title="Musical",Supersonic TV
-rtmp://178.18.3 playpath=stv_online swfUrl=http://online.super-sonic.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/
 
 #EXTINF:-1 tvg-id="Channel V" tvg-logo="channelv.png" group-title="Musical",Channel V
 http://113.160.49.34/lives/origin03/channelvsd.isml/channelvsd-1096k.m3u8#MegaIPTVArgentina
@@ -3100,26 +2971,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8#Meg
 #EXTINF:-1 tvg-id="Si TV" tvg-logo="sitv.png" group-title="Musical",Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8#MegaIPTVArgentina
 
-#EXTINF:-1 tvg-id="SingleTV" tvg-logo="singletv.png" group-title="Musical",Single TV
-rtmp://149.11.34.78/live/singletv.stream
-
-#EXTINF:-1 tvg-id="Mi Musica" tvg-logo="mimusica.png" group-title="Musical",Mi Música
-http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="Tigo Music" tvg-logo="tigomusic.png" group-title="Musical",Tigo Music
-http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_index.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="EXAtv" tvg-logo="exatv.png" group-title="Musical",EXA TV
-http://iphone-streaming.ustream.tv/usreamVideo/16934974/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 tvg-id="EXAtv" tvg-logo="exatv.png" group-title="Musical",EXA TV (Opc.2)
-http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="TeleMusica" tvg-logo="telemusica.png" group-title="Musical",Telemusica
 rtmp://186.155.200.118:1935/live/telemusica
-
-#EXTINF:-1 tvg-id="TeleMusica" tvg-logo="telemusica.png" group-title="Musical",VideoRola
-http://187.247.255.139/Apple/VROLAHD1200.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 tvg-id="Quiero" tvg-name="Quiero" tvg-logo="quiero.png" group-title="Musical",Quiero Musica
 mms://streamqm.uigc.net/qmusica
@@ -3136,16 +2989,13 @@ rtmp://186.155.200.118:1935/live/Televitrola
 #EXTINF:-1 tvg-id="TV Polanco" tvg-logo="tvpolanco.png" group-title="Musical",TV Polanco
 rtmp://186.155.200.118:1935/live/ColombiasuMusica
 
-#EXTINF:-1,tvg-id="Cantinazo TV" tvg-logo="cantinazo.png" group-title="Musical",Cantinazo TV
-http://uneapple-i.akamaihd.net/hls/live/206419/grupoune_st18@206419/st18_index.m3u8#MegaIPTVArgentina
-
 #EXTINF:-1 tvg-id="MiGente" tvg-logo="migente.png" group-title="Musical",Mi Gente TV
 http://iphone-streaming.ustream.tv/ustreamVideo/18551741/streams/live/playlist.m3u8#MegaIPTVArgentina
 
 
 #EXTINF:-1, .: RADIOS :.
 
-#EXTINF:-1, -- CANALES DE AUDIO --
+#EXTINF:-1 group-title="Audio - Radio", -- CANALES DE AUDIO --
 http://?
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",50's
 http://buecrplb01.cienradios.com.ar/50_32000.aac
@@ -3153,8 +3003,6 @@ http://buecrplb01.cienradios.com.ar/50_32000.aac
 http://buecrplb01.cienradios.com.ar/60_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's
 http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's Europa
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_UK_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's USA
 http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Radio Beatles
@@ -3169,8 +3017,6 @@ http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
 http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Europa
 http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90´s USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_USA_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Adulto Contemporaneo
 http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Baladas
@@ -3240,22 +3086,6 @@ http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
 #EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
 http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
 
-#EXTINF:-1,-- FIN CANALES DE AUDIO --
-http://auth.nnm-list.ru/h/919/1/1/niu3uo4w
-
-
-#EXTINF:-1 tvg-logo="fb.png",-- Actualizaciones diarias!!! ** facebook.com/iptvargentina ** --
-http://d5376.allmyvideos.net/d/7smiifptyq5dh6lns3gyf6oipk4pymjjjtxfjguowhptv4wa53tgknhxt4/video.mp4?v2&direct=false&ua=true
-
-
-#EXTINF:-1 tvg-logo="fb.png",-- Actualizaciones diarias!!! ** facebook.com/iptvargentina ** --
-http://d5376.allmyvideos.net/d/7smiifptyq5dh6lns3gyf6oipk4pymjjjtxfjguowhptv4wa53tgknhxt4/video.mp4?v2&direct=false&ua=true
-
-#EXTINF:-1 tvg-logo="fb.png",-- Actualizaciones diarias!!! ** facebook.com/iptvargentina ** --
-http://d5376.allmyvideos.net/d/7smiifptyq5dh6lns3gyf6oipk4pymjjjtxfjguowhptv4wa53tgknhxt4/video.mp4?v2&direct=false&ua=true
-
-#EXTINF:-1 tvg-logo="fb.png",-- Actualizaciones diarias!!! ** facebook.com/iptvargentina ** --
-http://d5376.allmyvideos.net/d/7smiifptyq5dh6lns3gyf6oipk4pymjjjtxfjguowhptv4wa53tgknhxt4/video.mp4?v2&direct=false&ua=true
 
 
 #EXTINF:-1 group-title="XXX Adultos",.: ADULTOS :.
