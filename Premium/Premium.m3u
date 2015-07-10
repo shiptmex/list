@@ -1,5 +1,142 @@
 #EXTM3U
 
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,HBOPlusLASD
+http://31.220.40.100:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,space
+http://31.220.40.100:80/LiveEdge/SpaceLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,FX
+http://31.220.40.100:80/LiveEdge/FXLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,SyFy
+http://31.220.40.100:80/LiveEdge/SyFyLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Mundo Fox
+http://31.220.40.100:80/LiveEdge/MundoFoxSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,max
+http://31.220.40.100:80/LiveEdge/MAXLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,max up
+http://31.220.40.100:80/LiveEdge/MaxUPSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Max Prime
+http://31.220.40.100:80/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Max Prime 2
+http://31.220.40.100:80/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,FOX Family
+http://31.220.40.100:80/LiveEdge/FOXFamilyLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Fox Cinema
+http://31.220.40.100:80/LiveEdge/FoxCinemaSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,FOX Comedy
+http://31.220.40.100:80/LiveEdge/FOXComedyLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,FOX ACTION
+http://31.220.40.100:80/LiveEdge/FOXACTIONLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,HBO
+http://31.220.40.100:80/LiveEdge/HBOLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,HBO 2
+http://31.220.40.100:80/LiveEdge/HBO2SD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,HBO Signature
+http://31.220.40.100:80/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,FOX 1
+http://31.220.40.100:80/LiveEdge/FOX1LASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,FOX HD
+http://31.220.40.100:80/LiveEdge/FOXHDLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Film Zone
+http://31.220.40.100:80/LiveEdge/FilmZoneLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,TNT HD
+http://31.220.40.100:80/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Cine Latino
+http://31.220.40.100:80/LiveEdge/CineLatinoSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Golden HD
+http://31.220.40.100:80/LiveEdge/GoldenHD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,canal de las estrellas
+http://31.220.40.100:80/LiveEdge/EstrellasLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Univision
+http://31.220.40.100:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,unimas
+http://31.220.40.100:80/LiveEdge/UniMasUS/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Pasiones
+http://31.220.40.100:80/LiveEdge/PasionesSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Telemundo
+http://31.220.40.100:80/LiveEdge/TelemundoUS/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Telemundo
+http://31.220.40.100:80/LiveEdge/TelemundoSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,RCN novelas
+http://31.220.40.100:80/LiveEdge/RCNnovelasLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Telenovelas
+http://31.220.40.100:80/LiveEdge/TlnovelasLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Telecentro
+http://31.220.40.100:80/LiveEdge/Telecentro13LA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Caracol internacional
+http://31.220.40.100:80/LiveEdge/CaracolIntSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Tv Globo Internacional
+http://31.220.40.100:80/LiveEdge/TVGloboLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Discovery
+http://31.220.40.100:80/LiveEdge/DiscoveryChLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Discovery Theater
+http://31.220.40.100:80/LiveEdge/DiscoveryenEspanolHD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Discovery World
+http://31.220.40.100:80/LiveEdge/DiscoveryWorldLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Discovery Home & Health
+http://31.220.40.100:80/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,History 2
+http://31.220.40.100:80/LiveEdge/H2LASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,History
+http://31.220.40.100:80/LiveEdge/HistoryLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Nat Geo
+http://31.220.40.100:80/LiveEdge/NatGeoLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Animal Planet
+http://31.220.40.100:80/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,ESPN
+http://31.220.40.100:80/LiveEdge/ESPNLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,ESPN 2
+http://31.220.40.100:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,ESPN 3
+http://31.220.40.100:80/LiveEdge/ESPN3LASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Fox Sports
+http://31.220.40.100:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Fox Sports 2
+http://31.220.40.100:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Fox Sports 3
+http://31.220.40.100:80/LiveEdge/FoxSports3SD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Bein Sports
+http://31.220.40.100:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,UFC Network
+http://31.220.40.100:80/LiveEdge/UFCNetworkLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,F1
+http://31.220.40.100:80/LiveEdge/F1LA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Planeta Futbol
+http://31.220.40.100:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Planeta Futbol
+http://31.220.40.100:80/LiveEdge/PlanetaFutbolEnglish/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,TDN
+http://31.220.40.100:80/LiveEdge/TDNMXLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Univision TDN
+http://31.220.40.100:80/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Disney Channel
+http://31.220.40.100:80/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,DisneyXD
+http://31.220.40.100:80/LiveEdge/DisneyXDSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Disney Jr
+http://31.220.40.100:80/LiveEdge/DisneyJrLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Nickelodeon
+http://31.220.40.100:80/LiveEdge/NickelodeonLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Nick Jr
+http://31.220.40.100:80/LiveEdge/NickJrLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Discovery Kids
+http://31.220.40.100:80/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Cartoon Network
+http://31.220.40.100:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Boomerang
+http://31.220.40.100:80/LiveEdge/BoomerangLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Tooncast
+http://31.220.40.100:80/LiveEdge/TooncastSD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Baby First
+http://31.220.40.100:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Baby TV
+http://31.220.40.100:80/LiveEdge/BabyTVLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Cbeebies
+http://31.220.40.100:80/LiveEdge/CbeebiesLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+#EXTINF:-1 group-title=”LATINOS_PRUEBA”,Sony
+http://31.220.40.100:80/LiveEdge/SonyLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+
+
+
 #EXTINF:-1 group-title="Canales de USA",.: Canales de USA :.
 http://?
 
@@ -245,7 +382,7 @@ rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
 
 
 
-#EXTINF:-1  group-title="Variedades - Latinos",.: VARIEDADES - LATINOS :.
+#EXTINF:-1  group-title="Variedades - Latinos",.: VARIEDADES - LATINOS_PRUEBA :.
 http://?
 
 #EXTINF:-1 tvg-id="Univision" tvg-logo="univision.png" group-title="Variedades - Latinos",Univision USA 
