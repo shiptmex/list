@@ -1515,23 +1515,31 @@ http://?
 #EXTINF:-1 tvg-id="CB24" tvg-logo="telemarcampeche.png" group-title="Variedades - Latinos",CB24 Noticias HD 720
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 
-#EXTINF:0,ESPN HD
+#EXTINF:0 group-title="Deportes",ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,ESPN HD opc1
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0,ESPN HD opc2
-http://94.242.228.121:1935/live/espnbr/livestream.m3u8
-#EXTINF:0,ESPN HD opc3
+#EXTINF:0 group-title="Deportes",ESPN HD opc2
 http://tinyurl.com/qjvb66r
-#EXTINF:0,ESPN HD opc4
-http://tinyurl.com/pozbtqs
-#EXTINF:0,ESPN HD opc5
-http://94.242.228.121:1935/live/espnbr/playlist.m3u8 
+#EXTINF:0 group-title="Deportes",ESPN HD opc3
+http://tinyurl.com/q62uawn
+#EXTINF:0 group-title="Deportes",ESPN SportCenter
+http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:0,ESPN 2 HD
+
+#EXTINF:0 group-title="Deportes",ESPN 2 HD
 http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
-#EXTINF:0,ESPN 2 SD
+#EXTINF:0 group-title="Deportes",ESPN 2 SD
 http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
+
+#EXTINF:0 group-title="Deportes",SKY SPORT1
+rtmp://50.7.67.78:1935/graham/ss1
+#EXTINF:0 group-title="Deportes",SKY SPORT2
+rtmp://50.7.67.78:1935/graham/ss2
+#EXTINF:0 group-title="Deportes",SKY SPORT3
+rtmp://50.7.67.78:1935/graham/ss3
+#EXTINF:0 group-title="Deportes",SKY SPORT4
+rtmp://50.7.67.78:1935/graham/ss4
+#EXTINF:0 group-title="Deportes",SKY SPORT5
+rtmp://50.7.67.78:1935/graham/ss5
 
 #EXTINF:-1 tvg-id="GEM Travel" tvg-logo="gemtravel.png" group-title="Deportes",GEM
 http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8#MegaIPTVArgentina
