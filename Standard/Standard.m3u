@@ -146,6 +146,12 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&reba
 #EXTINF:-1 tvg-id="Paka Paka" tvg-name="Paka Paka" tvg-logo="pakapaka.png" group-title="Infantil",Paka Paka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
+#EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="animetv.png" group-title="Infantil",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 tvg-id="Mega Animé TV" tvg-name="MegaAnime" tvg-logo="megaanime.png" group-title="Infantil",MegaAnimé TV
+rtmp://podi.hopper.pw:443/live/live_mega_animeshd
+
 
 #EXTINF:-1 group-title="Infantil",.: ON DEMAND KIDS:.
 http://?
