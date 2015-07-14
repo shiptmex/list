@@ -1520,6 +1520,10 @@ http://?
 #EXTINF:-1 tvg-id="CB24" tvg-logo="telemarcampeche.png" group-title="Variedades - Latinos",CB24 Noticias HD 720
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1,NFL Network
+http://31.220.40.121:80/LiveEdge/NFLNetworkUS/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
+
+
 #EXTINF:0 group-title="Deportes",ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
 #EXTINF:0 group-title="Deportes",ESPN HD opc2
