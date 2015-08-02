@@ -1532,6 +1532,8 @@ http://tinyurl.com/qjvb66r
 http://tinyurl.com/q62uawn
 #EXTINF:0 group-title="Deportes",ESPN SportCenter
 http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0 group-title="Deportes",ESPN UK
+http://195.154.227.38:1935/ive/espnuklsh/playlist.m3u8
 
 
 #EXTINF:0 group-title="Deportes",ESPN 2 HD
@@ -1540,15 +1542,17 @@ http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
 
 #EXTINF:0 group-title="Deportes",SKY SPORT1
-rtmp://50.7.67.78:1935/graham/ss1
+http://195.154.227.38:1935/ive/skysports1lsh/playlist.m3u8
 #EXTINF:0 group-title="Deportes",SKY SPORT2
-rtmp://50.7.67.78:1935/graham/ss2
+http://195.154.227.38:1935/ive/skysports2lsh/playlist.m3u8
 #EXTINF:0 group-title="Deportes",SKY SPORT3
-rtmp://50.7.67.78:1935/graham/ss3
+http://195.154.227.38:1935/ive/skysports3lsh/playlist.m3u8
 #EXTINF:0 group-title="Deportes",SKY SPORT4
-rtmp://50.7.67.78:1935/graham/ss4
+http://195.154.227.38:1935/ive/skysports4lsh/playlist.m3u8
 #EXTINF:0 group-title="Deportes",SKY SPORT5
-rtmp://50.7.67.78:1935/graham/ss5
+http://195.154.227.38:1935/ive/skysports5lsh/playlist.m3u8
+#EXTINF:0 group-title="Deportes",SKY SPORT F1
+http://195.154.227.38:1935/ive/vskysf1lsh/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GEM Travel" tvg-logo="gemtravel.png" group-title="Deportes",GEM
 http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8#MegaIPTVArgentina
