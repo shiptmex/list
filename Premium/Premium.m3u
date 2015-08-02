@@ -1527,7 +1527,7 @@ http://31.220.40.121:80/LiveEdge/NFLNetworkUS/playlist.m3u8?token=5f4ed1dd00640c
 #EXTINF:0 group-title="Deportes",ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
 #EXTINF:0 group-title="Deportes",ESPN HD opc2
-http://tinyurl.com/qjvb66r
+http://80.80.160.168/live/6/live.m3u8
 #EXTINF:0 group-title="Deportes",ESPN HD opc3
 http://tinyurl.com/q62uawn
 #EXTINF:0 group-title="Deportes",ESPN SportCenter
@@ -1544,7 +1544,7 @@ http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
 
 #EXTINF:0 group-title="Deportes",SKY SPORT1
-http://195.154.227.38:1935/ive/skysports1lsh/playlist.m3u8
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_1_UK?auth=test+test
 #EXTINF:0 group-title="Deportes",SKY SPORT2
 http://195.154.227.38:1935/ive/skysports2lsh/playlist.m3u8
 #EXTINF:0 group-title="Deportes",SKY SPORT3
