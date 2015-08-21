@@ -1,5 +1,286 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Nuevos",.: Nuevos :.
+http://?
+
+
+#EXTINF:-0,216-WOBI
+http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF:-0,220-BYU TELEVISION (RELIGION)
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_840_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-0,221-BYU TELEVISION LATINO (RELIGION)
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+ 
+#EXTINF:-0,224-MARIAVISION
+http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?DVR
+ 
+#EXTINF:-0,226-ENLACE TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+ 
+#EXTINF:-0,ENTRETENIMIENTO http://www.sky.com.mx/images/universe/univer_200.jpg
+ 
+#EXTINF:-0,301-FOX SD
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF:-0,408-DISNEY XD
+http://201.161.59.5/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-0,506-FOX SPORTS
+http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-0,520-TYC SPORTS
+http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-0,628-CANAL DHE
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-0,902-FOX NEWS
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-0,906-CNN INTERNACIONAL
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-0,908-AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_2_av-p.m3u8
+
+#EXTINF:-0,914-EURONEWS EN ESPAÑOL
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+
+#EXTINF:-0,916-24 HRS SPAIN
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-0,806-TELEHIT
+http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
+
+
+#EXTINF:-0,LA 2 HD (SPAIN)
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-0,ANTENA 3 HD (SPAIN)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-0,TELECINCO HD (SPAIN)
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
+#EXTINF:-0,LA SEXTA HD (SPAIN)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-0,24 HRS HD(SPAIN)
+http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
+
+#EXTINF:-0,TELEANTILLAS CANAL 2 (REPUBLICA DOMINICANA)
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:-0,AZTECA DEPORTES (EVENTOS)
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+
+#EXTINF:-0,TODO DEPORTES
+http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
+#EXTINF:-0,AZTECA HONDURAS
+http://162.212.176.68:1935/azteca/azteca/playlist.m3u8
+
+
+#EXTINF:-1,E4 [COLOR blue]HD[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1,Film4 [COLOR blue]HD[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1,SHOwtime [COLOR blue]HD[/COLOR]
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,Discovery [COLOR blue]HD[/COLOR]
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,Discovery Science [COLOR blue]HD[/COLOR]
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:-1,Big Ten Network [COLOR blue]HD[/COLOR]
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1,ESPN [COLOR blue]HD[/COLOR]
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1,Discovery Science USA
+http://80.80.160.168/live/9/live.m3u8
+  
+
+
+
+#EXTINF:-1,TELE VIDA T-K
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+#EXTINF:-1,TRENDY MUSICA T-K
+http://hlslive.lcdn.une.net .co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1,CANAL ANTIESTREST-K
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1,CANTINAZO T-K
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+#EXTINF:-1,LIFEDESING T-K
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1,MIMUSICA HD T-K
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1,TELE AMIGA T-K
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
+#EXTINF:-1,TIGO MUSIC T-K
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
+#EXTINF:-1,EL TRECE HD T-K
+rtmp://stream.eltrecetv.com.ar/live13/13tv/13tv1 playpath=13tv1 swfUrl=http://cdn.eltrecetv.com.ar/sites/all/libraries/jwplayer/player.swf pageUrl=http://www.eltrecetv.com.ar/vivo live=1
+
+#EXTINF:-1,Canal De Las Estrellas T-K
+http://201.161.59.3/canal2.isml/manifest(format=m3u8-aapl).m3u8?
+#EXTINF:-1,Canal De Las Estrellas T-K
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+
+#EXTINF:-1,Telemundo T-K
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1,TEVEO MIAMI
+http://iphone-streaming.ustream.tv:80/uhls/14034121/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,ONCE TV T-K
+http://201.161.59.3/oncetv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,CADENA 3 T-K
+http://201.161.59.3/cadena3.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,52 MX T-K
+http://201.161.59.4/canal52.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,MULTIMEDIOS TV T-K
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+
+#EXTINF:-1,AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,INFO 7 NL T-K
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1,MEGA T-K
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+
+ 
+#EXTINF:-1,TVNHD T-K
+http://edge-51-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+ 
+#EXTINF:-1,MEGAHD T-K
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+ 
+
+ 
+#EXTINF:-1,Canal 13 HD T-K
+http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
+
+#EXTINF:-1,AZTECA 13 T-K
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,PROYECTO 40 T-K
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,History T-K
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+
+
+#EXTINF:-1,WOBI T-K
+http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,FOX SD T-K
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+
+
+#EXTINF:-1,CDN-SportsMax T-K
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,Real Madrid TV T-K
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,SEVILLAFC T-K
+http://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc/stml.m3u8
+
+#EXTINF:-1,FOXSPORT T-K
+http://201.161.59.6/foxsports.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Fox Sports SUR T-K
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+
+#EXTINF:-1,TYC SPORT T-K
+http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,MULTICINEMA T-K
+http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,DPELICULA T-K
+http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Ultra Cine HD  T-K
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
+#EXTINF:-1,Ultra Cine T-K
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+
+#EXTINF:-1,DHE T-K
+http://201.161.59.7/dhe.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8
+
+ 
+#EXTINF:-1,TELEHIT T-K
+http://201.161.59.7/telehit.isml/QualityLevels(1992000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Kiss tv T-K
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1,A-ONE T-K
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC T-K
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC T-K
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?=-1
+#EXTINF:-1,VEVO MUSIC T-K
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?=-1
+#EXTINF:-1,Q Musica T-K
+mms://200.42.92.6:1755/qmusica
+
+
+
+#EXTINF:-1,Telemundo 
+http://199.168.116.12:1935/app/chivass_69s-channel/.m3u8
+
+#EXTINF:-1,Mexico 1 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:-1,Mexico 3 
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1,Mexico 4 
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,Mexico 5 
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,Mexico 6 
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Mexico 7 
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8 
+#EXTINF:-1,Mexico 8 
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/chunklist_b900000.m3u8
+#EXTINF:-1,Mexico 9 
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1,Mexico 10 
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+
+
+#EXTINF:-1,Antena 3 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+
+
+
+#EXTINF:-1,DW Latinoamerica 
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1,TV 5 Monde 
+http://myafricanmega3.tulix.tv:1935/map-tv5afrique/map-tv5afrique.stream/chunklist.m3u8?wowzasessionid=1670180312
+
+
+
+#EXTINF:-1,Azteca Noticias 
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,Euronews en Español 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+#EXTINF:-1,CB24 
+rtmp://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVEO" tvg-logo="tveo.png",TVEO Miami USA
+http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+
+
 #EXTINF:-1 group-title="Canales de USA",.: Canales de USA :.
 http://?
 
