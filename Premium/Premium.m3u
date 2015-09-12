@@ -1802,7 +1802,7 @@ http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnne
 
 
 #EXTINF:-1 group-title="Deportes",NFL Network[COLOR blue]HD[/COLOR]
-http://192.99.19.98:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_200k.m3u8
 
 #EXTINF:-1 tvg-id="CB24" tvg-logo="telemarcampeche.png" group-title="Deportes",CB24 Noticias HD 720
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
@@ -1819,11 +1819,11 @@ http://80.80.160.168/live/6/live.m3u8
 
 
 #EXTINF:0 group-title="Deportes",SKY SPORT1
-http://pappuyartangnakar.ddns.net:8080/fOneE1/fy4OnE1/index.m3u8
+http://proffiptv.mine.nu:15003/live/LupeTToOo/LupeTToOo/30.ts
 #EXTINF:0 group-title="Deportes",SKY SPORT2
-http://195.154.227.38:1935/ive/skysports2lsh/playlist.m3u8
+http://proffiptv.mine.nu:15003/live/LupeTToOo/LupeTToOo/31.ts
 #EXTINF:0 group-title="Deportes",SKY SPORT3
-http://195.154.227.38:1935/ive/skysports3lsh/playlist.m3u8
+http://proffiptv.mine.nu:15003/live/LupeTToOo/LupeTToOo/32.ts
 #EXTINF:0 group-title="Deportes",SKY SPORT4
 http://195.154.227.38:1935/ive/skysports4lsh/playlist.m3u8
 #EXTINF:0 group-title="Deportes",SKY SPORT5
