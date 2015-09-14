@@ -1796,6 +1796,11 @@ http://178.32.53.254/radiovida/mobile/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 http://?
 
+#EXTINF:-1 group-title="Deportes",eurosport uk
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.50/live playpath=weuro1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php
+#EXTINF:-1 group-title="Deportes",eurosport uk2
+http://www.nasatv.eu:80/live?channelId=42&uid=18&deviceUser=zine&devicePass=zine
+
 #EXTINF:-1 group-title="Deportes",Big Ten Network [COLOR blue]HD[/COLOR]
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
