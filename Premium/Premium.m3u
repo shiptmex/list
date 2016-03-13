@@ -339,6 +339,8 @@ http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1066
 #EXTINF:-1 group-title="CanalesSD",.: Canales en SD :.
 http://?
 
+#EXTINF:-1 tvg-logo="UFC.png" group-title="CanalesSD",UFC
+http://live-1112.la2.edge.filmon.com/live/713.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe909a53e6f70c6ed3b8b5f04414b9ae2c45aed11cd345db232994e278c1de256ae9f3a9136b68618cc467a3d401dec9889ca821f46c23b6c1a737f06442f5332cacab9aeb4c788196832329313e51dff35467468b616d3b23bb2bb76fa7602254c550194b64761604d49c27db7df094c2013b568d3a5b9c319b360bf4cd75c543d09d12a69ed102953209f4c39170679e
 #EXTINF:-1 tvg-logo="Azteca Noticias.png" group-title="CanalesSD",Azteca Noticias
 http://sicostopo.com/shenjo/view.m3u8?canal=2
 #EXTINF:-1 group-title="CanalesSD",Az Click
