@@ -1,561 +1,580 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Latino",.: Canales Latinos :.
+#EXTINF:-1,[COLOR lime]---USA---[/COLOR]
 http://?
 
-#EXTINF:-1 group-title="Latino",FashionTV
-http://sicostopo.com/shenjo/view.m3u8?canal=220&profile=5
-#EXTINF:-1  tvg-logo="sony.png" group-title="Latino",Sony HD
-http://sicostopo.com/shenjo/view.m3u8?canal=203&profile=5
-#EXTINF:-1  tvg-logo="universal-channel.png" group-title="Latino",Universal HD
-http://sicostopo.com/shenjo/view.m3u8?canal=207&profile=5
-#EXTINF:-1  tvg-logo="fx-hd.png" group-title="Latino",FX HD
-http://sicostopo.com/shenjo/view.m3u8?canal=209&profile=5
-#EXTINF:-1  tvg-logo="axn-hd.png" group-title="Latino",AXN HD
-http://sicostopo.com/shenjo/view.m3u8?canal=213&profile=5
-#EXTINF:-1  tvg-logo="trutv-hd.png" group-title="Latino",TruTV HD
-http://sicostopo.com/shenjo/view.m3u8?canal=215&profile=5
-#EXTINF:-1  tvg-logo="fox.png" group-title="Latino",Fox HD
-http://sicostopo.com/shenjo/view.m3u8?canal=201&profile=5
-#EXTINF:-1  tvg-logo="bbc-entertainment.png" group-title="Latino",BBC Entertainment
-http://sicostopo.com/shenjo/view.m3u8?canal=253&profile=5
-#EXTINF:-1  tvg-logo="!e.png" group-title="Latino",E! Entertainment Television
-http://sicostopo.com/shenjo/view.m3u8?canal=255&profile=5
-#EXTINF:-1  tvg-logo="syfy.png" group-title="Latino",SyFy
-http://sicostopo.com/shenjo/view.m3u8?canal=257&profile=5
-#EXTINF:-1  tvg-logo="A&E Latinoamerica.png" group-title="Latino",A&E
-http://sicostopo.com/shenjo/view.m3u8?canal=211&profile=5
-#EXTINF:-1  tvg-logo="Investigacion-Discovery.png" group-title="Latino",Investigación Discovery
-http://sicostopo.com/shenjo/view.m3u8?canal=263&profile=5
-#EXTINF:-1  tvg-logo="tnt-series.png" group-title="Latino",TNT Series
-http://sicostopo.com/shenjo/view.m3u8?canal=266&profile=5
-#EXTINF:-1  tvg-logo="el-gourmet.png" group-title="Latino",El Gourmet
-http://sicostopo.com/shenjo/view.m3u8?canal=268&profile=5
-#EXTINF:-1  tvg-logo="glitz.png" group-title="Latino",Glitz
-http://sicostopo.com/shenjo/view.m3u8?canal=270&profile=5
-#EXTINF:-1  tvg-logo="tbs.png" group-title="Latino",TBS
-http://sicostopo.com/shenjo/view.m3u8?canal=273&profile=5
-#EXTINF:-1  tvg-logo="hd-theater.png" group-title="Latino",Discovery Theater
-http://sicostopo.com/shenjo/view.m3u8?canal=351&profile=5
-#EXTINF:-1  tvg-logo="history-hd.png" group-title="Latino",History HD
-http://sicostopo.com/shenjo/view.m3u8?canal=353&profile=5
-#EXTINF:-1  tvg-logo="natgeo-wild-hd.png" group-title="Latino",NatGeo Wild HD
-http://sicostopo.com/shenjo/view.m3u8?canal=355&profile=5
-#EXTINF:-1  tvg-logo="discovery-world-hd.png" group-title="Latino",Discovery World
-http://sicostopo.com/shenjo/view.m3u8?canal=356&profile=5
-#EXTINF:-1  tvg-logo="discovery-channel.png" group-title="Latino",Discovery Channel
-http://sicostopo.com/shenjo/view.m3u8?canal=371&profile=5
-#EXTINF:-1  tvg-logo="animalplanet.png" group-title="Latino",Animal Planet
-http://sicostopo.com/shenjo/view.m3u8?canal=373&profile=5
-#EXTINF:-1  tvg-logo="home-and-health.png" group-title="Latino",Home and Health
-http://sicostopo.com/shenjo/view.m3u8?canal=374&profile=5
-#EXTINF:-1  tvg-logo="natgeo.png" group-title="Latino",NatGeo
-http://sicostopo.com/shenjo/view.m3u8?canal=377&profile=5
-#EXTINF:-1  tvg-logo="lifetime.png" group-title="Latino",Lifetime
-http://sicostopo.com/shenjo/view.m3u8?canal=379&profile=5
-#EXTINF:-1  tvg-logo="discovery-civilization.png" group-title="Latino",Discovery Civilization
-http://sicostopo.com/shenjo/view.m3u8?canal=382&profile=5
-#EXTINF:-1  tvg-logo="discovery-turbo.png" group-title="Latino",Discovery Turbo
-http://sicostopo.com/shenjo/view.m3u8?canal=383&profile=5
-#EXTINF:-1  tvg-logo="tlc.png" group-title="Latino",TLC
-http://sicostopo.com/shenjo/view.m3u8?canal=386&profile=5
-#EXTINF:-1  tvg-logo="fox-1-hd.png" group-title="Latino",Fox 1 HD
-http://sicostopo.com/shenjo/view.m3u8?canal=415&profile=5
-#EXTINF:-1  tvg-logo="fox-action.png" group-title="Latino",Fox Action HD
-http://sicostopo.com/shenjo/view.m3u8?canal=416&profile=5
-#EXTINF:-1  tvg-logo="fox-movies-HD.png" group-title="Latino",Fox Movies
-http://sicostopo.com/shenjo/view.m3u8?canal=417&profile=5
-#EXTINF:-1  tvg-logo="golden.png" group-title="Latino",Golden HD
-http://sicostopo.com/shenjo/view.m3u8?canal=436&profile=5
-#EXTINF:-1  tvg-logo="fox-classics.png" group-title="Latino",Fox Classics
-http://sicostopo.com/shenjo/view.m3u8?canal=424&profile=5
-#EXTINF:-1  tvg-logo="tnt-hd.png" group-title="Latino",TNT HD
-http://sicostopo.com/shenjo/view.m3u8?canal=435&profile=5
-#EXTINF:-1  tvg-logo="the-film-zone-hd.png" group-title="Latino",The Film Zone HD
-http://sicostopo.com/shenjo/view.m3u8?canal=440&profile=5
-#EXTINF:-1  tvg-logo="AMC.png" group-title="Latino",AMC HD
-http://sicostopo.com/shenjo/view.m3u8?canal=444&profile=5
-#EXTINF:-1  tvg-logo="space-hd.png" group-title="Latino",Space HD
-http://sicostopo.com/shenjo/view.m3u8?canal=445&profile=5
-#EXTINF:-1  tvg-logo="cinemax-(w).png" group-title="Latino",Cinemax
-http://sicostopo.com/shenjo/view.m3u8?canal=481&profile=5
-#EXTINF:-1  tvg-logo="golden-edge.png" group-title="Latino",Golden Edge
-http://sicostopo.com/shenjo/view.m3u8?canal=484&profile=5
-#EXTINF:-1  tvg-logo="studio-universal.png" group-title="Latino",Studio Universal
-http://sicostopo.com/shenjo/view.m3u8?canal=492&profile=5
-#EXTINF:-1  tvg-logo="i.sat.png" group-title="Latino",I.Sat
-http://sicostopo.com/shenjo/view.m3u8?canal=495&profile=5
-#EXTINF:-1  tvg-logo="tcm.png" group-title="Latino",TCM
-http://sicostopo.com/shenjo/view.m3u8?canal=496&profile=5
+#EXTINF:0,Telemundo
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:0,TELEMUNDO
+http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
+
+#EXTINF:0,UNIVISION 1
+http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
+
+EXTINF:0,[COLOR blue]Fox[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
+#EXTINF:0,Miami TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,Miami TV Music
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:0,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0,National Geographic
+http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
+EXTINF:0,[COLOR blue]Discovery Channel[/COLOR]
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+EXTINF:0,[COLOR blue]Travel Channel[/COLOR]
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+
+EXTINF:0,[COLOR blue]National Geographic[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
+#EXTINF:0,Syfy Channel
+http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
+#EXTINF:0,Universal 
+http://iptvbox.noip.us:9998/live/atik/atik/1037.m3u8
+#EXTINF:0,Fox
+http://iptvbox.noip.us:9998/live/atik/atik/632.m3u8
+#EXTINF:0,Discovery Turbo
+http://iptvbox.noip.us:9998/live/atik/atik/1040.m3u8
+#EXTINF:0,Discovery Channel
+http://iptvbox.noip.us:9998/live/atik/atik/1041.m3u8
+#EXTINF:0,Animal Planet
+http://iptvbox.noip.us:9998/live/atik/atik/630.m3u8
+#EXTINF:0,National Geographic
+http://iptvbox.noip.us:9998/live/atik/atik/222.m3u8
+#EXTINF:0,Nat geo wild
+http://iptvbox.noip.us:9998/live/atik/atik/474.m3u8
+#EXTINF:0,Nat Geo Wild
+http://iptvbox.noip.us:9998/live/atik/atik/223.m3u8
+#EXTINF:0,Discovery Science 
+http://iptvbox.noip.us:9998/live/atik/atik/624.m3u8
+#EXTINF:0,DISCOVERY HISTORY
+http://iptvbox.noip.us:9998/live/atik/atik/629.m3u8
+#EXTINF:0,NICKLEODON
+http://iptvbox.noip.us:9998/live/atik/atik/221.m3u8
+#EXTINF:0,Disney XD
+http://iptvbox.noip.us:9998/live/atik/atik/684.m3u8
+#EXTINF:-1,Disney Junior
+http://iptvbox.noip.us:9998/live/atik/atik/628.m3u8
+#EXTINF:-1,Disney Channel 
+http://iptvbox.noip.us:9998/live/atik/atik/682.m3u8
+#EXTINF:-1,Cartoon Network US
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptvbox.noip.us:9998/live/atik/atik/685.m3u8
+#EXTINF:-1,Nicktoons
+http://iptvbox.noip.us:9998/live/atik/atik/625.m3u8
+
+#EXTINF:-1,MTV 
+http://iptvbox.noip.us:9998/live/atik/atik/1361.m3u8
+#EXTINF:-1,Mtv Music
+http://iptvbox.noip.us:9998/live/atik/atik/962.m3u8
+#EXTINF:-1,Mtv Rocks
+http://iptvbox.noip.us:9998/live/atik/atik/1372.m3u8
 
 
-#EXTINF:-1 group-title="Deportes",.: Canales de Deportes :.
-http://?
+EXTINF:-1,[COLOR blue]Canal Estrenos[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/587.m3u8
 
-#EXTINF:-1  tvg-logo="hmx.png" group-title="Deportes",HMX
-http://sicostopo.com/shenjo/view.m3u8?canal=169&profile=5
-#EXTINF:-1  tvg-logo="fox-sports-hd.png" group-title="Deportes",Fox Sports HD
-http://sicostopo.com/shenjo/view.m3u8?canal=522&profile=5
-#EXTINF:-1  tvg-logo="fox-sports-2-hd.png" group-title="Deportes",Fox Sports 2 HD
-http://sicostopo.com/shenjo/view.m3u8?canal=527&profile=5
-#EXTINF:-1  tvg-logo="espn-hd.png" group-title="Deportes",ESPN HD
-http://sicostopo.com/shenjo/view.m3u8?canal=516&profile=5
-#EXTINF:-1  tvg-logo="aym-sports.png" group-title="Deportes",AyM Sports
-http://sicostopo.com/shenjo/view.m3u8?canal=576&profile=5
+EXTINF:-1,[COLOR blue]Canal Series[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/268.m3u8
 
+EXTINF:-1,[COLOR blue]Canal DCine[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/261.m3u8
 
-#EXTINF:-1 group-title="Variedades",.: Canales varios :.
-http://?
+EXTINF:-1,[COLOR blue]Canal Comedia[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/275.m3u8
 
-#EXTINF:-1 tvg-logo="Azteca Noticias.png" group-title="Variedades",Azteca Noticias
-http://sicostopo.com/shenjo/view.m3u8?canal=2&profile=5
-#EXTINF:-1 group-title="Variedades",Az Click
-http://sicostopo.com/shenjo/view.m3u8?canal=725&profile=5
-#EXTINF:-1 group-title="Variedades",HolaTV
-http://sicostopo.com/shenjo/view.m3u8?canal=219&profile=5
-#EXTINF:-1 tvg-logo="azteca-7.png" group-title="Variedades",Azteca 7
-http://sicostopo.com/shenjo/view.m3u8?canal=7&profile=5
-#EXTINF:-1  tvg-logo="canal-2-HD.png" group-title="Variedades",Canal de las Estrellas HD
-http://sicostopo.com/shenjo/view.m3u8?canal=102&profile=5
-#EXTINF:-1  tvg-logo="foro-tv-HD.png" tvg-shift="-1" group-title="Variedades",Foro TV
-http://sicostopo.com/shenjo/view.m3u8?canal=104&profile=5
-#EXTINF:-1  tvg-logo="canal-5-HD.png" group-title="Variedades",Canal 5 HD
-http://sicostopo.com/shenjo/view.m3u8?canal=105&profile=5
-#EXTINF:-1  tvg-logo="gala-tv-hd.png" group-title="Variedades",Gala TV
-http://sicostopo.com/shenjo/view.m3u8?canal=109&profile=5
-#EXTINF:-1  tvg-logo="once-tv.png" group-title="Variedades",Once TV
-http://sicostopo.com/shenjo/view.m3u8?canal=111&profile=5
-#EXTINF:-1  tvg-logo="el-trece.png" group-title="Variedades",El Trece
-http://sicostopo.com/shenjo/view.m3u8?canal=13&profile=5
-#EXTINF:-1  tvg-logo="proyecto-40.png" group-title="Variedades",Proyecto 40
-http://sicostopo.com/shenjo/view.m3u8?canal=40&profile=5
-#EXTINF:-1  tvg-logo="cadena-3.png" group-title="Variedades",Cadena 3
-http://sicostopo.com/shenjo/view.m3u8?canal=143&profile=5
-#EXTINF:-1  tvg-logo="teleformula.png" group-title="Variedades",TeleFórmula
-http://sicostopo.com/shenjo/view.m3u8?canal=161&profile=5
-#EXTINF:-1  tvg-logo="comedy-central-hd.png" group-title="Variedades",Comedy Central HD
-http://sicostopo.com/shenjo/view.m3u8?canal=217&profile=5
-#EXTINF:-1  tvg-logo="azteca-novelas.png" group-title="Variedades",Az Corazon
-http://sicostopo.com/shenjo/view.m3u8?canal=45&profile=5
-#EXTINF:-1  tvg-logo="unicable.png" group-title="Variedades",Unicable
-http://sicostopo.com/shenjo/view.m3u8?canal=218&profile=5
-#EXTINF:-1  tvg-logo="distrito-comedia.png" group-title="Variedades",Distrito Comedia
-http://sicostopo.com/shenjo/view.m3u8?canal=272&profile=5
-#EXTINF:-1  tvg-logo="tlnovelas.png" group-title="Variedades",Tlnovelas
-http://sicostopo.com/shenjo/view.m3u8?canal=275&profile=5
-#EXTINF:-1 tvg-logo="garage-tv.png" tvg-shift="-1" group-title="Variedades",El Garage
-http://sicostopo.com/shenjo/view.m3u8?canal=269&profile=5
-#EXTINF:-1  tvg-logo="cinecanal-hd.png" group-title="Variedades",Cinecanal HD
-http://sicostopo.com/shenjo/view.m3u8?canal=430&profile=5
-#EXTINF:-1  tvg-logo="de-pelicula-hd.png" group-title="Variedades",De Película HD
-http://sicostopo.com/shenjo/view.m3u8?canal=442&profile=5
-#EXTINF:-1 group-title="Variedades",AZ Cinema
-http://sicostopo.com/shenjo/view.m3u8?canal=425&profile=5
-#EXTINF:-1  tvg-logo="tve.png" group-title="Variedades",TVE
-http://sicostopo.com/shenjo/view.m3u8?canal=651&profile=5
-#EXTINF:-1 group-title="Variedades",RTE Español
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=15
-#EXTINF:-1 group-title="Variedades",Canal 44 Ciudad Juarez
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=20
-#EXTINF:-1 group-title="Variedades",Excelsior TV
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=21
-#EXTINF:-1 group-title="Variedades",Telefe
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=22
+EXTINF:-1,[COLOR blue]Canal Accion[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/262.m3u8
+
+EXTINF:-1,[COLOR blue]ES.Canal Xtra[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/586.m3u8
+
+EXTINF:-1,[COLOR blue]Hollywood[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
+
+EXTINF:-1,[COLOR blue]Neox[/COLOR]
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:0 tvg-name="CNN Spanish" tvg-language="Spanish" tvg-country="US" tvg-id="CNN Spanish" tvg-logo="http://diveheart.org/wp-content/uploads/2015/08/cnn-espanol-logo1-320x240.jpg" group-title="News",CNN Spanish (News) (US) (Spanish)
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
+#EXTINF:0 tvg-name="RT Noticias" tvg-language="Spanish" tvg-country="RU" tvg-id="RT Noticias" tvg-logo="https://yt3.ggpht.com/-Kctadlnnczo/AAAAAAAAAAI/AAAAAAAAAAA/5NdDPcu1rz8/s900-c-k-no/photo.jpg" group-title="News",RT Noticias (News) (RU) (Spanish)
+http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
 
 
-#EXTINF:-1 group-title="Infantil",.: Canales Infantiles :.
+
+
+
+
+
+EXTINF:-1,[COLOR red]LISTA RAFA[/COLOR]
 http://?
 
 
-#EXTINF:-1  tvg-logo="discovery-kids.png" group-title="Infantil",Discovery Kids
-http://sicostopo.com/shenjo/view.m3u8?canal=303&profile=5
-#EXTINF:-1  tvg-logo="cbeebies.png" group-title="Infantil",CBeebies
-http://sicostopo.com/shenjo/view.m3u8?canal=305&profile=5
-#EXTINF:-1  tvg-logo="disney-jr.png" group-title="Infantil",Disney Jr
-http://sicostopo.com/shenjo/view.m3u8?canal=308&profile=5
-#EXTINF:-1  tvg-logo="nick-jr.png" group-title="Infantil",Nick Jr
-http://sicostopo.com/shenjo/view.m3u8?canal=310&profile=5
-#EXTINF:-1  tvg-logo="nicktoons.png" group-title="Infantil",NickToons
-http://sicostopo.com/shenjo/view.m3u8?canal=314&profile=5
-#EXTINF:-1  tvg-logo="cartoon-network.png" group-title="Infantil",Cartoon Network
-http://sicostopo.com/shenjo/view.m3u8?canal=320&profile=5
-#EXTINF:-1  tvg-logo="disney-xd.png" group-title="Infantil",Disney XD
-http://sicostopo.com/shenjo/view.m3u8?canal=322&profile=5
-#EXTINF:-1  tvg-logo="boomerang.png" group-title="Infantil",Boomerang
-http://sicostopo.com/shenjo/view.m3u8?canal=324&profile=5
-#EXTINF:-1  tvg-logo="tiin.png" group-title="Infantil",TIIN
-http://sicostopo.com/shenjo/view.m3u8?canal=325&profile=5
-#EXTINF:-1  tvg-logo="tooncast.png" group-title="Infantil",Tooncast
-http://sicostopo.com/shenjo/view.m3u8?canal=328&profile=5
-
-#EXTINF:-1 group-title="Infantil",.: ON DEMAND KIDS:.
-http://?
-
-#EXTINF:0 group-title="Infantil",ALADDIN
-http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
-#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
-http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
-#EXTINF:0 group-title="Infantil",ALADDIN Y EL REY DE LOS LADRONES
-http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
-#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
-http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
-#EXTINF:0 group-title="Infantil",ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
-http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
-#EXTINF:0 group-title="Infantil",BARBIE SUPER PRINCESA
-http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
-#EXTINF:0 group-title="Infantil",LA CENICIENTA 2 UN SUEÑO HECHO REALIDAD
-http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
-#EXTINF:0 group-title="Infantil",LA SIRENITA 2 REGRESO AL MAR
-http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
-#EXTINF:0 group-title="Infantil",LA SIRENITA LOS COMIENZOS DE ARIEL
-http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
-#EXTINF:0 group-title="Infantil",MULAN 2
-http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
-#EXTINF:0 group-title="Infantil",POCAHONTAS 2
-http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
 
 
-
-
-
-#EXTINF:-1 group-title="Musica",.: Canales de Musica :.
+#EXTINF:-1,[COLOR lime]---Argentina---[/COLOR]
 http://?
 
 
-#EXTINF:-1  tvg-logo="mtv-live-hd.png" group-title="Musica",MTV Live HD
-http://sicostopo.com/shenjo/view.m3u8?canal=701&profile=5
-#EXTINF:-1  tvg-logo="telehit-hd.png" group-title="Musica",Telehit HD
-http://sicostopo.com/shenjo/view.m3u8?canal=702&profile=5
-#EXTINF:-1  tvg-logo="vh1-hd.png" group-title="Musica",VH1 HD
-http://sicostopo.com/shenjo/view.m3u8?canal=703&profile=5
-#EXTINF:-1  tvg-logo="mtv.png" group-title="Musica",MTV
-http://sicostopo.com/shenjo/view.m3u8?canal=726&profile=5
-#EXTINF:-1  tvg-logo="mtv-hits.png" group-title="Musica",MTV Hits
-http://sicostopo.com/shenjo/view.m3u8?canal=727&profile=5
-#EXTINF:-1  tvg-logo="vh1-classisc.png" group-title="Musica",VH1 Classic
-http://sicostopo.com/shenjo/view.m3u8?canal=728&profile=5
-#EXTINF:-1  tvg-logo="ritmoson-latino.png" group-title="Musica",Ritmoson Latino
-http://sicostopo.com/shenjo/view.m3u8?canal=731&profile=5
-#EXTINF:-1  tvg-logo="bandamax.png" group-title="Musica",Bandamax
-http://sicostopo.com/shenjo/view.m3u8?canal=732&profile=5
-#EXTINF:-1 group-title="Musica",Onda Latina TV
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=67
-#EXTINF:-1 group-title="Musica",Cantinazo TV
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=70
-#EXTINF:-1 group-title="Musica",Trendy
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=71
-#EXTINF:-1 group-title="Musica",Tigo Music
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=72
-#EXTINF:-1 group-title="Musica",Mi Musica
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=73
-
-
-
-#EXTINF:-1 group-title="Internacional",.: Canales Internacionales :.
-http://?
-
-#EXTINF:-1 tvg-logo="899.png" group-title="Internacional",RT Documentary
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1
-#EXTINF:-1 tvg-logo="1089.png" group-title="Internacional",Bloomberg TV UK
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=2
-#EXTINF:-1 tvg-logo="971.png" group-title="Internacional",Bloomberg TV US
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=3
-#EXTINF:-1 tvg-logo="1087.png" group-title="Internacional",ABC News
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=4
-#EXTINF:-1 tvg-logo="62.png" group-title="Internacional",RT International
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=5
-#EXTINF:-1 tvg-logo="419.png" group-title="Internacional",France 24
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=6
-#EXTINF:-1 tvg-logo="1097.png" group-title="Internacional",Deutsche Welle
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=7
-#EXTINF:-1 tvg-logo="899.png" group-title="Internacional",NHK World
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=8
-#EXTINF:-1 tvg-logo="90.png" group-title="Internacional",ABC New York
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1007
-#EXTINF:-1 group-title="Internacional",C-Span
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1008
-#EXTINF:-1 group-title="Internacional",C-Span 2
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1009
-#EXTINF:-1 group-title="Internacional",C-Span 3
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1010
-#EXTINF:-1 tvg-logo="92.png" group-title="Internacional",CBS New York
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1011
-#EXTINF:-1 tvg-logo="1825.png" group-title="Internacional",Animal Planet Live
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1016
-#EXTINF:-1 group-title="Internacional" tvg-logo="1770.png",MSNBC
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1023
-#EXTINF:-1 group-title="Internacional",NASA TV
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1024
-#EXTINF:-1 group-title="Internacional",Weather Nation
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1033
+#EXTINF:0 tvg-name="Canal 26 Noticias HD" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 26 Noticias HD" tvg-logo="http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="News",Canal 26 Noticias HD (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-480/playlist.m3u8
+#EXTINF:0 tvg-name="Canal 26 Noticias" tvg-language="Spanish" tvg-country="AR" tvg-id="Canal 26 Noticias" tvg-logo="http://en.abctelefonos.com/images/comercios/289120_60288_original.jpg" group-title="News",Canal 26 Noticias (News) (AR) (Spanish)
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 tvg-name="C5N News" tvg-language="Spanish" tvg-country="AR" tvg-id="C5N News" tvg-logo="http://tvtvtv.ru/icons/logo_988.png" group-title="News",C5N News (News) (AR) (Spanish)
+rtmp://c5n.stweb.tv:1935/c5n/live
 
 
 
 
-#EXTINF:-1 group-title="Religion",.: Canales de Religion :.
+#EXTINF:-1,[COLOR lime]---Mexico---[/COLOR]
 http://?
 
 
-#EXTINF:-1 group-title="Religion",Alcance TV
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=61
-#EXTINF:-1 group-title="Religion",Almavision
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=62
-#EXTINF:-1 group-title="Religion",Mirame TV
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=64
-#EXTINF:-1 group-title="Religion",Telefutura
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=65
+#EXTINF:0 tvg-name="Canal 10 Chiapas" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 10 Chiapas" tvg-logo="http://i.imgur.com/nsS4NdH.png" group-title="News",Canal 10 Chiapas (News) (MX) (Spanish)
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+#EXTINF:0 tvg-name="Canal 5 Sabinas" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 5 Sabinas" tvg-logo="http://i.imgur.com/GpiDAmw.png" group-title="News",Canal 5 Sabinas (News) (MX) (Spanish)
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:0 tvg-name="Mas Noticias" tvg-language="Spanish" tvg-country="MX" tvg-id="Mas Noticias" tvg-logo="http://www.rtv.org.mx/tvmas/wp-content/uploads/sites/2/2013/03/mas-noticias-1.png" group-title="News",Mas Noticias (News) (MX) (Spanish)
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:0 tvg-name="Proyecto 40" tvg-language="Spanish" tvg-country="MX" tvg-id="Proyecto 40" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSagmNREcSBYxer7DTFm20-KS9eAXnLmy7xQD3HK80DuZeRe11TZYdfyOI" group-title="News",Proyecto 40 (News) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:0 tvg-name="RCG TV Coahuila" tvg-language="Spanish" tvg-country="MX" tvg-id="RCG TV Coahuila" tvg-logo="http://i.imgur.com/ZSfFr91.jpg" group-title="News",RCG TV Coahuila (News) (MX) (Spanish)
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:0 tvg-name="Telemar Campeche" tvg-language="Spanish" tvg-country="MX" tvg-id="Telemar Campeche" tvg-logo="http://i.imgur.com/xmx1Kzs.png" group-title="News",Telemar Campeche (News) (MX) (Spanish)
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
+#EXTINF:0 tvg-name="Telemax TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Telemax TV" tvg-logo="http://www.telemax.com.mx/wp-content/uploads/2015/03/Logo-Telemax.jpg" group-title="News",Telemax TV (News) (MX) (Spanish)
+http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
+#EXTINF:0 tvg-name="TreceVision" tvg-language="Spanish" tvg-country="MX" tvg-id="TreceVision" tvg-logo="http://i.imgur.com/c1yVzHO.png" group-title="News",TreceVision (News) (MX) (Spanish)
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+#EXTINF:0 tvg-name="TV Acapulco" tvg-language="Spanish" tvg-country="MX" tvg-id="TV Acapulco" tvg-logo="http://i.imgur.com/j4E53rA.jpg" group-title="News",TV Acapulco (News) (MX) (Spanish)
+rtmp://stream.hosteris.com/tvacapulco/tvacapulco
+#EXTINF:0 tvg-name="Canal Once" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal Once" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png" group-title="Documentary",Canal Once (Documentary) (MX) (Spanish)
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Deliver TV" tvg-language="Spanish" tvg-country="MX" tvg-id="Deliver TV" tvg-logo="http://i.imgur.com/Rgbf8DK.jpg" group-title="Documentary",Deliver TV (Documentary) (MX) (Spanish)
+rtmp://wms.tecnoxia.com:80/8096//8096
+#EXTINF:0 tvg-name="Discovery Channel HD" tvg-language="Spanish" tvg-country="MX" tvg-id="Discovery Channel HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNCJgmHnzO-fQXXf1OsNr4O5egD-LUo2vL9vmD8X5OJafrnluVMSKZzQ" group-title="Documentary",Discovery Channel HD (Documentary) (MX) (Spanish)
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-name="El Amanecer de la Esperanza" tvg-language="Spanish" tvg-country="US" tvg-id="El Amanecer de la Esperanza" tvg-logo="http://www.elamanecer.org/wp/wp-content/uploads/2015/01/2048x1496-e1422669077101.png" group-title="Documentary",El Amanecer de la Esperanza (Documentary) (US) (Spanish)
+http://74.208.145.172:1935/Apps-stream2/smil:movil.smil/playlist.m3u8
 
+#EXTINF:0 tvg-name="C7 Jalisco" tvg-language="Spanish" tvg-country="MX" tvg-id="C7 Jalisco" tvg-logo="http://i.imgur.com/wqWrVq7.png" group-title="News",C7 Jalisco (News) (MX) (Spanish)
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:0 tvg-name="Canal del Congreso" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal del Congreso" tvg-logo="http://i.imgur.com/uGSJtw4.png" group-title="News",Canal del Congreso (News) (MX) (Spanish)
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 
+#EXTINF:0 tvg-name="Andalucia TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Andalucia TV" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUmGkOUj_g3HAX8Iy3gZVaXUxAwPfU_L86Ir3CmIBR9Z43l0Tqr0uhuQ" group-title="News",Andalucia TV (News) (ES) (Spanish)
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0 tvg-name="Azteca Noticias" tvg-language="Spanish" tvg-country="MX" tvg-id="Azteca Noticias" tvg-logo="http://static.tvazteca.com/aztecanoticias/images/an_logo_horizontal.png" group-title="News",Azteca Noticias (News) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
+#EXTINF:-1,AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1,Multimedios TV
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+#EXTINF:-1,TV Pacifico Culiacan
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1,CANAL 7 MAZATLAN
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1,CANAL 2 Mochis TV
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
+#EXTINF:-1,TVMAS HD
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,Canal 22
+rtmp://192.96.217.230/live/smrtv.sdp
+#EXTINF:-1,TELEMAR Campeche
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
+#EXTINF:-1,TRC Campeche
+rtmp://video7.stream.mx:1935/8024/8024
+#EXTINF:-1,Canal 10 Chiapas
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+#EXTINF:-1,CANAL 53 UANL TV
+mms://streaming.uanl.mx/canal53bandaancha
+#EXTINF:-1,Michoacan al dia
+rtmp://video7.stream.mx:1935/8016/8016
+#EXTINF:-1,Canal Nuestra Vision Michoacan
+http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
+#EXTINF:-1,Canal 5 Salina Cruz
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:-1,Canal 10 Durango
+rtmp://wms.tecnoxia.com:80/8096//8096
+#EXTINF:-1,5 TV Coahuila
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:-1,RCG TV Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1,TV Acapulco
+rtmp://stream.hosteris.com/tvacapulco/tvacapulco
+#EXTINF:-1,C7 Guadalajara
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:-1,Cultura Guadalajara
+http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
+#EXTINF:-1,2 TV Morelia
+http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8
+#EXTINF:-1,Multimedios Nuevo León
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+#EXTINF:-1,Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,5 TV Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:-1,EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1,Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1,Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:-1,TRECEVISION YUCATAN
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:-1,QUINCE TV ZACATECAS
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
+#EXTINF:-1,CANAL 15 FRESNILLO
+rtmp://live.zuperdns.net/zuperhosting.live.grupob.canal15fresnillo/livestream
+#EXTINF:-1,TVMas Veracruz
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+#EXTINF:-1,TVMas HD
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,TV RADIO Y TELEVISION MEXIQUENSE
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1,Aprende
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+#EXTINF:-1,TV Pacifico Obregón
+http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1,TELEMAX
+http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+#EXTINF:-1,Canal 2 YAQUI TV
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
+#EXTINF:-1,Canal 66 Mexicali
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 
-#EXTINF:-1 group-title="Espana",.: Canales de Espana :.
+#EXTINF:-1,[COLOR lime]---Chile---[/COLOR]
 http://?
 
-
-#EXTINF:-1 group-title="Espana",A3S
-http://sicostopo.com/parame/sintonizar.m3u8?canal=60
-#EXTINF:-1 group-title="Espana",Antenna 3
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=53
-#EXTINF:-1 group-title="Espana",Telecinco
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=54
-#EXTINF:-1 group-title="Espana",Neox
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=56
-#EXTINF:-1 group-title="Espana",Nova
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=57
-#EXTINF:-1 group-title="Espana",Mega
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=58
-#EXTINF:-1 group-title="Espana",Paramount
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=59
-#EXTINF:-1 group-title="Espana",Canal Liga
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1061
-#EXTINF:-1 group-title="Espana",Canal Futbol
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1062
-#EXTINF:-1 group-title="Espana",Canal+ Deportes
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1063
-#EXTINF:-1 group-title="Espana",Canal Comedia
-http://sicostopo.com/shenjo/sintonizar.m3u8?canal=1066
+#EXTINF:-1,Canal 9 Chile
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+#EXTINF:-1,TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TVN Chile
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1,Arica TV Chile
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 
 
-#EXTINF:-1 group-title="CanalesSD",.: Canales en SD :.
+#EXTINF:-1,[COLOR lime]---Venezuela---[/COLOR]
 http://?
 
-#EXTINF:-1 tvg-logo="UFC.png" group-title="CanalesSD",UFC
-http://live-1112.la2.edge.filmon.com/live/713.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe909a53e6f70c6ed3b8b5f04414b9ae2c45aed11cd345db232994e278c1de256ae9f3a9136b68618cc467a3d401dec9889ca821f46c23b6c1a737f06442f5332cacab9aeb4c788196832329313e51dff35467468b616d3b23bb2bb76fa7602254c550194b64761604d49c27db7df094c2013b568d3a5b9c319b360bf4cd75c543d09d12a69ed102953209f4c39170679e
-#EXTINF:-1 tvg-logo="Azteca Noticias.png" group-title="CanalesSD",Azteca Noticias
-http://sicostopo.com/shenjo/view.m3u8?canal=2
-#EXTINF:-1 group-title="CanalesSD",Az Click
-http://sicostopo.com/shenjo/view.m3u8?canal=725
-#EXTINF:-1 group-title="CanalesSD",HolaTV
-http://sicostopo.com/shenjo/view.m3u8?canal=219
-#EXTINF:-1 group-title="CanalesSD",FashionTV
-http://sicostopo.com/shenjo/view.m3u8?canal=220
-#EXTINF:-1 tvg-logo="azteca-7.png" group-title="CanalesSD",Azteca 7
-http://sicostopo.com/shenjo/view.m3u8?canal=7
-#EXTINF:-1  tvg-logo="canal-2-HD.png" group-title="CanalesSD",Canal de las Estrellas
-http://sicostopo.com/shenjo/view.m3u8?canal=102
-#EXTINF:-1  tvg-logo="foro-tv-HD.png" tvg-shift="-1" group-title="CanalesSD",Foro TV
-http://sicostopo.com/shenjo/view.m3u8?canal=104
-#EXTINF:-1  tvg-logo="canal-5-HD.png" group-title="CanalesSD",Canal 5 HD
-http://sicostopo.com/shenjo/view.m3u8?canal=105
-#EXTINF:-1  tvg-logo="gala-tv-hd.png" group-title="CanalesSD",Gala TV
-http://sicostopo.com/shenjo/view.m3u8?canal=109
-#EXTINF:-1  tvg-logo="once-tv.png" group-title="CanalesSD",Once TV
-http://sicostopo.com/shenjo/view.m3u8?canal=111
-#EXTINF:-1  tvg-logo="el-trece.png" group-title="CanalesSD",El Trece
-http://sicostopo.com/shenjo/view.m3u8?canal=13
-#EXTINF:-1  tvg-logo="proyecto-40.png" group-title="CanalesSD",Proyecto 40
-http://sicostopo.com/shenjo/view.m3u8?canal=40
-#EXTINF:-1  tvg-logo="cadena-3.png" group-title="CanalesSD",Cadena 3
-http://sicostopo.com/shenjo/view.m3u8?canal=143
-#EXTINF:-1  tvg-logo="teleformula.png" group-title="CanalesSD",TeleFórmula
-http://sicostopo.com/shenjo/view.m3u8?canal=161
-#EXTINF:-1 tvg-logo="multimedios-monterrey.png" tvg-shift="4" group-title="CanalesSD",Multimedios Monterrey
-http://sicostopo.com/shenjo/view.m3u8?canal=167
-#EXTINF:-1  tvg-logo="hmx.png" group-title="CanalesSD",HMX
-http://sicostopo.com/shenjo/view.m3u8?canal=169
-#EXTINF:-1  tvg-logo="sony.png" group-title="CanalesSD",Sony HD
-http://sicostopo.com/shenjo/view.m3u8?canal=203
-#EXTINF:-1  tvg-logo="warner-hd.png" group-title="CanalesSD",Warner HD
-http://sicostopo.com/shenjo/view.m3u8?canal=205
-#EXTINF:-1  tvg-logo="universal-channel.png" group-title="CanalesSD",Universal HD
-http://sicostopo.com/shenjo/view.m3u8?canal=207
-#EXTINF:-1  tvg-logo="fx-hd.png" group-title="CanalesSD",FX HD
-http://sicostopo.com/shenjo/view.m3u8?canal=209
-#EXTINF:-1  tvg-logo="axn-hd.png" group-title="CanalesSD",AXN HD
-http://sicostopo.com/shenjo/view.m3u8?canal=213
-#EXTINF:-1  tvg-logo="trutv-hd.png" group-title="CanalesSD",TruTV HD
-http://iptvcanales.com/xw/reproductortp.php?n_canal=215&view=4
-#EXTINF:-1  tvg-logo="comedy-central-hd.png" group-title="CanalesSD",Comedy Central HD
-http://sicostopo.com/shenjo/view.m3u8?canal=217
-#EXTINF:-1  tvg-logo="azteca-novelas.png" group-title="CanalesSD",Az Corazon
-http://sicostopo.com/shenjo/view.m3u8?canal=45
-#EXTINF:-1  tvg-logo="fox.png" group-title="CanalesSD",Fox HD
-http://sicostopo.com/shenjo/view.m3u8?canal=201
-#EXTINF:-1  tvg-logo="bbc-entertainment.png" group-title="CanalesSD",BBC Entertainment
-http://sicostopo.com/shenjo/view.m3u8?canal=253
-#EXTINF:-1  tvg-logo="!e.png" group-title="CanalesSD",E! Entertainment Television
-http://sicostopo.com/shenjo/view.m3u8?canal=255
-#EXTINF:-1  tvg-logo="universal-channel.png" group-title="CanalesSD",Universal Channel
-http://sicostopo.com/shenjo/view.m3u8?canal=256
-#EXTINF:-1  tvg-logo="syfy.png" group-title="CanalesSD",SyFy
-http://sicostopo.com/shenjo/view.m3u8?canal=257
-#EXTINF:-1  tvg-logo="fx.png" tvg-shift="5" group-title="CanalesSD",FX
-http://sicostopo.com/shenjo/view.m3u8?canal=258
-#EXTINF:-1  tvg-logo="A&E Latinoamerica.png" group-title="CanalesSD",A&E
-http://sicostopo.com/shenjo/view.m3u8?canal=211
-#EXTINF:-1  tvg-logo="unicable.png" group-title="CanalesSD",Unicable
-http://sicostopo.com/shenjo/view.m3u8?canal=218
-#EXTINF:-1  tvg-logo="Investigacion-Discovery.png" group-title="CanalesSD",Investigación Discovery
-http://sicostopo.com/shenjo/view.m3u8?canal=263
-#EXTINF:-1  tvg-logo="tnt-series.png" group-title="CanalesSD",TNT Series
-http://sicostopo.com/shenjo/view.m3u8?canal=266
-#EXTINF:-1  tvg-logo="el-gourmet.png" group-title="CanalesSD",El Gourmet
-http://sicostopo.com/shenjo/view.m3u8?canal=268
-#EXTINF:-1  tvg-logo="glitz.png" group-title="CanalesSD",Glitz
-http://sicostopo.com/shenjo/view.m3u8?canal=270
-#EXTINF:-1  tvg-logo="fox-life.png" group-title="CanalesSD",Fox Life
-http://sicostopo.com/shenjo/view.m3u8?canal=271
-#EXTINF:-1  tvg-logo="distrito-comedia.png" group-title="CanalesSD",Distrito Comedia
-http://sicostopo.com/shenjo/view.m3u8?canal=272
-#EXTINF:-1  tvg-logo="tbs.png" group-title="CanalesSD",TBS
-http://sicostopo.com/shenjo/view.m3u8?canal=273
-#EXTINF:-1  tvg-logo="casa-club.png" group-title="CanalesSD",Casa Club
-http://sicostopo.com/shenjo/view.m3u8?canal=274
-#EXTINF:-1  tvg-logo="tlnovelas.png" group-title="CanalesSD",Tlnovelas
-http://sicostopo.com/shenjo/view.m3u8?canal=275
-#EXTINF:-1 tvg-logo="garage-tv.png" tvg-shift="-1" group-title="CanalesSD",El Garage
-http://sicostopo.com/shenjo/view.m3u8?canal=269
-#EXTINF:-1  tvg-logo="discovery-kids.png" group-title="CanalesSD",Discovery Kids
-http://sicostopo.com/shenjo/view.m3u8?canal=303
-#EXTINF:-1  tvg-logo="cbeebies.png" group-title="CanalesSD",CBeebies
-http://sicostopo.com/shenjo/view.m3u8?canal=305
-#EXTINF:-1  tvg-logo="disney-jr.png" group-title="CanalesSD",Disney Jr
-http://sicostopo.com/shenjo/view.m3u8?canal=308
-#EXTINF:-1  tvg-logo="nick-jr.png" group-title="CanalesSD",Nick Jr
-http://sicostopo.com/shenjo/view.m3u8?canal=310
-#EXTINF:-1  tvg-logo="disney-channel.png" group-title="CanalesSD",Disney Channel
-http://sicostopo.com/shenjo/view.m3u8?canal=312
-#EXTINF:-1  tvg-logo="nick-hd.png" group-title="CanalesSD",Nick HD
-http://sicostopo.com/shenjo/view.m3u8?canal=315
-#EXTINF:-1  tvg-logo="nickelodeon-(nick).png" group-title="CanalesSD",Nickelodeon
-http://sicostopo.com/shenjo/view.m3u8?canal=317
-#EXTINF:-1  tvg-logo="nicktoons.png" group-title="CanalesSD",NickToons
-http://sicostopo.com/shenjo/view.m3u8?canal=314
-#EXTINF:-1  tvg-logo="cartoon-network.png" group-title="CanalesSD",Cartoon Network
-http://sicostopo.com/shenjo/view.m3u8?canal=320
-#EXTINF:-1  tvg-logo="disney-xd.png" group-title="CanalesSD",Disney XD
-http://sicostopo.com/shenjo/view.m3u8?canal=322
-#EXTINF:-1  tvg-logo="boomerang.png" group-title="CanalesSD",Boomerang
-http://sicostopo.com/shenjo/view.m3u8?canal=324
-#EXTINF:-1  tvg-logo="tiin.png" group-title="CanalesSD",TIIN
-http://sicostopo.com/shenjo/view.m3u8?canal=325
-#EXTINF:-1  tvg-logo="tooncast.png" group-title="CanalesSD",Tooncast
-http://sicostopo.com/shenjo/view.m3u8?canal=328
-#EXTINF:-1  tvg-logo="hd-theater.png" group-title="CanalesSD",Discovery Theater
-http://sicostopo.com/shenjo/view.m3u8?canal=351
-#EXTINF:-1  tvg-logo="history-hd.png" group-title="CanalesSD",History HD
-http://sicostopo.com/shenjo/view.m3u8?canal=353
-#EXTINF:-1  tvg-logo="natgeo-wild-hd.png" group-title="CanalesSD",NatGeo Wild HD
-http://sicostopo.com/shenjo/view.m3u8?canal=355
-#EXTINF:-1  tvg-logo="discovery-world-hd.png" group-title="CanalesSD",Discovery World
-http://sicostopo.com/shenjo/view.m3u8?canal=356
-#EXTINF:-1  tvg-logo="discovery-channel.png" group-title="CanalesSD",Discovery Channel
-http://sicostopo.com/shenjo/view.m3u8?canal=371
-#EXTINF:-1  tvg-logo="animalplanet.png" group-title="CanalesSD",Animal Planet
-http://sicostopo.com/shenjo/view.m3u8?canal=373
-#EXTINF:-1  tvg-logo="home-and-health.png" group-title="CanalesSD",Home and Health
-http://sicostopo.com/shenjo/view.m3u8?canal=374
-#EXTINF:-1  tvg-logo="natgeo.png" group-title="CanalesSD",NatGeo
-http://sicostopo.com/shenjo/view.m3u8?canal=377
-#EXTINF:-1  tvg-logo="lifetime.png" group-title="CanalesSD",Lifetime
-http://sicostopo.com/shenjo/view.m3u8?canal=379
-#EXTINF:-1  tvg-logo="discovery-science.png" group-title="CanalesSD",Discovery Science
-http://sicostopo.com/shenjo/view.m3u8?canal=381
-#EXTINF:-1  tvg-logo="discovery-civilization.png" group-title="CanalesSD",Discovery Civilization
-http://sicostopo.com/shenjo/view.m3u8?canal=382
-#EXTINF:-1  tvg-logo="discovery-turbo.png" group-title="CanalesSD",Discovery Turbo
-http://iptvcanales.com/hls/m3u8/channel6.m3u8?canal=383&sisoy=amas
-#EXTINF:-1  tvg-logo="tlc.png" group-title="CanalesSD",TLC
-http://sicostopo.com/shenjo/view.m3u8?canal=386
-#EXTINF:-1  tvg-logo="wobi-tv.png" group-title="CanalesSD",WOBI TV
-http://sicostopo.com/shenjo/view.m3u8?canal=387
-#EXTINF:-1  tvg-logo="fox-1-hd.png" group-title="CanalesSD",Fox 1 HD
-http://sicostopo.com/shenjo/view.m3u8?canal=415
-#EXTINF:-1  tvg-logo="fox-action.png" group-title="CanalesSD",Fox Action HD
-http://sicostopo.com/shenjo/view.m3u8?canal=416
-#EXTINF:-1  tvg-logo="fox-movies-HD.png" group-title="CanalesSD",Fox Movies
-http://sicostopo.com/shenjo/view.m3u8?canal=417
-#EXTINF:-1  tvg-logo="fox-cinema.png" group-title="CanalesSD",Fox Cinema
-http://sicostopo.com/shenjo/view.m3u8?canal=421
-#EXTINF:-1  tvg-logo="fox-family.png" group-title="CanalesSD",Fox Family
-http://sicostopo.com/shenjo/view.m3u8?canal=475
-#EXTINF:-1  tvg-logo="golden.png" group-title="CanalesSD",Golden HD
-http://sicostopo.com/shenjo/view.m3u8?canal=436
-#EXTINF:-1  tvg-logo="fox-classics.png" group-title="CanalesSD",Fox Classics
-http://sicostopo.com/shenjo/view.m3u8?canal=424
-#EXTINF:-1  tvg-logo="cinecanal-hd.png" group-title="CanalesSD",Cinecanal HD
-http://sicostopo.com/shenjo/view.m3u8?canal=430
-#EXTINF:-1  tvg-logo="tnt-hd.png" group-title="CanalesSD",TNT HD
-http://sicostopo.com/shenjo/view.m3u8?canal=435
-#EXTINF:-1  tvg-logo="the-film-zone-hd.png" group-title="CanalesSD",The Film Zone HD
-http://sicostopo.com/shenjo/view.m3u8?canal=440
-#EXTINF:-1  tvg-logo="de-pelicula-hd.png" group-title="CanalesSD",De Película HD
-http://sicostopo.com/shenjo/view.m3u8?canal=442
-#EXTINF:-1 group-title="CanalesSD",AZ Cinema
-http://sicostopo.com/shenjo/view.m3u8?canal=425
-#EXTINF:-1  tvg-logo="AMC.png" group-title="CanalesSD",AMC HD
-http://sicostopo.com/shenjo/view.m3u8?canal=444
-#EXTINF:-1  tvg-logo="space-hd.png" group-title="CanalesSD",Space HD
-http://sicostopo.com/shenjo/view.m3u8?canal=445
-#EXTINF:-1  tvg-logo="cinecanal-(W).png" group-title="CanalesSD",Cinecanal
-http://sicostopo.com/shenjo/view.m3u8?canal=480
-#EXTINF:-1  tvg-logo="cinemax-(w).png" group-title="CanalesSD",Cinemax
-http://sicostopo.com/shenjo/view.m3u8?canal=481
-#EXTINF:-1  tvg-logo="tnt.png" group-title="CanalesSD",TNT
-http://sicostopo.com/shenjo/view.m3u8?canal=482
-#EXTINF:-1  tvg-logo="golden-edge.png" group-title="CanalesSD",Golden Edge
-http://sicostopo.com/shenjo/view.m3u8?canal=484
-#EXTINF:-1  tvg-logo="space.png" group-title="CanalesSD",Space
-http://sicostopo.com/shenjo/view.m3u8?canal=491
-#EXTINF:-1  tvg-logo="studio-universal.png" group-title="CanalesSD",Studio Universal
-http://sicostopo.com/shenjo/view.m3u8?canal=492
-#EXTINF:-1  tvg-logo="i.sat.png" group-title="CanalesSD",I.Sat
-http://sicostopo.com/shenjo/view.m3u8?canal=495
-#EXTINF:-1  tvg-logo="tcm.png" group-title="CanalesSD",TCM
-http://sicostopo.com/shenjo/view.m3u8?canal=496
-#EXTINF:-1  tvg-logo="fox-sports-hd.png" group-title="CanalesSD",Fox Sports HD
-http://sicostopo.com/shenjo/view.m3u8?canal=522
-#EXTINF:-1  tvg-logo="fox-sports-2-hd.png" group-title="CanalesSD",Fox Sports 2 HD
-http://sicostopo.com/shenjo/view.m3u8?canal=527
-#EXTINF:-1  tvg-logo="espn-hd.png" group-title="CanalesSD",ESPN HD
-http://sicostopo.com/shenjo/view.m3u8?canal=516
-#EXTINF:-1  tvg-logo="espn.png" group-title="CanalesSD",ESPN
-http://sicostopo.com/shenjo/view.m3u8?canal=558
-#EXTINF:-1  tvg-logo="espn-2.png" group-title="CanalesSD",ESPN 2
-http://sicostopo.com/shenjo/view.m3u8?canal=561
-#EXTINF:-1  tvg-logo="espn-3-hd.png" group-title="CanalesSD",ESPN 3 HD
-http://sicostopo.com/shenjo/view.m3u8?canal=520
-#EXTINF:-1  tvg-logo="aym-sports.png" group-title="CanalesSD",AyM Sports
-http://sicostopo.com/shenjo/view.m3u8?canal=576
-#EXTINF:-1  tvg-logo="milenio-tv.png" group-title="CanalesSD",Milenio TV
-http://sicostopo.com/shenjo/view.m3u8?canal=603
-#EXTINF:-1  tvg-logo="bloomberg.png" group-title="CanalesSD",Bloomberg
-http://sicostopo.com/shenjo/view.m3u8?canal=610
-#EXTINF:-1  tvg-logo="tve.png" group-title="CanalesSD",TVE
-http://sicostopo.com/shenjo/view.m3u8?canal=651
-#EXTINF:-1  tvg-logo="mtv-live-hd.png" group-title="CanalesSD",MTV Live HD
-http://sicostopo.com/shenjo/view.m3u8?canal=701
-#EXTINF:-1  tvg-logo="telehit-hd.png" group-title="CanalesSD",Telehit HD
-http://sicostopo.com/shenjo/view.m3u8?canal=702
-#EXTINF:-1  tvg-logo="vh1-hd.png" group-title="CanalesSD",VH1 HD
-http://sicostopo.com/shenjo/view.m3u8?canal=703
-#EXTINF:-1  tvg-logo="mtv.png" group-title="CanalesSD",MTV
-http://sicostopo.com/shenjo/view.m3u8?canal=726
-#EXTINF:-1  tvg-logo="mtv-hits.png" group-title="CanalesSD",MTV Hits
-http://sicostopo.com/shenjo/view.m3u8?canal=727
-#EXTINF:-1  tvg-logo="vh1-classisc.png" group-title="CanalesSD",VH1 Classic
-http://sicostopo.com/shenjo/view.m3u8?canal=728
-#EXTINF:-1  tvg-logo="ritmoson-latino.png" group-title="CanalesSD",Ritmoson Latino
-http://sicostopo.com/shenjo/view.m3u8?canal=731
-#EXTINF:-1  tvg-logo="bandamax.png" group-title="CanalesSD",Bandamax
-http://sicostopo.com/shenjo/view.m3u8?canal=732
+#EXTINF:-1,Anzoategui TV Venezuela
+rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
+#EXTINF:-1,Canal 11 Venezuela
+rtmp://edge.wms28.lorini.net/canalonce/canalonce
+#EXTINF:-1,Sulavision Venezuela
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,TRT Venezuela
+rtmp://edge.wms28.lorini.net/trttv/trttv
+#EXTINF:-1,TVO Canal 23 Venezuela
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal i  Venezuela
+rtmp://edge.wms28.lorini.net/canal-i/canal-i
+#EXTINF:-1,Vale TV  Venezuela
+rtmp://edge.wms28.lorini.net/valetv/valetv
+#EXTINF:-1,Telecaribe Venezuela
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:0 tvg-name="Globovision" tvg-language="Spanish" tvg-country="VE" tvg-id="Globovision" tvg-logo="http://cdn.globovision.com/wp-content/uploads/2014/05/LogoHead2.png" group-title="News",Globovision (News) (VE) (Spanish)
+http://edge.wms28.lorini.net/globovisiontv/globovisiontv/hasbahca.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---TV Globo---[/COLOR]
+http://?
+#EXTINF:0 tvg-name="Globo TV" tvg-language="Spanish" tvg-country="HN" tvg-id="Globo TV" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="News",Globo TV (News) (HN) (Spanish)
+http://162.212.176.83:8080/globotv.m3u8
+
+
+#EXTINF:-1 group-title="VARIEDADES", Globo
+http://art.nextv.ca:80/nextv/globo/index.m3u8
+
+#EXTINF:-1,[COLOR lime]---Rep. Dominicana---[/COLOR]
+http://?
+
+#EXTINF:-1,Tele Antillas  Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1,Telessistema  Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,ANTENA LATINA Rep. Dominicana
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1,Telesitemas 11 Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1,Teleantillas 2 HD Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1,Antena Latina Rep. Dominicana
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1,Musavision Rep. Dominicana
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
+#EXTINF:-1,TeleNord Rep. Dominicana
+rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf 
+#EXTINF:-1,CDN 37 Rep. Dominicana
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---Bolivia---[/COLOR]
+http://?
+
+#EXTINF:-1,Red PAT Bolivia
+http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---Colombia---[/COLOR]
+http://?
+
+#EXTINF:-1,Canal Capital Colombia
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1,Canal U Colombia
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Teleamiga Colombia
+http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
+#EXTINF:0 tvg-name="Canal 5 Linares" tvg-language="Spanish" tvg-country="CL" tvg-id="Canal 5 Linares" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal5_linares_cl.png" group-title="News",Canal 5 Linares (News) (CL) (Spanish)
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8
+#EXTINF:0 tvg-name="La Red TV" tvg-language="Spanish" tvg-country="CL" tvg-id="La Red TV" tvg-logo="http://www.redescena.net/imagenes/interfaz/logo_laRedNew.gif" group-title="News",La Red TV (News) (CL) (Spanish)
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---Costa Rica---[/COLOR]
+http://?
+
+#EXTINF:-1,SINART Canal Trece Costa Rica
+http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
+#EXTINF:-1,SMO TV Costa Rica
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:-1,Colosal TV Costa Rica
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+#EXTINF:-1,Tv UNO Costa Rica
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,TV Costa Rica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+#EXTINF:-1,Extra TV Canal 42 Costa Rica
+http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
+#EXTINF:-1,CB24 Noticias Costa Rica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="CB24" tvg-language="Spanish" tvg-country="CR" tvg-id="CB24" tvg-logo="http://cb24.tv/wp-content/uploads/2012/12/logo-slogan.png" group-title="News",CB24 (News) (CR) (Spanish)
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---Ecuador---[/COLOR]
+http://?
+
+#EXTINF:-1,Ecuavisa Ecuador
+rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 
+#EXTINF:-1,TVS Ecuador
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
+#EXTINF:-1,UCSG TV Ecuador
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:-1,Digital TV Canal 28 Macas Ecuador
+http://enhd.co:1935/9208/9208/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---El Salvador---[/COLOR]
+http://?
+
+#EXTINF:-1,Megavision Canal 21 El Salvador
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 33 El Salvador
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,TRV El Salvador
+http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---Guatemala---[/COLOR]
+http://?
+
+#EXTINF:-1,TV Maya Guatemala
+http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Campus TV Guatemala
+http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---Honduras---[/COLOR]
+http://?
+
+#EXTINF:-1,Teleceiba Honduras
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1,Teleprogreso Honduras
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1,Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:0 tvg-name="Canal 6 Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="Canal 6 Honduras" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW7djE3eCexs176vO5QdX4LCZ5Ng_9_kdAroZmOD1J83uwzDeCgvqMf3k" group-title="News",Canal 6 Honduras (News) (HN) (Spanish)
+http://streannlive-lh.akamaihd.net/i/canal6hn_1@55840/master.m3u8?customtoken=ea432828-a248-4f8e-9c80-caf7d9ff5f32&hdnts=exp=1457567833~acl=/*~hmac=0a2979d45945d5c84ea32909ccae9a50f1d5857c18bebd99e243973929684959&AkamaiAnalytics_debug=1
+#EXTINF:0 tvg-name="HCH Honduras" tvg-language="Spanish" tvg-country="HN" tvg-id="HCH Honduras" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/03/Watch-HCH-Hable-Como-Hable-Live-TV-from-Honduras.jpg" group-title="News",HCH Honduras (News) (HN) (Spanish)
+http://162.212.176.83:8080/hchtv.m3u8
+#EXTINF:0 tvg-name="Maya Tv" tvg-language="Spanish" tvg-country="HN" tvg-id="Maya Tv" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/maya_tv.jpg" group-title="News",Maya Tv (News) (HN) (Spanish)
+http://162.212.176.83:8080/mayatv.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---Nicaragua---[/COLOR]
+http://?
+
+#EXTINF:-1,Canal 2 Nicaragua
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1,Viva Nicaragua Canal 13
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---Panama---[/COLOR]
+http://?
+
+#EXTINF:-1,Telemetro Panama
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+#EXTINF:-1,RPC Panama
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1,SER TV Panama
+rtmp://216.224.177.132/live/sertv
+#EXTINF:0 tvg-name="ECO TV" tvg-language="Spanish" tvg-country="PA" tvg-id="ECO TV" tvg-logo="https://i.imgur.com/46l971T.jpg" group-title="News",ECO TV (News) (PA) (Spanish)
+http://live.ecotvpanama.com/ecotv/media.smil/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR lime]---Paraguay---[/COLOR]
+http://?
+
+#EXTINF:-1,Telefuturo Paraguay
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal 13 Paraguay
+rtmp://70.36.100.38:1935/live playpath=canal13_hq.stream swfUrl=http://www.rpc.com.py/swf/player_web04.swf 
+#EXTINF:-1,Intercable Canal 10 Paraguay
+rtmp://67.159.60.37/intercable playpath=intercable  swfUrl=http://www.desdeparaguay.com/images/dsdpy-play-2.swf?
+
+#EXTINF:-1,[COLOR lime]---Peru---[/COLOR]
+http://?
+
+#EXTINF:-1,Capital TV Peru
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:-1,UCV Satelital Peru
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:-1,Canal 4 Arequipa Peru
+http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,RBC Peru
+http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
+
+#EXTINF:-1,[COLOR lime]---ESPAIN---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Antena 3 Internacional  Espana
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Antena 3 Espana
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,EXTREMADURA TV  Espana
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,ANDALUCIA TV  Espana
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,A3S  Espana
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1,La Sexta  Espana
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Mega Espana
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Nova Espana
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:-1,24Horas Espana
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,Mediterraneo TV Espana
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:0 tvg-name="Canal Extremadura" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal Extremadura" tvg-logo="http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg" group-title="News",Canal Extremadura (News) (ES) (Spanish)
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:0 tvg-name="DW" tvg-language="Spanish" tvg-country="ES" tvg-id="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW (News) (ES) (Spanish)
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0 tvg-name="Lancelot TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Lancelot TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRONX6V4oteOIE8_uC0MqaShyw5-6ZP92XLlT5khwIvRQMDB1zpKxrQ9Mc" group-title="News",Lancelot TV (News) (ES) (Spanish)
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:0 tvg-name="Michoacan al Dia" tvg-language="Spanish" tvg-country="MX" tvg-id="Michoacan al Dia" tvg-logo="http://i.imgur.com/g9hUhNv.jpg" group-title="News",Michoacan al Dia (News) (MX) (Spanish)
+rtmp://video7.stream.mx:1935/8016/8016
+
+
+
+#EXTINF:-1,[COLOR lime]---DEPORTES---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/rmtv.png",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg",Real Madrid TV 2
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1,BeIN SporTS
+http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI FR beIN Sports" tvg-name="FR beIN Sports 3" tvg-logo="Bein Sports 3 Francia" group-title="DEPORTES",Bein Sports 3 Francia
+
+http://evolive-tv.com:8000/live/genio/genio/67.m3u8
+
+#EXTINF:-1,Bein HD
+http://iptvbox.noip.us:9998/live/atik/atik/726.m3u8
+
+#EXTINF:-1,Canal Futbol 
+http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
+#EXTINF:-1,Canal Futbol 2
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+
+#EXTINF:-1,Canal  Liga
+http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png",COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png",COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+
+#EXTINF:-1,FOX Sports 2
+http://iptvbox.noip.us:9998/live/atik/atik/1385.m3u8
+
+#EXTINF:-1 tvg-logo="NBA TV .png",NBA TV 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1,NBA TV
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
+
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
+#EXTINF:-1, Redbull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Combate" group-title="DEPORTES",Combate
+
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png",COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1258504332/COS_LOGO_400x400.png",COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+
+#EXTINF:-1,CDN SPORTS MAX
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,360 DEPORTES
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,NBC GOLF 1080p
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,CDN SportsMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein Sports 3 Francia
+http://evolive-tv.com:8000/live/genio/genio/67.m3u8
+#EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 1HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 2HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
