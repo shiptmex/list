@@ -915,3 +915,232 @@ http://sicostopo.com/wailytj03/view.m3u8?canal=731&profile=5
 #EXTINF:-1  tvg-logo="bandamax.png" group-title="HD_Opcion2",Bandamax
 http://sicostopo.com/wailytj03/view.m3u8?canal=732&profile=5
 
+
+
+#EXTINF:-1 tvg-logo="Azteca Noticias.png" group-title="SD",Azteca Noticias
+http://sicostopo.com/asobeco2000/view.m3u8?canal=2
+#EXTINF:-1 group-title="SD",Az Click
+http://sicostopo.com/asobeco2000/view.m3u8?canal=725
+#EXTINF:-1 group-title="SD",HolaTV
+http://sicostopo.com/asobeco2000/view.m3u8?canal=219
+#EXTINF:-1 group-title="SD",FashionTV
+http://sicostopo.com/asobeco2000/view.m3u8?canal=220
+#EXTINF:-1 group-title="SD",Trendy
+http://sicostopo.com/asobeco2000/view.m3u8?canal=279
+#EXTINF:-1 group-title="SD",Sexuality Health Entertainment
+http://sicostopo.com/asobeco2000/view.m3u8?canal=1978
+#EXTINF:-1 group-title="SD",MasChic
+http://sicostopo.com/asobeco2000/view.m3u8?canal=107
+#EXTINF:-1 tvg-logo="azteca-7.png" group-title="SD",Azteca 7
+http://sicostopo.com/asobeco2000/view.m3u8?canal=7
+#EXTINF:-1  tvg-logo="canal-2-HD.png" group-title="SD",Canal de las Estrellas
+http://sicostopo.com/asobeco2000/view.m3u8?canal=102
+#EXTINF:-1  tvg-logo="foro-tv-HD.png" tvg-shift="-1" group-title="SD",Foro TV
+http://sicostopo.com/asobeco2000/view.m3u8?canal=104
+#EXTINF:-1  tvg-logo="canal-5-HD.png" group-title="SD",Canal 5 HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=105
+#EXTINF:-1  tvg-logo="gala-tv-hd.png" group-title="SD",Gala TV
+http://sicostopo.com/asobeco2000/view.m3u8?canal=109
+#EXTINF:-1  tvg-logo="once-tv.png" group-title="SD",Once TV
+http://sicostopo.com/asobeco2000/view.m3u8?canal=111
+#EXTINF:-1  tvg-logo="el-trece.png" group-title="SD",El Trece
+http://sicostopo.com/asobeco2000/view.m3u8?canal=13
+#EXTINF:-1  tvg-logo="proyecto-40.png" group-title="SD",Proyecto 40
+http://sicostopo.com/asobeco2000/view.m3u8?canal=40
+#EXTINF:-1  tvg-logo="cadena-3.png" group-title="SD",Cadena 3
+http://sicostopo.com/asobeco2000/view.m3u8?canal=143
+#EXTINF:-1  tvg-logo="teleformula.png" group-title="SD",TeleFórmula
+http://sicostopo.com/asobeco2000/view.m3u8?canal=161
+#EXTINF:-1 tvg-logo="multimedios-monterrey.png" tvg-shift="4" group-title="SD",Multimedios Monterrey
+http://sicostopo.com/asobeco2000/view.m3u8?canal=167
+#EXTINF:-1  tvg-logo="hmx.png" group-title="SD",HMX
+http://sicostopo.com/asobeco2000/view.m3u8?canal=169
+#EXTINF:-1  tvg-logo="sony.png" group-title="SD",Sony HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=203
+#EXTINF:-1  tvg-logo="warner-hd.png" group-title="SD",Warner HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=205
+#EXTINF:-1  tvg-logo="universal-channel.png" group-title="SD",Universal HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=207
+#EXTINF:-1  tvg-logo="fx-hd.png" group-title="SD",FX HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=209
+#EXTINF:-1  tvg-logo="axn-hd.png" group-title="SD",AXN HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=213
+#EXTINF:-1  tvg-logo="trutv-hd.png" group-title="SD",TruTV HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=215
+#EXTINF:-1  tvg-logo="comedy-central-hd.png" group-title="SD",Comedy Central HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=217
+#EXTINF:-1  tvg-logo="azteca-novelas.png" group-title="SD",Az Corazon
+http://sicostopo.com/asobeco2000/view.m3u8?canal=45
+#EXTINF:-1  tvg-logo="fox.png" group-title="SD",Fox HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=201
+#EXTINF:-1  tvg-logo="bbc-entertainment.png" group-title="SD",BBC Entertainment
+http://sicostopo.com/asobeco2000/view.m3u8?canal=253
+#EXTINF:-1  tvg-logo="!e.png" group-title="SD",E! Entertainment Television
+http://sicostopo.com/asobeco2000/view.m3u8?canal=255
+#EXTINF:-1  tvg-logo="universal-channel.png" group-title="SD",Universal Channel
+http://sicostopo.com/asobeco2000/view.m3u8?canal=256
+#EXTINF:-1  tvg-logo="syfy.png" group-title="SD",SyFy
+http://sicostopo.com/asobeco2000/view.m3u8?canal=257
+#EXTINF:-1  tvg-logo="fx.png" tvg-shift="5" group-title="SD",FX
+http://sicostopo.com/asobeco2000/view.m3u8?canal=258
+#EXTINF:-1  tvg-logo="A&E Latinoamerica.png" group-title="SD",A&E
+http://sicostopo.com/asobeco2000/view.m3u8?canal=211
+#EXTINF:-1  tvg-logo="unicable.png" group-title="SD",Unicable
+http://sicostopo.com/asobeco2000/view.m3u8?canal=218
+#EXTINF:-1  tvg-logo="Investigacion-Discovery.png" group-title="SD",Investigación Discovery
+http://sicostopo.com/asobeco2000/view.m3u8?canal=263
+#EXTINF:-1  tvg-logo="tnt-series.png" group-title="SD",TNT Series
+http://sicostopo.com/asobeco2000/view.m3u8?canal=266
+#EXTINF:-1  tvg-logo="el-gourmet.png" group-title="SD",El Gourmet
+http://sicostopo.com/asobeco2000/view.m3u8?canal=268
+#EXTINF:-1  tvg-logo="glitz.png" group-title="SD",Glitz
+http://sicostopo.com/asobeco2000/view.m3u8?canal=270
+#EXTINF:-1  tvg-logo="fox-life.png" group-title="SD",Fox Life
+http://sicostopo.com/asobeco2000/view.m3u8?canal=271
+#EXTINF:-1  tvg-logo="distrito-comedia.png" group-title="SD",Distrito Comedia
+http://sicostopo.com/asobeco2000/view.m3u8?canal=272
+#EXTINF:-1  tvg-logo="tbs.png" group-title="SD",TBS
+http://sicostopo.com/asobeco2000/view.m3u8?canal=273
+#EXTINF:-1  tvg-logo="casa-club.png" group-title="SD",Casa Club
+http://sicostopo.com/asobeco2000/view.m3u8?canal=274
+#EXTINF:-1  tvg-logo="tlnovelas.png" group-title="SD",Tlnovelas
+http://sicostopo.com/asobeco2000/view.m3u8?canal=275
+#EXTINF:-1 tvg-logo="garage-tv.png" tvg-shift="-1" group-title="SD",El Garage
+http://sicostopo.com/asobeco2000/view.m3u8?canal=269
+#EXTINF:-1  tvg-logo="discovery-kids.png" group-title="SD",Discovery Kids
+http://sicostopo.com/asobeco2000/view.m3u8?canal=303
+#EXTINF:-1  tvg-logo="cbeebies.png" group-title="SD",CBeebies
+http://sicostopo.com/asobeco2000/view.m3u8?canal=305
+#EXTINF:-1  tvg-logo="disney-jr.png" group-title="SD",Disney Jr
+http://sicostopo.com/asobeco2000/view.m3u8?canal=308
+#EXTINF:-1  tvg-logo="nick-jr.png" group-title="SD",Nick Jr
+http://sicostopo.com/asobeco2000/view.m3u8?canal=310
+#EXTINF:-1  tvg-logo="disney-channel.png" group-title="SD",Disney Channel
+http://sicostopo.com/asobeco2000/view.m3u8?canal=312
+#EXTINF:-1  tvg-logo="nick-hd.png" group-title="SD",Nick HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=315
+#EXTINF:-1  tvg-logo="nickelodeon-(nick).png" group-title="SD",Nickelodeon
+http://sicostopo.com/asobeco2000/view.m3u8?canal=317
+#EXTINF:-1  tvg-logo="nicktoons.png" group-title="SD",NickToons
+http://sicostopo.com/asobeco2000/view.m3u8?canal=314
+#EXTINF:-1  tvg-logo="cartoon-network.png" group-title="SD",Cartoon Network
+http://sicostopo.com/asobeco2000/view.m3u8?canal=320
+#EXTINF:-1  tvg-logo="disney-xd.png" group-title="SD",Disney XD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=322
+#EXTINF:-1  tvg-logo="boomerang.png" group-title="SD",Boomerang
+http://sicostopo.com/asobeco2000/view.m3u8?canal=324
+#EXTINF:-1  tvg-logo="tiin.png" group-title="SD",TIIN
+http://sicostopo.com/asobeco2000/view.m3u8?canal=325
+#EXTINF:-1  tvg-logo="tooncast.png" group-title="SD",Tooncast
+http://sicostopo.com/asobeco2000/view.m3u8?canal=328
+#EXTINF:-1  tvg-logo="hd-theater.png" group-title="SD",Discovery Theater
+http://sicostopo.com/asobeco2000/view.m3u8?canal=351
+#EXTINF:-1  tvg-logo="history-hd.png" group-title="SD",History HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=353
+#EXTINF:-1  tvg-logo="natgeo-wild-hd.png" group-title="SD",NatGeo Wild HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=355
+#EXTINF:-1  tvg-logo="discovery-world-hd.png" group-title="SD",Discovery World
+http://sicostopo.com/asobeco2000/view.m3u8?canal=356
+#EXTINF:-1  tvg-logo="discovery-channel.png" group-title="SD",Discovery Channel
+http://sicostopo.com/asobeco2000/view.m3u8?canal=371
+#EXTINF:-1  tvg-logo="animalplanet.png" group-title="SD",Animal Planet
+http://sicostopo.com/asobeco2000/view.m3u8?canal=373
+#EXTINF:-1  tvg-logo="home-and-health.png" group-title="SD",Home and Health
+http://sicostopo.com/asobeco2000/view.m3u8?canal=374
+#EXTINF:-1  tvg-logo="natgeo.png" group-title="SD",NatGeo
+http://sicostopo.com/asobeco2000/view.m3u8?canal=377
+#EXTINF:-1  tvg-logo="lifetime.png" group-title="SD",Lifetime
+http://sicostopo.com/asobeco2000/view.m3u8?canal=379
+#EXTINF:-1  tvg-logo="discovery-science.png" group-title="SD",Discovery Science
+http://sicostopo.com/asobeco2000/view.m3u8?canal=381
+#EXTINF:-1  tvg-logo="discovery-civilization.png" group-title="SD",Discovery Civilization
+http://sicostopo.com/asobeco2000/view.m3u8?canal=382
+#EXTINF:-1  tvg-logo="discovery-turbo.png" group-title="SD",Discovery Turbo
+http://sicostopo.com/asobeco2000/view.m3u8?canal=383
+#EXTINF:-1  tvg-logo="tlc.png" group-title="SD",TLC
+http://sicostopo.com/asobeco2000/view.m3u8?canal=386
+#EXTINF:-1  tvg-logo="wobi-tv.png" group-title="SD",WOBI TV
+http://sicostopo.com/asobeco2000/view.m3u8?canal=387
+#EXTINF:-1  tvg-logo="fox-1-hd.png" group-title="SD",Fox 1 HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=415
+#EXTINF:-1  tvg-logo="fox-action.png" group-title="SD",Fox Action HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=416
+#EXTINF:-1  tvg-logo="fox-movies-HD.png" group-title="SD",Fox Movies
+http://sicostopo.com/asobeco2000/view.m3u8?canal=417
+#EXTINF:-1  tvg-logo="fox-cinema.png" group-title="SD",Fox Cinema
+http://sicostopo.com/asobeco2000/view.m3u8?canal=421
+#EXTINF:-1  tvg-logo="fox-family.png" group-title="SD",Fox Family
+http://sicostopo.com/asobeco2000/view.m3u8?canal=475
+#EXTINF:-1  tvg-logo="golden.png" group-title="SD",Golden HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=436
+#EXTINF:-1  tvg-logo="fox-classics.png" group-title="SD",Fox Classics
+http://sicostopo.com/asobeco2000/view.m3u8?canal=424
+#EXTINF:-1  tvg-logo="cinecanal-hd.png" group-title="SD",Cinecanal HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=430
+#EXTINF:-1  tvg-logo="tnt-hd.png" group-title="SD",TNT HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=435
+#EXTINF:-1  tvg-logo="the-film-zone-hd.png" group-title="SD",The Film Zone HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=440
+#EXTINF:-1  tvg-logo="de-pelicula-hd.png" group-title="SD",De Película HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=442
+#EXTINF:-1 group-title="SD",AZ Cinema
+http://sicostopo.com/asobeco2000/view.m3u8?canal=425
+#EXTINF:-1  tvg-logo="AMC.png" group-title="SD",AMC HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=444
+#EXTINF:-1  tvg-logo="space-hd.png" group-title="SD",Space HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=445
+#EXTINF:-1  tvg-logo="cinecanal-(W).png" group-title="SD",Cinecanal
+http://sicostopo.com/asobeco2000/view.m3u8?canal=480
+#EXTINF:-1  tvg-logo="cinemax-(w).png" group-title="SD",Cinemax
+http://sicostopo.com/asobeco2000/view.m3u8?canal=481
+#EXTINF:-1  tvg-logo="tnt.png" group-title="SD",TNT
+http://sicostopo.com/asobeco2000/view.m3u8?canal=482
+#EXTINF:-1  tvg-logo="golden-edge.png" group-title="SD",Golden Edge
+http://sicostopo.com/asobeco2000/view.m3u8?canal=484
+#EXTINF:-1  tvg-logo="space.png" group-title="SD",Space
+http://sicostopo.com/asobeco2000/view.m3u8?canal=491
+#EXTINF:-1  tvg-logo="studio-universal.png" group-title="SD",Studio Universal
+http://sicostopo.com/asobeco2000/view.m3u8?canal=492
+#EXTINF:-1  tvg-logo="i.sat.png" group-title="SD",I.Sat
+http://sicostopo.com/asobeco2000/view.m3u8?canal=495
+#EXTINF:-1  tvg-logo="tcm.png" group-title="SD",TCM
+http://sicostopo.com/asobeco2000/view.m3u8?canal=496
+#EXTINF:-1  group-title="SD",Formula 1
+http://sicostopo.com/asobeco2000/view.m3u8?canal=511
+#EXTINF:-1  tvg-logo="fox-sports-hd.png" group-title="SD",Fox Sports HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=522
+#EXTINF:-1  tvg-logo="fox-sports-2-hd.png" group-title="SD",Fox Sports 2 HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=527
+#EXTINF:-1  tvg-logo="espn-hd.png" group-title="SD",ESPN HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=516
+#EXTINF:-1  tvg-logo="espn.png" group-title="SD",ESPN
+http://sicostopo.com/asobeco2000/view.m3u8?canal=558
+#EXTINF:-1  tvg-logo="espn-2.png" group-title="SD",ESPN 2
+http://sicostopo.com/asobeco2000/view.m3u8?canal=561
+#EXTINF:-1  tvg-logo="espn-3-hd.png" group-title="SD",ESPN 3 HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=520
+#EXTINF:-1  tvg-logo="aym-sports.png" group-title="SD",AyM Sports
+http://sicostopo.com/asobeco2000/view.m3u8?canal=576
+#EXTINF:-1  tvg-logo="milenio-tv.png" group-title="SD",Milenio TV
+http://sicostopo.com/asobeco2000/view.m3u8?canal=603
+#EXTINF:-1  tvg-logo="bloomberg.png" group-title="SD",Bloomberg
+http://sicostopo.com/asobeco2000/view.m3u8?canal=610
+#EXTINF:-1  tvg-logo="tve.png" group-title="SD",TVE
+http://sicostopo.com/asobeco2000/view.m3u8?canal=651
+#EXTINF:-1  tvg-logo="mtv-live-hd.png" group-title="SD",MTV Live HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=701
+#EXTINF:-1  tvg-logo="telehit-hd.png" group-title="SD",Telehit HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=702
+#EXTINF:-1  tvg-logo="vh1-hd.png" group-title="SD",VH1 HD
+http://sicostopo.com/asobeco2000/view.m3u8?canal=703
+#EXTINF:-1  tvg-logo="mtv.png" group-title="SD",MTV
+http://sicostopo.com/asobeco2000/view.m3u8?canal=726
+#EXTINF:-1  tvg-logo="mtv-hits.png" group-title="SD",MTV Hits
+http://sicostopo.com/asobeco2000/view.m3u8?canal=727
+#EXTINF:-1  tvg-logo="vh1-classisc.png" group-title="SD",VH1 Classic
+http://sicostopo.com/asobeco2000/view.m3u8?canal=728
+#EXTINF:-1  tvg-logo="ritmoson-latino.png" group-title="SD",Ritmoson Latino
+http://sicostopo.com/asobeco2000/view.m3u8?canal=731
+#EXTINF:-1  tvg-logo="bandamax.png" group-title="SD",Bandamax
+http://sicostopo.com/asobeco2000/view.m3u8?canal=732
+
